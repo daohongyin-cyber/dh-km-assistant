@@ -4,33 +4,25 @@
       <stop stop-color="#FBE6E2"/>
       <stop offset="1" stop-color="#F7D7D0"/>
     </linearGradient>
-    <linearGradient id="mainFill" x1="206" y1="148" x2="808" y2="900" gradientUnits="userSpaceOnUse">
+    <linearGradient id="mainFill" x1="176" y1="118" x2="860" y2="930" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F06F5F"/>
       <stop offset="1" stop-color="#DC4A3D"/>
     </linearGradient>
   </defs>
 
   <rect width="1024" height="1024" rx="88" fill="url(#appBg)"/>
+  <rect x="62" y="42" width="900" height="920" rx="170" fill="url(#mainFill)"/>
 
-  <rect x="130" y="98" width="764" height="828" rx="146" fill="url(#mainFill)"/>
-
-  <rect x="242" y="222" width="540" height="118" rx="30" fill="#FCE7E2"/>
+  <rect x="214" y="212" width="596" height="124" rx="30" fill="#FCE7E2"/>
+  <rect x="214" y="356" width="176" height="452" rx="56" fill="#FCE7E2"/>
   <path
-    d="M242 398C242 374 262 354 286 354H366C424 354 472 402 472 460V642C472 700 424 748 366 748H286C262 748 242 728 242 704V398Z"
+    d="M586 350H734C758 350 778 370 778 394V590C778 614 758 634 734 634H696C660 634 632 648 610 674L560 740C546 760 524 772 500 772H448C424 772 404 752 404 728V548C404 492 420 446 454 412C488 380 532 350 586 350Z"
     fill="#FCE7E2"
-  />
-  <path
-    d="M578 354H742C766 354 786 374 786 398V594C786 618 766 638 742 638H700C664 638 632 656 608 690L554 766C548 775 538 780 526 780H452C428 780 408 760 408 736V536C408 435 489 354 578 354Z"
-    fill="#FCE7E2"
-  />
-  <path
-    d="M408 354H554C581 354 604 377 604 404V450C604 477 581 500 554 500H522C487 500 458 529 458 564V648C458 702 414 746 360 746H286C262 746 242 726 242 702V462C242 402 291 354 351 354H408Z"
-    fill="url(#mainFill)"
   />
 
   <text
     x="512"
-    y="526"
+    y="498"
     fill="#FFF6F2"
     font-family="Arial, Helvetica, sans-serif"
     font-size="112"
