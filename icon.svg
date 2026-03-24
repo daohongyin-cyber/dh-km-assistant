@@ -1,32 +1,41 @@
 <svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="iconFill" x1="170" y1="120" x2="854" y2="904" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F27A68"/>
-      <stop offset="1" stop-color="#D94A3F"/>
+    <linearGradient id="appBg" x1="64" y1="48" x2="960" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBE6E2"/>
+      <stop offset="1" stop-color="#F7D7D0"/>
+    </linearGradient>
+    <linearGradient id="mainFill" x1="206" y1="148" x2="808" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F06F5F"/>
+      <stop offset="1" stop-color="#DC4A3D"/>
     </linearGradient>
   </defs>
 
-  <rect x="120" y="100" width="784" height="824" rx="152" fill="url(#iconFill)"/>
+  <rect width="1024" height="1024" rx="88" fill="url(#appBg)"/>
 
-  <rect x="250" y="220" width="524" height="112" rx="28" fill="#FFF5F2"/>
-  <rect x="250" y="365" width="156" height="320" rx="58" fill="#FFF5F2"/>
-  <rect x="618" y="365" width="156" height="196" rx="58" fill="#FFF5F2"/>
+  <rect x="130" y="98" width="764" height="828" rx="146" fill="url(#mainFill)"/>
+
+  <rect x="242" y="222" width="540" height="118" rx="30" fill="#FCE7E2"/>
   <path
-    d="M508 486H632C707 486 764 543 764 618V653C764 728 707 785 632 785H500C456 785 420 749 420 705V620C420 546 456 486 508 486Z"
-    fill="#FFF5F2"
+    d="M242 398C242 374 262 354 286 354H366C424 354 472 402 472 460V642C472 700 424 748 366 748H286C262 748 242 728 242 704V398Z"
+    fill="#FCE7E2"
   />
   <path
-    d="M432 366H590C626 366 656 396 656 432V458C656 494 626 524 590 524H550C508 524 474 558 474 600V712C474 752 442 785 402 785H384C344 785 312 752 312 712V486C312 419 365 366 432 366Z"
-    fill="url(#iconFill)"
+    d="M578 354H742C766 354 786 374 786 398V594C786 618 766 638 742 638H700C664 638 632 656 608 690L554 766C548 775 538 780 526 780H452C428 780 408 760 408 736V536C408 435 489 354 578 354Z"
+    fill="#FCE7E2"
+  />
+  <path
+    d="M408 354H554C581 354 604 377 604 404V450C604 477 581 500 554 500H522C487 500 458 529 458 564V648C458 702 414 746 360 746H286C262 746 242 726 242 702V462C242 402 291 354 351 354H408Z"
+    fill="url(#mainFill)"
   />
 
   <text
     x="512"
-    y="528"
-    fill="#FFF5F2"
+    y="526"
+    fill="#FFF6F2"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="102"
+    font-size="112"
     font-weight="700"
     text-anchor="middle"
+    dominant-baseline="middle"
   >km</text>
 </svg>
