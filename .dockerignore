@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pid
+briefing-cache.json
+mobile-info.txt
+mobile-url.txt
+mobile-qr.png
+mobile-qr-direct.png
+public-url.txt
+public-qr.png
+public-tunnel.log
+public-tunnel.pid
+cloudflared.exe
