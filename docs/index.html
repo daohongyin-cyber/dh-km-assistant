@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DH KM 助理入口</title>
+    <style>
+      :root {
+        --bg: #3d0a1b;
+        --card: rgba(255, 248, 244, 0.98);
+        --text: #241418;
+        --muted: #73545d;
+        --accent: #8c233d;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 20px;
+        background:
+          radial-gradient(circle at top, rgba(255, 220, 208, 0.12), transparent 30%),
+          linear-gradient(180deg, #5f102a 0%, var(--bg) 55%, #22040f 100%);
+        color: var(--text);
+        font-family: "Source Han Serif SC", "Songti SC", "STSong", "Noto Serif SC", serif;
+      }
+      .card {
+        width: min(100%, 420px);
+        padding: 26px 22px;
+        border-radius: 24px;
+        background: var(--card);
+        box-shadow: 0 24px 60px rgba(14, 4, 8, 0.24);
+      }
+      h1 {
+        margin: 0 0 10px;
+        font-size: 30px;
+        line-height: 1.2;
+      }
+      p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 16px;
+        line-height: 1.7;
+      }
+      .status {
+        margin-top: 16px;
+        font-size: 15px;
+      }
+      .button {
+        display: inline-block;
+        margin-top: 18px;
+        padding: 14px 18px;
+        border-radius: 16px;
+        background: linear-gradient(135deg, #7e1734, #b43a59);
+        color: #fff;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <h1>DH KM 助理</h1>
+      <p>正在为你连接今天最新的联网入口。</p>
+      <p class="status" id="status">正在读取最新地址…</p>
+      <a class="button" id="open-link" href="#" hidden>立即进入</a>
+    </main>
+    <script>
+      const statusNode = document.querySelector("#status");
+      const openLinkNode = document.querySelector("#open-link");
+
+      async function loadUrl() {
+        try {
+          const response = await fetch(`./url.json?t=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          const payload = await response.json();
+          if (!payload.url) {
+            throw new Error("暂无可用入口");
+          }
+          statusNode.textContent = `已拿到最新地址，正在跳转…`;
+          openLinkNode.hidden = false;
+          openLinkNode.href = payload.url;
+          setTimeout(() => {
+            window.location.replace(payload.url);
+          }, 900);
+        } catch (error) {
+          statusNode.textContent = "入口暂时还没同步完成，稍后刷新这里即可。";
+        }
+      }
+
+      loadUrl();
+    </script>
+  </body>
+</html>

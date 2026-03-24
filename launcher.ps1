@@ -36,6 +36,13 @@ function Start-PublicTunnel {
     Start-Process -FilePath "py" -ArgumentList "public_tunnel.py" -WorkingDirectory $baseDir -Wait -NoNewWindow
 }
 
+function Publish-FixedEntry {
+    try {
+        Start-Process -FilePath "py" -ArgumentList "publish_pages.py" -WorkingDirectory $baseDir -Wait -NoNewWindow
+    } catch {
+    }
+}
+
 function Open-Url($url) {
     $browsers = @(
         "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
@@ -57,6 +64,7 @@ function Open-Url($url) {
 Ensure-Server
 Generate-MobileQr
 Start-PublicTunnel
+Publish-FixedEntry
 
 Open-Url "http://127.0.0.1:8123"
 
