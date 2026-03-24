@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-03-24T19:45:15.042722+00:00",
+  "updatedAt": "2026-03-24T19:49:57.288569+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -37,7 +37,7 @@
       "origin_note": "中新社江西赣州3月24日电 中国赣州市与俄罗斯加里宁格勒市24日签署友好关系协议。"
     },
     {
-      "id": "brief-9",
+      "id": "brief-10",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -53,7 +53,7 @@
       "origin_note": "中新社北京3月24日电 中国科学院微电子研究所24日发布讣告：中国科学院院士、中国杰出的微电子科学家吴德馨因病医治无效，于3月23日下午在北京逝世，享年90岁。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -69,7 +69,7 @@
       "origin_note": "中新社北京3月24日电 中国国家气候中心联合国家卫星气象中心(国家空间天气监测预警中心)和国家气象信息中心24日发布的《全球气候状况报告(2025)》显示，2025年，全球年平均陆地气温较常年偏高0.83℃，为1850年以来第三高。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -118,9 +118,9 @@
     },
     {
       "id": "brief-3",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "category": "社会",
+      "source": "中新网社会",
+      "source_zh": "中新网社会",
       "industry_focus": false,
       "item_score": 16,
       "published_at": "2026-03-24T15:32:42+00:00",
@@ -149,7 +149,7 @@
       "origin_note": "当地时间24日，总台记者获悉，当天闯入中国驻日本大使馆的日本陆上自卫队人员已被逮捕。"
     },
     {
-      "id": "brief-6",
+      "id": "brief-7",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -229,20 +229,20 @@
       "origin_note": "中新社柏林3月24日电 当地时间24日，德国联邦总统施泰因迈尔对美国和以色列对伊朗发动的战争提出严厉批评。他指出，这场战争违反国际法，是一个政治上灾难性的错误，并主张与美国政府保持更大距离。"
     },
     {
-      "id": "brief-12",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
+      "id": "brief-5",
+      "category": "国内",
+      "source": "中新网国内",
+      "source_zh": "中新网国内",
       "industry_focus": false,
       "item_score": 14,
-      "published_at": "2026-03-24T14:10:11+00:00",
+      "published_at": "2026-03-24T15:07:32+00:00",
       "title": "王毅同伊朗外长阿拉格齐通电话",
-      "url": "https://www.chinanews.com.cn/gj/2026/03-24/10592192.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/03-24/10592209.shtml",
       "summary": "王毅同伊朗外长阿拉格齐通电话。",
-      "content_summary": "新华社北京3月24日电#8195;中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。",
-      "insight": "新华社北京3月24日电#8195;中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。",
+      "content_summary": "王毅同伊朗外长阿拉格齐通电话这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "insight": "王毅同伊朗外长阿拉格齐通电话这条信息值得关注，重点看后续有没有更具体的执行动作。",
       "history": "",
-      "origin_note": "新华社北京3月24日电#8195;中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。"
+      "origin_note": "中新社北京3月24日电 中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。"
     },
     {
       "id": "brief-14",
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-24T19:45:12.271140+00:00",
+      "published_at": "2026-03-24T19:49:54.448889+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-24T19:45:12.271100+00:00",
+      "published_at": "2026-03-24T19:49:54.448850+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-24T19:45:12.271050+00:00",
+      "published_at": "2026-03-24T19:49:54.448799+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-24T19:45:12.271000+00:00",
+      "published_at": "2026-03-24T19:49:54.448748+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-24T19:45:12.270920+00:00",
+      "published_at": "2026-03-24T19:49:54.448649+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
