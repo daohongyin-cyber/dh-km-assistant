@@ -1,1 +1,2 @@
-@powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0launcher.ps1"
+@echo off
+start "" "https://daohongyin-cyber.github.io/dh-km-assistant/"
