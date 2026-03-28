@@ -1,7 +1,7 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-03-28T21:56:31.796430+00:00",
+  "updatedAt": "2026-03-28T23:01:57.488135+00:00",
   "count": 20,
   "items": [
     {
@@ -21,7 +21,7 @@
       "origin_note": "中新网上海3月28日电 (记者 姜煜)2026全国精品首发季暨“首发上海”系列活动发布仪式28日在上海举行。商务部副部长盛秋平、上海市副市长卢山、上海市政府副秘书长朱民出席发布仪式。"
     },
     {
-      "id": "brief-4",
+      "id": "brief-5",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -37,7 +37,7 @@
       "origin_note": "新闻周刊丨监管重拳整治平台乱象 外卖低价“狂欢”正落幕"
     },
     {
-      "id": "brief-3",
+      "id": "brief-4",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -59,6 +59,22 @@
       "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
+      "published_at": "2026-03-28T22:35:45+00:00",
+      "title": "3月29日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/03-29/10594612.shtml",
+      "summary": "3月29日新闻早报。",
+      "content_summary": "3月29日新闻早报这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "insight": "3月29日新闻早报这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "history": "",
+      "origin_note": "3月29日新闻早报"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
       "published_at": "2026-03-28T21:53:04+00:00",
       "title": "“方便”背后暗藏泄密风险 小心免费Wi-Fi背后的窥探",
       "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594611.shtml",
@@ -69,7 +85,7 @@
       "origin_note": "看似“图方便” 背后暗藏泄密风险 小心免费Wi-Fi背后的窥探"
     },
     {
-      "id": "brief-2",
+      "id": "brief-3",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -85,10 +101,10 @@
       "origin_note": "【文旅观察】"
     },
     {
-      "id": "brief-6",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-7",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-03-28T14:31:13+00:00",
@@ -133,10 +149,10 @@
       "origin_note": "中新社北京3月28日电 (记者 刘亮)记者28日获悉，中国国务院食安办近日对2026年中央广播电视总台“3·15”晚会曝光的食品安全问题涉及的成都市、重庆市合川区政府负责人进行了约谈，督促地方依法严厉查处违法行为，深刻剖析问题产生的原因，…"
     },
     {
-      "id": "brief-5",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 16,
       "published_at": "2026-03-28T14:33:07+00:00",
@@ -149,7 +165,7 @@
       "origin_note": "火灾现场集结的消防车和救护车。 陆祁国 摄 中新网太原3月28日电(陆祁国)3月28日晚，山西省太原市小店区亲贤北街一建筑物发生火灾，目前，明火已扑灭。记者从现场初步了解到，火灾已造成1人死亡，7人重伤，18人轻伤。(完)"
     },
     {
-      "id": "brief-7",
+      "id": "brief-8",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -181,7 +197,7 @@
       "origin_note": "全国农业普查条例"
     },
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -197,7 +213,7 @@
       "origin_note": "中新社江苏南通3月28日电 (记者 谷华 徐珊珊)当地时间27日，国际著名刑事鉴识专家李昌钰在美国去世。消息传来，其家乡江苏南通如皋民众自发前往李昌钰刑侦科学博物馆追思，献花送别。"
     },
     {
-      "id": "brief-9",
+      "id": "brief-10",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -213,7 +229,7 @@
       "origin_note": "中国网3月27日讯 (记者 唐佳蕾)78米深的海底，相当于26层楼的深海高压之下，如何筑就一条通行高铁的钢铁巨龙？世界最长海底高铁隧道，又藏着多少中国基建的硬核密码？近日，记者跟随“发现最美铁路#12539;浙闽通途看变迁”采访团，深入甬…"
     },
     {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -229,7 +245,7 @@
       "origin_note": "中新网北京3月28日电 题：中新人物丨李昌钰：神探归尘"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -245,7 +261,7 @@
       "origin_note": "记者从山西省太原市小店区委宣传部获悉，28日晚，位于小店区亲贤北街附近的一高层建筑着火，目前明火已扑灭，初步确认有24人受伤。(记者：马晓媛)"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -259,22 +275,6 @@
       "insight": "江苏泰州市对口支援伊犁昭苏县 给“天马之乡”插上腾飞的翅膀这条信息值得关注，重点看后续有没有更具体的执行动作。",
       "history": "",
       "origin_note": "中新网伊犁3月28日电 题：江苏泰州市对口支援伊犁昭苏县 给“天马之乡”插上腾飞的翅膀"
-    },
-    {
-      "id": "brief-13",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-03-28T13:38:33+00:00",
-      "title": "山西太原一建筑发生火灾 救援正在进行",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-28/10594594.shtml",
-      "summary": "山西太原一建筑发生火灾 救援正在进行。",
-      "content_summary": "3月28日晚，山西省太原市亲贤街一处建筑外立面发生火灾，目前现场明火已经扑灭。记者从现场初步了解到，有人员受伤，目前，消防、公安以及当地应急救援力量，正在现场抓紧开展救援工作。",
-      "insight": "3月28日晚，山西省太原市亲贤街一处建筑外立面发生火灾，目前现场明火已经扑灭。记者从现场初步了解到，有人员受伤，目前，消防、公安以及当地应急救援力量，正在现场抓紧开展救援工作。",
-      "history": "",
-      "origin_note": "3月28日晚，山西省太原市亲贤街一处建筑外立面发生火灾，目前现场明火已经扑灭。记者从现场初步了解到，有人员受伤，目前，消防、公安以及当地应急救援力量，正在现场抓紧开展救援工作。"
     },
     {
       "id": "brief-20",
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-28T21:56:29.128605+00:00",
+      "published_at": "2026-03-28T23:01:55.123947+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-28T21:56:29.128570+00:00",
+      "published_at": "2026-03-28T23:01:55.123906+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-28T21:56:29.128526+00:00",
+      "published_at": "2026-03-28T23:01:55.123855+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-28T21:56:29.128481+00:00",
+      "published_at": "2026-03-28T23:01:55.123805+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-28T21:56:29.128389+00:00",
+      "published_at": "2026-03-28T23:01:55.123725+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
