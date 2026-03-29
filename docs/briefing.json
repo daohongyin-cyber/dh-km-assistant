@@ -1,14 +1,30 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-03-29T14:04:34.117446+00:00",
+  "updatedAt": "2026-03-29T15:05:20.779578+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-2",
+      "id": "brief-8",
+      "category": "财经",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
+      "industry_focus": false,
+      "item_score": 22,
+      "published_at": "2026-03-29T14:00:26+00:00",
+      "title": "新疆经济看点丨新疆能源生产满弓劲发",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594973.shtml",
+      "summary": "新疆能源生产满弓劲发。",
+      "content_summary": "天山网-新疆日报记者 于江艳。",
+      "insight": "天山网-新疆日报记者 于江艳。",
+      "history": "",
+      "origin_note": "天山网-新疆日报记者 于江艳"
+    },
+    {
+      "id": "brief-10",
       "category": "AI",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
       "industry_focus": false,
       "item_score": 22,
       "published_at": "2026-03-29T13:54:43+00:00",
@@ -21,10 +37,10 @@
       "origin_note": "英国《经济学人》杂志网站近日发表题为《中国正赢得人工智能人才竞赛》的文章。文章认为，中国领先于西方国家的人才优势正在扩大。"
     },
     {
-      "id": "brief-3",
+      "id": "brief-11",
       "category": "AI",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
       "industry_focus": false,
       "item_score": 22,
       "published_at": "2026-03-29T13:50:01+00:00",
@@ -37,7 +53,7 @@
       "origin_note": "新华社柏林3月28日电(记者杜哲宇)德国慕尼黑大学和咨询公司MHP近日联合发布的《2026工业4.0晴雨表》报告显示，中国工业数字化水平处于全球领先地位，在数字孪生技术、人工智能、供应链透明度和自动化等方面表现突出。"
     },
     {
-      "id": "brief-16",
+      "id": "brief-18",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -53,10 +69,10 @@
       "origin_note": "中新网3月29日电 综合外媒报道，伊朗海军司令沙赫拉姆·伊兰尼当地时间29日表示，伊朗正实时监控美国“亚伯拉罕·林肯”号航母编队的位置、动向以及其向该地区国家提出的请求。他称，如果“林肯”号航母进入射程，伊朗将对其实施打击。"
     },
     {
-      "id": "brief-4",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-12",
+      "category": "财经",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
       "industry_focus": false,
       "item_score": 20,
       "published_at": "2026-03-29T13:48:04+00:00",
@@ -69,23 +85,7 @@
       "origin_note": "新华社北京3月29日电#8195;专访｜中国“十五五”有科技雄心，更有实现途径——访英国《自然》杂志总编辑斯基珀"
     },
     {
-      "id": "brief-5",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
-      "industry_focus": false,
-      "item_score": 20,
-      "published_at": "2026-03-29T13:45:04+00:00",
-      "title": "共话中国经济新机遇｜专访：中国市场多种独特优势为在华外企发展带来机遇——访西门子全球执行副总裁肖松",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594968.shtml",
-      "summary": "共话中国经济新机遇｜专访：中国市场多种独特优势为在华外企发展带来机遇——访西门子全球执行副总裁肖松。",
-      "content_summary": "中国市场多种独特优势为在华外企发展带来机遇——访西门子全球执行副总裁肖松。",
-      "insight": "中国市场多种独特优势为在华外企发展带来机遇——访西门子全球执行副总裁肖松。",
-      "history": "",
-      "origin_note": "新华社北京3月29日电#8195;专访：中国市场多种独特优势为在华外企发展带来机遇——访西门子全球执行副总裁肖松"
-    },
-    {
-      "id": "brief-11",
+      "id": "brief-16",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -101,7 +101,7 @@
       "origin_note": "中新网太原3月29日电 题：山西阳曲“归燕经济”撬动乡村振兴"
     },
     {
-      "id": "brief-23",
+      "id": "brief-25",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -117,7 +117,7 @@
       "origin_note": "总台记者获悉，当地时间29日，伊朗伊斯兰革命卫队发布公告，发动“真实承诺-4”第86波行动，在此次行动的第一阶段，位于维多利亚、阿里夫詹和阿尔哈杰美军基地的空中作战与无人机基础设施以及弹药库遭到了导弹和无人机的打击。"
     },
     {
-      "id": "brief-24",
+      "id": "brief-26",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -139,6 +139,102 @@
       "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
+      "published_at": "2026-03-29T14:54:13+00:00",
+      "title": "广东高铁晚点原因：龙卷风将铁路沿线一处彩钢瓦棚顶连同钢架梁一起吹至高铁接触网导致停电",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594981.shtml",
+      "summary": "广东高铁晚点原因：龙卷风将铁路沿线一处彩钢瓦棚顶连同钢架梁一起吹至高铁接触网导致停电。",
+      "content_summary": "记者从中国铁路广州局集团公司获悉，3月29日15时许，龙卷风将铁路沿线一处彩钢瓦棚顶连同30多米长的钢架梁一起吹至高铁接触网，导致南广高铁、贵广高铁广州南至佛山西站间和广湛高…。",
+      "insight": "记者从中国铁路广州局集团公司获悉，3月29日15时许，龙卷风将铁路沿线一处彩钢瓦棚顶连同30多米长的钢架梁一起吹至高铁接触网，导致南广高铁、贵广高铁广州南至佛山西站间和广湛高…。",
+      "history": "",
+      "origin_note": "中新网广州3月29日电 记者从中国铁路广州局集团公司获悉，3月29日15时许，龙卷风将铁路沿线一处彩钢瓦棚顶连同30多米长的钢架梁一起吹至高铁接触网，导致南广高铁、贵广高铁广州南至佛山西站间和广湛高铁佛山至荔湾所间接触网挂异物停电，部分列…"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T14:48:30+00:00",
+      "title": "“三里河”入选2025中国正能量十佳网络精品",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594980.shtml",
+      "summary": "“三里河”入选2025中国正能量十佳网络精品。",
+      "content_summary": "由中央网信办主办的2025中国正能量网络精品征集展播活动今天揭晓结果。",
+      "insight": "由中央网信办主办的2025中国正能量网络精品征集展播活动今天揭晓结果。",
+      "history": "",
+      "origin_note": "由中央网信办主办的2025中国正能量网络精品征集展播活动今天揭晓结果。"
+    },
+    {
+      "id": "brief-4",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T14:30:21+00:00",
+      "title": "珠海金湾机场开通“珠海—宿务”国际货运航线",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/03-29/10594977.shtml",
+      "summary": "珠海金湾机场开通“珠海—宿务”国际货运航线。",
+      "content_summary": "【东盟专线】珠海金湾机场开通“珠海—宿务”国际货运航线。",
+      "insight": "【东盟专线】珠海金湾机场开通“珠海—宿务”国际货运航线。",
+      "history": "",
+      "origin_note": "【东盟专线】珠海金湾机场开通“珠海—宿务”国际货运航线"
+    },
+    {
+      "id": "brief-5",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T14:17:21+00:00",
+      "title": "从AI健康茶方到5G车间 中国祁门红茶“泡”出科技味",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594976.shtml",
+      "summary": "从AI健康茶方到5G车间 中国祁门红茶“泡”出科技味。",
+      "content_summary": "3月末，正值祁门红茶采摘季。AI健康茶方、5G智能化生产线、太空育种……如今，拥有150多年历史的祁门红茶“泡”出了科技味。",
+      "insight": "3月末，正值祁门红茶采摘季。AI健康茶方、5G智能化生产线、太空育种……如今，拥有150多年历史的祁门红茶“泡”出了科技味。",
+      "history": "",
+      "origin_note": "中新社安徽黄山3月29日电(记者 张强)3月末，正值祁门红茶采摘季。AI健康茶方、5G智能化生产线、太空育种……如今，拥有150多年历史的祁门红茶“泡”出了科技味。"
+    },
+    {
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T14:14:20+00:00",
+      "title": "老党员曲旦：“紧紧跟着党，日子一定更美好！”",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594975.shtml",
+      "summary": "老党员曲旦：“紧紧跟着党，日子一定更美好！”。",
+      "content_summary": "春日的日喀则市江孜县卡堆乡白定村，冰雪消融，暖阳洒在错落的藏式民居上。硬化路通到家家户户，新时代文明实践站与村史馆并肩而立，宁静中透着生机。",
+      "insight": "春日的日喀则市江孜县卡堆乡白定村，冰雪消融，暖阳洒在错落的藏式民居上。硬化路通到家家户户，新时代文明实践站与村史馆并肩而立，宁静中透着生机。",
+      "history": "",
+      "origin_note": "春日的日喀则市江孜县卡堆乡白定村，冰雪消融，暖阳洒在错落的藏式民居上。硬化路通到家家户户，新时代文明实践站与村史馆并肩而立，宁静中透着生机。76岁的老党员曲旦总爱牵着孙辈走进村史馆，用自己大半辈子的经历，讲述这座村庄半个多世纪的沧桑。"
+    },
+    {
+      "id": "brief-7",
+      "category": "财经",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T14:04:16+00:00",
+      "title": "数说“新”变化丨较去年提前19天 阿拉山口铁路口岸今年通行班列突破2000列",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594974.shtml",
+      "summary": "较去年提前19天 阿拉山口铁路口岸今年通行班列突破2000列。",
+      "content_summary": "截至3月26日，阿拉山口铁路口岸今年通行中欧(中亚)班列突破2000列，较去年提前19天。这一优异成绩是如何取得的？",
+      "insight": "截至3月26日，阿拉山口铁路口岸今年通行中欧(中亚)班列突破2000列，较去年提前19天。这一优异成绩是如何取得的？",
+      "history": "",
+      "origin_note": "截至3月26日，阿拉山口铁路口岸今年通行中欧(中亚)班列突破2000列，较去年提前19天。这一优异成绩是如何取得的？阿拉山口站为保障班列高效畅行做出了哪些努力？本期《数说“新”变化》，一同关注。"
+    },
+    {
+      "id": "brief-9",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
+      "industry_focus": false,
+      "item_score": 18,
       "published_at": "2026-03-29T13:57:39+00:00",
       "title": "全球多地爆发示威抗议 民众高呼“不要战争”",
       "url": "https://www.chinanews.com.cn/gj/2026/03-29/10594972.shtml",
@@ -149,10 +245,10 @@
       "origin_note": "28日，美国、英国、以色列等国爆发示威活动，大批民众走上街头，抗议美国和以色列对伊朗的军事打击等，发出拒绝战争、呼吁和平的呼声。"
     },
     {
-      "id": "brief-6",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-13",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-03-29T13:41:04+00:00",
@@ -165,7 +261,7 @@
       "origin_note": "中新社东京3月29日电 (记者 朱晨曦)针对日本首相高市早苗此前发表涉台错误言论、持续推动扩军备武，数名日本学者29日下午在东京一场研讨会上表达忧虑，认为日本当前政治走向日益右倾，高市推动的军备扩张路线可能将日本拖入战争深渊。"
     },
     {
-      "id": "brief-8",
+      "id": "brief-14",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -181,23 +277,7 @@
       "origin_note": "中新网郑州3月29日电 29日，2025中国正能量网络精品征集展播活动揭晓结果，中新社共有13件作品入选，其中，中新网有8件参与主创的作品入选。"
     },
     {
-      "id": "brief-9",
-      "category": "财经",
-      "source": "中新网财经",
-      "source_zh": "中新网财经",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T13:13:27+00:00",
-      "title": "战事1个月：纳指周线五连跌 美国消费者信心指数大幅下滑",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594959.shtml",
-      "summary": "战事1个月：纳指周线五连跌 美国消费者信心指数大幅下滑。",
-      "content_summary": "中新经纬3月29日电 3月29日，美以伊战事进入第30天。",
-      "insight": "中新经纬3月29日电 3月29日，美以伊战事进入第30天。",
-      "history": "",
-      "origin_note": "中新经纬3月29日电 3月29日，美以伊战事进入第30天。"
-    },
-    {
-      "id": "brief-10",
+      "id": "brief-15",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -213,55 +293,7 @@
       "origin_note": "中新网绥化3月29日电 题：黑龙江绥化中院：巾帼“她力量” 审监一线挑大梁"
     },
     {
-      "id": "brief-13",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T12:39:52+00:00",
-      "title": "中新网记者直击“海林建筑物坍塌”救援现场",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594948.shtml",
-      "summary": "中新网记者直击“海林建筑物坍塌”救援现场。",
-      "content_summary": "29日，黑龙江省海林市海林镇林海路上一建筑物发生部分坍塌。中新网记者当日19时许在现场看到，天空飘着小雨，现场机械声轰鸣，建筑物一侧坍塌严重，水泥和红砖裸露在外，几扇窗户已经…。",
-      "insight": "29日，黑龙江省海林市海林镇林海路上一建筑物发生部分坍塌。中新网记者当日19时许在现场看到，天空飘着小雨，现场机械声轰鸣，建筑物一侧坍塌严重，水泥和红砖裸露在外，几扇窗户已经…。",
-      "history": "",
-      "origin_note": "中新网牡丹江3月29日电(姜辉 赵宇航)29日，黑龙江省海林市海林镇林海路上一建筑物发生部分坍塌。中新网记者当日19时许在现场看到，天空飘着小雨，现场机械声轰鸣，建筑物一侧坍塌严重，水泥和红砖裸露在外，几扇窗户已经变形挂在建筑物上，身穿橙…"
-    },
-    {
-      "id": "brief-14",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T12:30:40+00:00",
-      "title": "广东高铁接触网故障抢修完毕 铁路运输秩序有序恢复",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594943.shtml",
-      "summary": "广东高铁接触网故障抢修完毕 铁路运输秩序有序恢复。",
-      "content_summary": "新华社广州3月29日电(记者毛鑫)记者从中国铁路广州局集团了解到，经铁路部门全力抢修，3月29日18时12分广湛高铁佛山至荔湾所间，18时35分南广高铁、贵广高铁广州南至佛山…。",
-      "insight": "新华社广州3月29日电(记者毛鑫)记者从中国铁路广州局集团了解到，经铁路部门全力抢修，3月29日18时12分广湛高铁佛山至荔湾所间，18时35分南广高铁、贵广高铁广州南至佛山…。",
-      "history": "",
-      "origin_note": "新华社广州3月29日电(记者毛鑫)记者从中国铁路广州局集团了解到，经铁路部门全力抢修，3月29日18时12分广湛高铁佛山至荔湾所间，18时35分南广高铁、贵广高铁广州南至佛山西站间接触网异物已被清理完毕，设备故障已排除，列车运输秩序正逐步…"
-    },
-    {
-      "id": "brief-15",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T12:27:48+00:00",
-      "title": "英雄榕城寄哀思 福州举行“追寻·2026·清明祭英烈”活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594937.shtml",
-      "summary": "英雄榕城寄哀思 福州举行“追寻·2026·清明祭英烈”活动。",
-      "content_summary": "青山埋忠骨，鲜花寄哀思。3月29日，福州市“追寻·2026·清明祭英烈”主题活动在市革命英烈纪念园隆重举行。",
-      "insight": "青山埋忠骨，鲜花寄哀思。3月29日，福州市“追寻·2026·清明祭英烈”主题活动在市革命英烈纪念园隆重举行。",
-      "history": "",
-      "origin_note": "中新网福州3月29日电 (记者 王东明)青山埋忠骨，鲜花寄哀思。3月29日，福州市“追寻·2026·清明祭英烈”主题活动在市革命英烈纪念园隆重举行。各界代表900余人齐聚纪念园，深切缅怀革命先烈，赓续红色血脉，传承英雄精神。"
-    },
-    {
-      "id": "brief-17",
+      "id": "brief-19",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -277,7 +309,7 @@
       "origin_note": "中新网郑州3月29日电(王佳宁)2026中国网络媒体论坛29日在河南郑州开幕。来自中央和国家机关有关部门，中央新闻单位，中央和地方重点新闻网站，各省区市、新疆生产建设兵团网信办，主要商业网站、互联网企业负责人及业界专家学者、社会各界代表等…"
     },
     {
-      "id": "brief-20",
+      "id": "brief-22",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -291,38 +323,6 @@
       "insight": "总台记者获悉，当地时间3月29日，据以色列国防军消息，以色列空军连夜袭击了伊朗国防部位于德黑兰的一处用于生产弹道导弹关键部件的重要基地。",
       "history": "",
       "origin_note": "总台记者获悉，当地时间3月29日，据以色列国防军消息，以色列空军连夜袭击了伊朗国防部位于德黑兰的一处用于生产弹道导弹关键部件的重要基地。"
-    },
-    {
-      "id": "brief-21",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T11:39:02+00:00",
-      "title": "安徽省人大常委会农业与农村工作委员会原主任史翔被“双开”",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-29/10594905.shtml",
-      "summary": "安徽省人大常委会农业与农村工作委员会原主任史翔被“双开”。",
-      "content_summary": "日前，经中共安徽省委批准，安徽省纪委监委对安徽省人大常委会农业与农村工作委员会原主任史翔严重违纪违法问题进行了立案审查调查。",
-      "insight": "日前，经中共安徽省委批准，安徽省纪委监委对安徽省人大常委会农业与农村工作委员会原主任史翔严重违纪违法问题进行了立案审查调查。",
-      "history": "",
-      "origin_note": "中新网合肥3月29日电 日前，经中共安徽省委批准，安徽省纪委监委对安徽省人大常委会农业与农村工作委员会原主任史翔严重违纪违法问题进行了立案审查调查。"
-    },
-    {
-      "id": "brief-22",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-03-29T11:25:52+00:00",
-      "title": "这场论坛上，李雪健给大家写下一句话",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-29/10594884.shtml",
-      "summary": "这场论坛上，李雪健给大家写下一句话。",
-      "content_summary": "“不怕困难，光明在前！”29日，在河南郑州参加2026中国网络媒体论坛期间，著名演员李雪健应中新网邀请，写下这句话。",
-      "insight": "“不怕困难，光明在前！”29日，在河南郑州参加2026中国网络媒体论坛期间，著名演员李雪健应中新网邀请，写下这句话。",
-      "history": "",
-      "origin_note": "中新网郑州3月29日电 (禹志超 阚力 王佳宁)“不怕困难，光明在前！”29日，在河南郑州参加2026中国网络媒体论坛期间，著名演员李雪健应中新网邀请，写下这句话。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T14:04:18.581045+00:00",
+      "published_at": "2026-03-29T15:05:12.193407+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T14:04:18.581004+00:00",
+      "published_at": "2026-03-29T15:05:12.193370+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T14:04:18.580953+00:00",
+      "published_at": "2026-03-29T15:05:12.193325+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T14:04:18.580902+00:00",
+      "published_at": "2026-03-29T15:05:12.193278+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T14:04:18.580811+00:00",
+      "published_at": "2026-03-29T15:05:12.193198+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -407,7 +407,7 @@
       "origin_note": "Tencent Music Entertainment Group (\"TME,\" or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and au…"
     },
     {
-      "id": "industry-45",
+      "id": "industry-47",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -423,7 +423,7 @@
       "origin_note": "国家版权局关于公布2025年全国著作权登记情况的通知"
     },
     {
-      "id": "industry-36",
+      "id": "industry-38",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -439,7 +439,7 @@
       "origin_note": "中国民间文艺版权成果展在北京前门开展"
     },
     {
-      "id": "industry-41",
+      "id": "industry-43",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -455,7 +455,7 @@
       "origin_note": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开"
     },
     {
-      "id": "industry-52",
+      "id": "industry-54",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -471,7 +471,7 @@
       "origin_note": "国家版权局等四部门启动2026年院线电影版权保护专项行动"
     },
     {
-      "id": "industry-51",
+      "id": "industry-53",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -487,7 +487,7 @@
       "origin_note": "民间文艺版权保护与促进试点申报表"
     },
     {
-      "id": "industry-53",
+      "id": "industry-55",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -503,7 +503,7 @@
       "origin_note": "院线电影版权保护专项行动典型案件"
     },
     {
-      "id": "industry-54",
+      "id": "industry-56",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
