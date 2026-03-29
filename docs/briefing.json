@@ -1,24 +1,40 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-03-29T16:03:59.240999+00:00",
+  "updatedAt": "2026-03-29T17:49:47.034872+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-13",
-      "category": "财经",
-      "source": "中新网财经",
-      "source_zh": "中新网财经",
+      "id": "brief-1",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
-      "published_at": "2026-03-29T14:00:26+00:00",
-      "title": "新疆经济看点丨新疆能源生产满弓劲发",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-29/10594973.shtml",
-      "summary": "新疆能源生产满弓劲发。",
-      "content_summary": "天山网-新疆日报记者 于江艳。",
-      "insight": "天山网-新疆日报记者 于江艳。",
+      "published_at": "2026-03-29T16:04:01+00:00",
+      "title": "“是的，别人不敢欺负咱了”",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-30/10594991.shtml",
+      "summary": "“是的，别人不敢欺负咱了”。",
+      "content_summary": "“是的，别人不敢欺负咱了”这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "insight": "“是的，别人不敢欺负咱了”这条信息值得关注，重点看后续有没有更具体的执行动作。",
       "history": "",
-      "origin_note": "天山网-新疆日报记者 于江艳"
+      "origin_note": "???????"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-03-29T16:00:23+00:00",
+      "title": "奋进“十五五”实干开新局丨冲刺建设 小洋山北作业区西一区预计年底投入运营",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-30/10594990.shtml",
+      "summary": "冲刺建设 小洋山北作业区西一区预计年底投入运营。",
+      "content_summary": "奋进“十五五”，实干开新局。“十五五”规划纲要提出，完善现代化综合交通运输体系，基本建成世界级港口群和机场群。",
+      "insight": "奋进“十五五”，实干开新局。“十五五”规划纲要提出，完善现代化综合交通运输体系，基本建成世界级港口群和机场群。",
+      "history": "",
+      "origin_note": "奋进“十五五”，实干开新局。“十五五”规划纲要提出，完善现代化综合交通运输体系，基本建成世界级港口群和机场群。在东海海域长江口与杭州湾交汇处，上海国际航运中心洋山深水港区小洋山北作业区集装箱码头及配套工程正在分区分期加紧建设。其中西区工程…"
     },
     {
       "id": "brief-19",
@@ -37,7 +53,7 @@
       "origin_note": "中新网3月29日电 综合外媒报道，伊朗海军司令沙赫拉姆·伊兰尼当地时间29日表示，伊朗正实时监控美国“亚伯拉罕·林肯”号航母编队的位置、动向以及其向该地区国家提出的请求。他称，如果“林肯”号航母进入射程，伊朗将对其实施打击。"
     },
     {
-      "id": "brief-5",
+      "id": "brief-7",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -53,7 +69,7 @@
       "origin_note": "“十五五”开局之年，锚定强国建设、民族复兴目标的宏伟蓝图正在神州大地徐徐铺展。从今天起，本台推出系列报道《“十五五”新图景》。首先，我们把目光投向跨区域跨流域大通道建设。眼下，从长江沿岸到沿边沿海，新的交通动脉不断延伸，为区域发展注入源源…"
     },
     {
-      "id": "brief-7",
+      "id": "brief-9",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -67,22 +83,6 @@
       "insight": "作为2026中关村论坛年会平行论坛之一，全球独角兽企业大会29日在北京举办。会上发布的《中国独角兽企业发展报告(2026年)》显示，2025年，中国独角兽企业数量达416家，…。",
       "history": "",
       "origin_note": "中新社北京3月29日电 (记者 王梦瑶)作为2026中关村论坛年会平行论坛之一，全球独角兽企业大会29日在北京举办。会上发布的《中国独角兽企业发展报告(2026年)》显示，2025年，中国独角兽企业数量达416家，占全球总量近30%，居全…"
-    },
-    {
-      "id": "brief-18",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 16,
-      "published_at": "2026-03-29T12:43:26+00:00",
-      "title": "山西阳曲“归燕经济”撬动乡村振兴",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-29/10594951.shtml",
-      "summary": "山西阳曲“归燕经济”撬动乡村振兴。",
-      "content_summary": "山西阳曲“归燕经济”撬动乡村振兴这条信息值得关注，重点看后续有没有更具体的执行动作。",
-      "insight": "山西阳曲“归燕经济”撬动乡村振兴这条信息值得关注，重点看后续有没有更具体的执行动作。",
-      "history": "",
-      "origin_note": "中新网太原3月29日电 题：山西阳曲“归燕经济”撬动乡村振兴"
     },
     {
       "id": "brief-25",
@@ -117,10 +117,10 @@
       "origin_note": "新华社德黑兰3月29日电 法尔斯通讯社等多家伊朗媒体29日报道，伊朗伊斯兰革命卫队发射导弹和无人机，打击中东地区两家与美国军工航天工业有关的企业。"
     },
     {
-      "id": "brief-1",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-03-29T15:52:32+00:00",
@@ -133,7 +133,7 @@
       "origin_note": "中新社厦门3月29日电 (吴冠标 李思源)“华夏子孙，脉承炎黄。伯益之后，陆终封黄。”中国传统节日清明节将至，70余名两岸黄氏宗亲29日走进厦门江夏堂，共祭先祖。"
     },
     {
-      "id": "brief-2",
+      "id": "brief-4",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -149,7 +149,7 @@
       "origin_note": "中新社北京3月29日电(记者 国璇)2025-2026赛季中国男子篮球职业联赛(CBA)本周结束常规赛第29轮至第31轮以及第32轮部分赛事。上海队以13连胜战绩领跑积分榜，并提前锁定季后赛席位。联赛“四冠王”辽宁队近况堪忧，遭遇两连败。"
     },
     {
-      "id": "brief-3",
+      "id": "brief-5",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -165,10 +165,10 @@
       "origin_note": "中新社太原3月29日电 (记者 胡健)2025-2026赛季中国男子篮球职业联赛(CBA)常规赛第32轮29日晚开赛。山西汾酒男篮主场迎战上海久事男篮。最终，山西队以96:100再次负于对手，本赛季常规赛还未能在上海队求得一胜。"
     },
     {
-      "id": "brief-4",
-      "category": "财经",
-      "source": "中新网财经",
-      "source_zh": "中新网财经",
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-03-29T15:43:04+00:00",
@@ -181,7 +181,7 @@
       "origin_note": "春回大地，春耕春管全面展开。各地以科技赋能、模式创新、向新提质，筑牢粮食安全与增收根基。"
     },
     {
-      "id": "brief-6",
+      "id": "brief-8",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -197,7 +197,7 @@
       "origin_note": "新华社郑州3月29日电#8195;题：聚势赋能 共创繁荣网络内容生态——2026中国网络媒体论坛综述"
     },
     {
-      "id": "brief-8",
+      "id": "brief-10",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -213,7 +213,7 @@
       "origin_note": "中新网广州3月29日电 记者从中国铁路广州局集团公司获悉，3月29日15时许，龙卷风将铁路沿线一处彩钢瓦棚顶连同30多米长的钢架梁一起吹至高铁接触网，导致南广高铁、贵广高铁广州南至佛山西站间和广湛高铁佛山至荔湾所间接触网挂异物停电，部分列…"
     },
     {
-      "id": "brief-9",
+      "id": "brief-11",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -229,7 +229,7 @@
       "origin_note": "由中央网信办主办的2025中国正能量网络精品征集展播活动今天揭晓结果。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-12",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -245,7 +245,7 @@
       "origin_note": "中新社安徽黄山3月29日电(记者 张强)3月末，正值祁门红茶采摘季。AI健康茶方、5G智能化生产线、太空育种……如今，拥有150多年历史的祁门红茶“泡”出了科技味。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-13",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -261,7 +261,7 @@
       "origin_note": "春日的日喀则市江孜县卡堆乡白定村，冰雪消融，暖阳洒在错落的藏式民居上。硬化路通到家家户户，新时代文明实践站与村史馆并肩而立，宁静中透着生机。76岁的老党员曲旦总爱牵着孙辈走进村史馆，用自己大半辈子的经历，讲述这座村庄半个多世纪的沧桑。"
     },
     {
-      "id": "brief-12",
+      "id": "brief-14",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -277,7 +277,7 @@
       "origin_note": "截至3月26日，阿拉山口铁路口岸今年通行中欧(中亚)班列突破2000列，较去年提前19天。这一优异成绩是如何取得的？阿拉山口站为保障班列高效畅行做出了哪些努力？本期《数说“新”变化》，一同关注。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -293,7 +293,7 @@
       "origin_note": "28日，美国、英国、以色列等国爆发示威活动，大批民众走上街头，抗议美国和以色列对伊朗的军事打击等，发出拒绝战争、呼吁和平的呼声。"
     },
     {
-      "id": "brief-15",
+      "id": "brief-16",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -309,7 +309,7 @@
       "origin_note": "中新社东京3月29日电 (记者 朱晨曦)针对日本首相高市早苗此前发表涉台错误言论、持续推动扩军备武，数名日本学者29日下午在东京一场研讨会上表达忧虑，认为日本当前政治走向日益右倾，高市推动的军备扩张路线可能将日本拖入战争深渊。"
     },
     {
-      "id": "brief-16",
+      "id": "brief-17",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T16:03:39.525086+00:00",
+      "published_at": "2026-03-29T17:49:44.333605+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T16:03:39.525045+00:00",
+      "published_at": "2026-03-29T17:49:44.333570+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T16:03:39.524994+00:00",
+      "published_at": "2026-03-29T17:49:44.333527+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T16:03:39.524943+00:00",
+      "published_at": "2026-03-29T17:49:44.333483+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-03-29T16:03:39.524853+00:00",
+      "published_at": "2026-03-29T17:49:44.333402+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
