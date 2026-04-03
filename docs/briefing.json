@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-03T16:05:21.418035+00:00",
+  "updatedAt": "2026-04-03T17:55:33.189199+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-29",
+      "id": "brief-30",
       "category": "政策",
       "source": "中国政府网",
       "source_zh": "中国政府网",
@@ -21,7 +21,7 @@
       "origin_note": "国务院办公厅印发《关于建立企业信用状况综合评价体系的实施方案》"
     },
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -37,7 +37,7 @@
       "origin_note": "央视网消息：明天(4月4日)就是清明假期了，交通运输部4月2日发布《2026年清明假期全国公路网运行研判分析报告》。预计清明假期，全国高速公路日均总流量约为6100万辆，较2025年同期增长3%左右，流量峰值出现在假期第一天，预计6450…"
     },
     {
-      "id": "brief-28",
+      "id": "brief-29",
       "category": "政策",
       "source": "中国政府网",
       "source_zh": "中国政府网",
@@ -53,10 +53,26 @@
       "origin_note": "国务院关于同意在广东省暂时调整实施有关行政法规规定的批复"
     },
     {
-      "id": "brief-3",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
+      "id": "brief-1",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-04-03T17:05:37+00:00",
+      "title": "中新人物｜跳水“三小只”的岔路口",
+      "url": "https://www.chinanews.com.cn/ty/2026/04-04/10598638.shtml",
+      "summary": "中新人物｜跳水“三小只”的岔路口。",
+      "content_summary": "21岁的“老将”张家齐退役后参加了一档综艺，她是所有嘉宾中年纪最小的。",
+      "insight": "21岁的“老将”张家齐退役后参加了一档综艺，她是所有嘉宾中年纪最小的。",
+      "history": "",
+      "origin_note": "中新网北京4月4日电(记者 王昊)21岁的“老将”张家齐退役后参加了一档综艺，她是所有嘉宾中年纪最小的。"
+    },
+    {
+      "id": "brief-4",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 16,
       "published_at": "2026-04-03T15:28:55+00:00",
@@ -69,7 +85,7 @@
       "origin_note": "国际人士表示，美以伊战争的外溢影响正通过霍尔木兹海峡传导至全球。这不仅是中东地区的危机，更令全球经济经历痛苦且混乱的重组，而美国自己也无法在这场危机中置身事外。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -85,7 +101,7 @@
       "origin_note": "当前，多地全面进入春季森林草原防火关键期。随着气温回升、清明祭扫高峰与春季踏青热潮叠加，野外火源管控压力增大。在内蒙古、湖北咸宁等地，多部门紧密协同，通过全面踏查、防火宣传等方式，筑起生态安全屏障。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -101,7 +117,7 @@
       "origin_note": "研判中国全年经济走势，开局如何“起势”往往有很大影响。"
     },
     {
-      "id": "brief-15",
+      "id": "brief-16",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -117,7 +133,7 @@
       "origin_note": "“继续为世界经济增长提供强劲动力”"
     },
     {
-      "id": "brief-24",
+      "id": "brief-25",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -133,10 +149,10 @@
       "origin_note": "中新网4月3日电 据路透社报道，当地时间4月3日，美国总统特朗普在其“真相社交”平台上发帖称：“再多一点时间，我们就能轻松打通霍尔木兹海峡，拿走石油，大赚一笔。”"
     },
     {
-      "id": "brief-2",
-      "category": "财经",
-      "source": "中新网财经",
-      "source_zh": "中新网财经",
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 15,
       "published_at": "2026-04-03T15:30:53+00:00",
@@ -149,10 +165,10 @@
       "origin_note": "中国日报网4月3日电 清明假期将至，中国即将再次迎来出入境客流高峰。据预测，假期期间，全国口岸日均出入境人员预计超230万人次，较去年同期增长11.1%。国际旅游行业媒体《旅行与旅游世界》报道称，中国出入境便利化政策红利的不断释放是实现这…"
     },
     {
-      "id": "brief-1",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-04-03T15:34:33+00:00",
@@ -165,10 +181,10 @@
       "origin_note": "新疆将资源优势转化为高质量发展胜势(“十五五”开好局起好步)"
     },
     {
-      "id": "brief-4",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
+      "id": "brief-5",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-04-03T15:26:58+00:00",
@@ -181,10 +197,10 @@
       "origin_note": "3月31日，日本防卫省在熊本县与静冈县部署了具备所谓“反击能力”的远程进攻性导弹，并计划未来十年内部署至日本全境，加速构建全国性导弹网络。这是日本首次部署此类导弹，其中“25式陆基反舰导弹”射程约1000公里，远超本土防卫需求，可覆盖朝鲜…"
     },
     {
-      "id": "brief-5",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-04-03T15:22:28+00:00",
@@ -197,7 +213,7 @@
       "origin_note": "央视网消息(新闻联播)：眼下，大批候鸟陆续开启北迁之旅，各地通过生态保护修复、智能监测等，为候鸟迁徙保驾护航。"
     },
     {
-      "id": "brief-7",
+      "id": "brief-8",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -213,7 +229,7 @@
       "origin_note": "春风送暖，万物复苏。一年一度的清明假期如约而至，全国铁路清明运输大幕正式拉开。从4月3日至4月7日，为期5天的铁路清明运输，预计发送旅客9050万人次，单日最高峰将达到2120万人次。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -229,7 +245,7 @@
       "origin_note": "央视网消息：为期5天的铁路清明假期运输4月3日启动。这个清明假期，不少旅客在购票的时候会有这样的疑问：铁路12306App购票界面上有时带“复兴号”字样，有时还标了“智能动车组”字样。这些都有什么含义？我们在买票的时候要注意什么呢？"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -245,7 +261,7 @@
       "origin_note": "企业闯市场，何以路更宽(现场评论)"
     },
     {
-      "id": "brief-13",
+      "id": "brief-14",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -261,7 +277,7 @@
       "origin_note": "央视网消息：“十五五”规划纲要中提出，推动交通动力低碳替代，加快货运、公共领域电动化和绿色燃料车船应用。如今，在万里长江之上，绿色船舶正在加速应用，并带动相关产业蓬勃发展。"
     },
     {
-      "id": "brief-16",
+      "id": "brief-17",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -277,7 +293,7 @@
       "origin_note": "学习笔记 | 树牢正确政绩观，持续整治形式主义为基层减负"
     },
     {
-      "id": "brief-17",
+      "id": "brief-18",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -293,7 +309,7 @@
       "origin_note": "中新社莫斯科4月3日电 俄罗斯国防部3日通报说，俄军一架苏-30战机在克里米亚地区进行飞行训练时坠毁。机组人员弹射逃生。"
     },
     {
-      "id": "brief-18",
+      "id": "brief-19",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -307,22 +323,6 @@
       "insight": "4月3日，桂林北站、阳朔站陆续迎来2000余名香港游客，开启北上踏春之旅。",
       "history": "",
       "origin_note": "中新网桂林4月3日电(欧惠兰 邓竣缤)4月3日，桂林北站、阳朔站陆续迎来2000余名香港游客，开启北上踏春之旅。"
-    },
-    {
-      "id": "brief-20",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-04-03T13:47:06+00:00",
-      "title": "中国科研团队发现鸭嘴龙类新恐龙",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-03/10598602.shtml",
-      "summary": "中国科研团队发现鸭嘴龙类新恐龙。",
-      "content_summary": "记者3日从中国地质大学(武汉)获悉，该校地球与行星科学学院副教授韩凤禄研究团队，联合多家科研机构，在中国江西赣州盆地晚白垩世地层中，发现并命名一种新的鸭嘴龙类恐龙——帆尾贡水…。",
-      "insight": "记者3日从中国地质大学(武汉)获悉，该校地球与行星科学学院副教授韩凤禄研究团队，联合多家科研机构，在中国江西赣州盆地晚白垩世地层中，发现并命名一种新的鸭嘴龙类恐龙——帆尾贡水…。",
-      "history": "",
-      "origin_note": "中新社武汉4月3日电 (马芙蓉 余淳梅 王俊芳)记者3日从中国地质大学(武汉)获悉，该校地球与行星科学学院副教授韩凤禄研究团队，联合多家科研机构，在中国江西赣州盆地晚白垩世地层中，发现并命名一种新的鸭嘴龙类恐龙——帆尾贡水龙。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-03T16:05:19.086354+00:00",
+      "published_at": "2026-04-03T17:55:29.842276+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-03T16:05:19.086312+00:00",
+      "published_at": "2026-04-03T17:55:29.842213+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-03T16:05:19.086260+00:00",
+      "published_at": "2026-04-03T17:55:29.842163+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-03T16:05:19.086188+00:00",
+      "published_at": "2026-04-03T17:55:29.842112+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-03T16:05:19.086085+00:00",
+      "published_at": "2026-04-03T17:55:29.842027+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -407,7 +407,7 @@
       "origin_note": "Tencent Music Entertainment Group (\"TME,\" or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and au…"
     },
     {
-      "id": "industry-30",
+      "id": "industry-31",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -423,7 +423,7 @@
       "origin_note": "2026年度第五批重点作品版权保护预警名单（院线电影）"
     },
     {
-      "id": "industry-51",
+      "id": "industry-52",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -439,7 +439,7 @@
       "origin_note": "国家版权局关于公布2025年全国著作权登记情况的通知"
     },
     {
-      "id": "industry-40",
+      "id": "industry-41",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -455,7 +455,7 @@
       "origin_note": "2026年度第四批重点作品版权保护预警名单（电视剧）"
     },
     {
-      "id": "industry-39",
+      "id": "industry-40",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -471,7 +471,7 @@
       "origin_note": "关于开展2026年全国知识产权宣传周活动的通知"
     },
     {
-      "id": "industry-37",
+      "id": "industry-38",
       "category": "法治",
       "source": "中新网法治",
       "source_zh": "中新网法治",
@@ -487,7 +487,7 @@
       "origin_note": "司法部日前发布2025年法治政府建设年度报告显示，2025年规范涉企行政执法专项行动共查纠涉企行政执法突出问题5.7万件次，为企业挽回经济损失289.7亿元。"
     },
     {
-      "id": "industry-44",
+      "id": "industry-45",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -503,7 +503,7 @@
       "origin_note": "中国民间文艺版权成果展在北京前门开展"
     },
     {
-      "id": "industry-47",
+      "id": "industry-48",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
