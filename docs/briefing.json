@@ -1,9 +1,25 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-08T19:53:05.218694+00:00",
+  "updatedAt": "2026-04-08T22:06:23.837150+00:00",
   "count": 20,
   "items": [
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 22,
+      "published_at": "2026-04-08T21:33:24+00:00",
+      "title": "我国成功发射卫星互联网低轨21组卫星",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-09/10600670.shtml",
+      "summary": "我国成功发射卫星互联网低轨21组卫星。",
+      "content_summary": "北京时间4月9日3时38分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨21组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "insight": "北京时间4月9日3时38分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨21组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "history": "",
+      "origin_note": "中新网北京4月9日电 (马帅莎 李宸)北京时间4月9日3时38分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨21组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+    },
     {
       "id": "brief-17",
       "category": "财经",
@@ -21,7 +37,23 @@
       "origin_note": "中新网西宁4月8日电(潘雨洁)8日，青海省商务厅联合澳门南粤科技园在西宁市举办青澳中医药产业政策宣介暨合作对接会。"
     },
     {
-      "id": "brief-6",
+      "id": "brief-1",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
+      "industry_focus": false,
+      "item_score": 20,
+      "published_at": "2026-04-08T21:37:20+00:00",
+      "title": "伊朗公布霍尔木兹海峡安全航路图",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-09/10600671.shtml",
+      "summary": "伊朗公布霍尔木兹海峡安全航路图。",
+      "content_summary": "伊朗港口和海事组织8日公布霍尔木兹海峡水域安全航路图，告知往来船只遵守航运安全原则，避免触雷。",
+      "insight": "伊朗港口和海事组织8日公布霍尔木兹海峡水域安全航路图，告知往来船只遵守航运安全原则，避免触雷。",
+      "history": "",
+      "origin_note": "伊朗港口和海事组织8日公布霍尔木兹海峡水域安全航路图，告知往来船只遵守航运安全原则，避免触雷。"
+    },
+    {
+      "id": "brief-8",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -37,7 +69,7 @@
       "origin_note": "中新社莫斯科4月8日电 俄罗斯外交部8日召见日本驻俄大使，就日本企业与乌克兰军用无人机开发商签署合作协议一事向日方提出抗议。"
     },
     {
-      "id": "brief-1",
+      "id": "brief-3",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -53,7 +85,7 @@
       "origin_note": "中新社西宁4月8日电(祁增蓓)青海省应急管理厅8日公布新建西宁至成都铁路(以下简称“西成铁路”)尖扎黄河特大桥施工项目“8·22”重大垮塌事故调查报告。经调查认定，该事故为重大生产安全责任事故，目前已有11名涉嫌犯罪人员被移送司法，42名…"
     },
     {
-      "id": "brief-2",
+      "id": "brief-4",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -69,7 +101,7 @@
       "origin_note": "伊朗武装部队哈塔姆安比亚中央总部8日发表声明，宣布在对美国和以色列历时40天的抵抗战争中取得胜利，并称已准备应对一场“更加猛烈、更加漫长、更加广泛的战争”。"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -149,7 +181,7 @@
       "origin_note": "国务院关于产业链供应链安全的规定"
     },
     {
-      "id": "brief-3",
+      "id": "brief-5",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -165,7 +197,7 @@
       "origin_note": "新华社北京4月8日电 4月8日，中共中央对外联络部部长刘海星在北京会见由党主席、联邦众议员布歇率领的比利时法语革新运动代表团，就通过党际渠道落实两国领导人重要共识、促进各领域务实合作、推动中比中欧关系发展等交换意见。"
     },
     {
-      "id": "brief-7",
+      "id": "brief-9",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -181,23 +213,7 @@
       "origin_note": "总台记者当地时间8日自伊朗方面获悉，一位知情人士称，如果以色列继续违反停火协议并持续袭击黎巴嫩，伊朗将考虑退出该协议。"
     },
     {
-      "id": "brief-8",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 16,
-      "published_at": "2026-04-08T14:35:43+00:00",
-      "title": "消息人士称伊朗准备对以色列开展“威慑行动”",
-      "url": "https://www.chinanews.com.cn/gj/2026/04-08/10600661.shtml",
-      "summary": "消息人士称伊朗准备对以色列开展“威慑行动”。",
-      "content_summary": "据伊朗方面当地时间8日消息，一名知情人士称，鉴于以色列违反涉及黎巴嫩的临时停火协议，伊朗正在敲定对以色列军事目标实施“威慑行动”的计划。",
-      "insight": "据伊朗方面当地时间8日消息，一名知情人士称，鉴于以色列违反涉及黎巴嫩的临时停火协议，伊朗正在敲定对以色列军事目标实施“威慑行动”的计划。",
-      "history": "",
-      "origin_note": "据伊朗方面当地时间8日消息，一名知情人士称，鉴于以色列违反涉及黎巴嫩的临时停火协议，伊朗正在敲定对以色列军事目标实施“威慑行动”的计划。"
-    },
-    {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -245,7 +261,7 @@
       "origin_note": "中新网杭州4月8日电(奚金燕)据浙江省市场监管局8日消息，第三届“3·15放心消费嘉年华”公益活动收官。活动以“品质消费、悦享生活”为主题，将传统“消费维权日”升级为全民参与的“消费促进日”，活动期间仅线下参与企业达4.48万家，惠及消费…"
     },
     {
-      "id": "brief-4",
+      "id": "brief-6",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -261,7 +277,7 @@
       "origin_note": "美国总统特朗普8日在接受采访时称，美伊两周的停火不包括黎巴嫩和黎真主党。"
     },
     {
-      "id": "brief-5",
+      "id": "brief-7",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -277,7 +293,7 @@
       "origin_note": "新华社德黑兰4月8日电 据伊朗法尔斯通讯社8日报道，在以色列袭击黎巴嫩之后，伊朗叫停了霍尔木兹海峡的油轮通行。"
     },
     {
-      "id": "brief-13",
+      "id": "brief-14",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -293,7 +309,7 @@
       "origin_note": "中新社贵阳4月8日电 (记者 周燕玲)“我们将进一步加大在贵州的投资力度，积极探索多元合作模式，期待与贵州在文创文旅、农产品以及酒业等方面加强合作。”旺旺集团北京首席代表林天良8日在贵阳说，将持续深耕贵州。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -307,22 +323,6 @@
       "insight": "纪念西安交通大学(下称“西安交大”)建校130周年暨西迁70周年——中国特色、世界一流大学高质量发展大会8日在西安举行。",
       "history": "",
       "origin_note": "中新社西安4月8日电 (李一璠)纪念西安交通大学(下称“西安交大”)建校130周年暨西迁70周年——中国特色、世界一流大学高质量发展大会8日在西安举行。"
-    },
-    {
-      "id": "brief-15",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-04-08T14:04:40+00:00",
-      "title": "30余个海内外客属社团河南偃师祖根地拜谒",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-08/10600635.shtml",
-      "summary": "30余个海内外客属社团河南偃师祖根地拜谒。",
-      "content_summary": "第二届客家回家寻根活动8日在河南洛阳偃师区世界客家祖根地纪念公园举行，来自马来西亚、英国等国家和地区的30余个海内外客属社团集聚于此，拜谒寻根。",
-      "insight": "第二届客家回家寻根活动8日在河南洛阳偃师区世界客家祖根地纪念公园举行，来自马来西亚、英国等国家和地区的30余个海内外客属社团集聚于此，拜谒寻根。",
-      "history": "",
-      "origin_note": "中新社河南洛阳4月8日电(张楠 连晨宇)第二届客家回家寻根活动8日在河南洛阳偃师区世界客家祖根地纪念公园举行，来自马来西亚、英国等国家和地区的30余个海内外客属社团集聚于此，拜谒寻根。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-08T19:53:03.475603+00:00",
+      "published_at": "2026-04-08T22:06:20.875152+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-08T19:53:03.475562+00:00",
+      "published_at": "2026-04-08T22:06:20.875111+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-08T19:53:03.475512+00:00",
+      "published_at": "2026-04-08T22:06:20.875058+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-08T19:53:03.475461+00:00",
+      "published_at": "2026-04-08T22:06:20.874984+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-08T19:53:03.475373+00:00",
+      "published_at": "2026-04-08T22:06:20.874903+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
