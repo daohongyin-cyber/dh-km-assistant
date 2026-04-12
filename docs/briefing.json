@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-11T23:05:43.414841+00:00",
+  "updatedAt": "2026-04-12T00:04:53.662681+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-3",
+      "id": "brief-5",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -21,23 +21,7 @@
       "origin_note": "出了新国标，原来的充电宝还能用吗(政策问答·回应关切)"
     },
     {
-      "id": "brief-7",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 20,
-      "published_at": "2026-04-11T22:29:14+00:00",
-      "title": "特朗普称并不在意美伊会谈能否达成协议",
-      "url": "https://www.chinanews.com.cn/gj/2026/04-12/10602265.shtml",
-      "summary": "特朗普称并不在意美伊会谈能否达成协议。",
-      "content_summary": "新华社华盛顿4月11日电 美国总统特朗普11日在白宫接受记者采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。",
-      "insight": "新华社华盛顿4月11日电 美国总统特朗普11日在白宫接受记者采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。",
-      "history": "",
-      "origin_note": "新华社华盛顿4月11日电 美国总统特朗普11日在白宫接受记者采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。"
-    },
-    {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "AI",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -59,6 +43,38 @@
       "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
+      "published_at": "2026-04-11T23:25:35+00:00",
+      "title": "伊媒：伊美谈判延长一天 12日继续",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-12/10602273.shtml",
+      "summary": "伊媒：伊美谈判延长一天 12日继续。",
+      "content_summary": "新华社德黑兰4月12日电 伊朗媒体12日凌晨报道，伊朗与美国在巴基斯坦首都伊斯兰堡的谈判延长一天，12日将继续。",
+      "insight": "新华社德黑兰4月12日电 伊朗媒体12日凌晨报道，伊朗与美国在巴基斯坦首都伊斯兰堡的谈判延长一天，12日将继续。",
+      "history": "",
+      "origin_note": "新华社德黑兰4月12日电 伊朗媒体12日凌晨报道，伊朗与美国在巴基斯坦首都伊斯兰堡的谈判延长一天，12日将继续。"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-04-11T23:00:20+00:00",
+      "title": "4月12日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/04-12/10602272.shtml",
+      "summary": "4月12日新闻早报。",
+      "content_summary": "4月12日新闻早报这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "insight": "4月12日新闻早报这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "history": "",
+      "origin_note": "4月12日新闻早报"
+    },
+    {
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
       "published_at": "2026-04-11T22:53:53+00:00",
       "title": "伊美之间的“马拉松式谈判”还将继续",
       "url": "https://www.chinanews.com.cn/gj/2026/04-12/10602271.shtml",
@@ -69,7 +85,7 @@
       "origin_note": "新华社德黑兰4月12日电 据伊朗塔斯尼姆通讯社12日报道，伊朗与美国在巴基斯坦首都伊斯兰堡举行的第三轮面对面谈判结束，但双方“马拉松式谈判”还将继续。"
     },
     {
-      "id": "brief-2",
+      "id": "brief-4",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -85,7 +101,7 @@
       "origin_note": "新华社快讯：据伊朗媒体报道，伊朗与美国的谈判延长一天，将于12日继续。"
     },
     {
-      "id": "brief-4",
+      "id": "brief-6",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -101,10 +117,10 @@
       "origin_note": "中新社巴黎4月11日电 (记者 李洋)法国总统马克龙当地时间11日通过社交媒体表示，他当天分别同伊朗、沙特阿拉伯和土耳其领导人通电话。"
     },
     {
-      "id": "brief-5",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-7",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-04-11T22:46:22+00:00",
@@ -117,10 +133,10 @@
       "origin_note": "中新社纽约4月11日电 (记者 王帆)美国纽约市警察局11日称，一名手持砍刀的男子当天在纽约中央车站地铁站随机袭击砍伤三人，随后被赶到的警员开枪击毙。"
     },
     {
-      "id": "brief-6",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-8",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-04-11T22:30:44+00:00",
@@ -133,7 +149,7 @@
       "origin_note": "新华社耶路撒冷4月11日电(记者王卓伦 冯国芮)以色列总理内塔尼亚胡11日晚发表声明称，“消灭(黎巴嫩)真主党”是以色列与黎巴嫩进行停火谈判的先决条件。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -149,7 +165,7 @@
       "origin_note": "中新社北京4月11日电 据中国航天科技集团消息，北京时间4月11日19时32分，中国在广东阳江附近海域使用捷龙三号运载火箭，将卫星互联网技术试验卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
     },
     {
-      "id": "brief-15",
+      "id": "brief-16",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -165,39 +181,7 @@
       "origin_note": "中新网北京4月11日电 (马帅莎 李宸)北京时间4月11日19时32分，我国太原卫星发射中心在广东阳江附近海域使用捷龙三号运载火箭，成功将卫星互联网技术试验卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
     },
     {
-      "id": "brief-27",
-      "category": "政策",
-      "source": "中国政府网",
-      "source_zh": "中国政府网",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-04-09T00:00:00+00:00",
-      "title": "国务院办公厅印发《关于加快建设分级诊疗体系的若干措施》的通知",
-      "url": "https://www.gov.cn/zhengce/content/202604/content_7065030.htm",
-      "summary": "国务院办公厅印发《关于加快建设分级诊疗体系的若干措施》的通知。",
-      "content_summary": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "insight": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "history": "",
-      "origin_note": "国务院办公厅印发《关于加快建设分级诊疗体系的若干措施》的通知"
-    },
-    {
-      "id": "brief-28",
-      "category": "政策",
-      "source": "中国政府网",
-      "source_zh": "中国政府网",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-04-09T00:00:00+00:00",
-      "title": "国务院关于印发《中国（内蒙古）自由贸易试验区总体方案》的通知",
-      "url": "https://www.gov.cn/zhengce/content/202604/content_7065009.htm",
-      "summary": "国务院关于印发《中国（内蒙古）自由贸易试验区总体方案》的通知。",
-      "content_summary": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "insight": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "history": "",
-      "origin_note": "国务院关于印发《中国（内蒙古）自由贸易试验区总体方案》的通知"
-    },
-    {
-      "id": "brief-9",
+      "id": "brief-10",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -213,7 +197,7 @@
       "origin_note": "“獴猎行动，正在行动”，近日，广西百色边境管理支队对外公布了一起特大偷越国边境案，警方历时31个月，摧毁了一个内地通往西南边境的特大跨境偷渡团伙。来看团伙各级成员是如何悉数落网的。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "AI",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -229,7 +213,7 @@
       "origin_note": "新华社北京4月11日电(记者赵博、王承昊)“知道要来大陆访问，我特别要求了两个北京部分的行程：看看中小学的人工智能教育，到中关村与科创企业座谈。”11日，正在北京参访的中国国民党主席郑丽文快人快语，道出真切感受——“不虚此行”。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "AI",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -245,7 +229,7 @@
       "origin_note": "中新社上海4月11日电 (记者 陈静)正在上海举行的第93届中国国际医疗器械博览会(CMEF)上，多款人工智能(AI)医疗应用引关注。"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -261,7 +245,7 @@
       "origin_note": "中新社海口4月11日电(记者 王子谦)在第六届中国国际消费品博览会(简称“消博会”)展厅内，加拿大展商格雷格·泽施克(Greg Zeschuk)热情地邀请记者添加联系方式，“我第一次把产品带到中国市场，希望有更多人来了解。”"
     },
     {
-      "id": "brief-17",
+      "id": "brief-18",
       "category": "AI",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -277,7 +261,7 @@
       "origin_note": "中新网合肥4月11日电 (记者 储玮玮)第三届中国具身智能大会4月10日至12日在安徽合肥举行。多位与会院士指出，具身智能作为人工智能迈向物理世界的关键前沿，其健康发展需技术、产业与安全协同并进。"
     },
     {
-      "id": "brief-22",
+      "id": "brief-23",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -293,7 +277,7 @@
       "origin_note": "今天(11日)，最高人民法院对2026年第一季度司法审判数据展开分析研判会商。"
     },
     {
-      "id": "brief-13",
+      "id": "brief-14",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -309,7 +293,7 @@
       "origin_note": "中新社石家庄4月11日电 题：艾奥瓦州马斯卡廷中国友好委员会主席：春访故树深耕中美民间情"
     },
     {
-      "id": "brief-21",
+      "id": "brief-22",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -323,6 +307,22 @@
       "insight": "11日，云南省普洱市澜沧拉祜族自治县迎来泼水节。当地傣族、拉祜族、哈尼族、佤族等各民族组成的9个代表方阵，进行民族大联欢巡游，并与来自世界各地的游客在清水互泼中传递祝福，在载…。",
       "history": "",
       "origin_note": "中新网普洱4月11日电 (黄兴鸿)11日，云南省普洱市澜沧拉祜族自治县迎来泼水节。当地傣族、拉祜族、哈尼族、佤族等各民族组成的9个代表方阵，进行民族大联欢巡游，并与来自世界各地的游客在清水互泼中传递祝福，在载歌载舞中深化情谊，共同绘就了一…"
+    },
+    {
+      "id": "brief-24",
+      "category": "国内",
+      "source": "中新网国内",
+      "source_zh": "中新网国内",
+      "industry_focus": false,
+      "item_score": 14,
+      "published_at": "2026-04-11T11:52:37+00:00",
+      "title": "福建省区域国别学会成立",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-11/10602171.shtml",
+      "summary": "福建省区域国别学会成立。",
+      "content_summary": "11日，福建省区域国别学会成立大会在厦门举办，多位专家学者围绕“交叉学科创新融合发展”开展学术研讨，为该学科建设和学会发展提供意见建议。",
+      "insight": "11日，福建省区域国别学会成立大会在厦门举办，多位专家学者围绕“交叉学科创新融合发展”开展学术研讨，为该学科建设和学会发展提供意见建议。",
+      "history": "",
+      "origin_note": "中新网厦门4月11日电 (吴冠标)11日，福建省区域国别学会成立大会在厦门举办，多位专家学者围绕“交叉学科创新融合发展”开展学术研讨，为该学科建设和学会发展提供意见建议。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-11T23:05:40.931401+00:00",
+      "published_at": "2026-04-12T00:04:51.238249+00:00",
       "title": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
       "url": "https://ir.tencentmusic.com/2025-09-23-Tencent-Music-Entertainment-Group-Announces-New-Audit-Committee-Member",
       "summary": "腾讯音乐娱乐集团 公布 新增审计委员会成员。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-11T23:05:40.931360+00:00",
+      "published_at": "2026-04-12T00:04:51.238213+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-11T23:05:40.931310+00:00",
+      "published_at": "2026-04-12T00:04:51.238169+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-11T23:05:40.931260+00:00",
+      "published_at": "2026-04-12T00:04:51.238125+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-11T23:05:40.931171+00:00",
+      "published_at": "2026-04-12T00:04:51.238042+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -407,7 +407,7 @@
       "origin_note": "Tencent Music Entertainment Group (\"TME,\" or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and au…"
     },
     {
-      "id": "industry-52",
+      "id": "industry-53",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -423,7 +423,7 @@
       "origin_note": "国家版权局关于公布2025年全国著作权登记情况的通知"
     },
     {
-      "id": "industry-38",
+      "id": "industry-39",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -439,7 +439,7 @@
       "origin_note": "2026年度第五批重点作品版权保护预警名单（院线电影）"
     },
     {
-      "id": "industry-43",
+      "id": "industry-44",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -455,7 +455,7 @@
       "origin_note": "2026年度第四批重点作品版权保护预警名单（电视剧）"
     },
     {
-      "id": "industry-46",
+      "id": "industry-47",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -471,7 +471,7 @@
       "origin_note": "中国民间文艺版权成果展在北京前门开展"
     },
     {
-      "id": "industry-49",
+      "id": "industry-50",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -487,7 +487,7 @@
       "origin_note": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开"
     },
     {
-      "id": "industry-42",
+      "id": "industry-43",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -503,7 +503,7 @@
       "origin_note": "关于开展2026年全国知识产权宣传周活动的通知"
     },
     {
-      "id": "industry-53",
+      "id": "industry-54",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
