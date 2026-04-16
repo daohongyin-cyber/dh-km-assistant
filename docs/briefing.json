@@ -1,7 +1,7 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-16T16:10:07.088217+00:00",
+  "updatedAt": "2026-04-16T19:52:08.359286+00:00",
   "count": 20,
   "items": [
     {
@@ -53,7 +53,23 @@
       "origin_note": "中新网广州4月16日电 (记者 郭军)4月16日，国家税务总局广东省税务局与广东省人民政府国有资产监督管理委员会联合举办“共筑合规生态赋能国企发展”政策宣讲会，向18户广东省属国有大企业集团开展合规遵从专题引导服务，并正式签署促进省属企业…"
     },
     {
-      "id": "brief-7",
+      "id": "brief-1",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-04-16T16:16:11+00:00",
+      "title": "特朗普称将邀请以总理和黎总统前往白宫举行会谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-17/10605249.shtml",
+      "summary": "特朗普称将邀请以总理和黎总统前往白宫举行会谈。",
+      "content_summary": "当地时间4月16日，美国总统特朗普在其社交媒体“真实社交”上发文表示，他将邀请以色列总理内塔尼亚胡和黎巴嫩总统奥恩前往白宫，举行自1983年以来以色列与黎巴嫩之间的首次实质性…。",
+      "insight": "当地时间4月16日，美国总统特朗普在其社交媒体“真实社交”上发文表示，他将邀请以色列总理内塔尼亚胡和黎巴嫩总统奥恩前往白宫，举行自1983年以来以色列与黎巴嫩之间的首次实质性…。",
+      "history": "",
+      "origin_note": "当地时间4月16日，美国总统特朗普在其社交媒体“真实社交”上发文表示，他将邀请以色列总理内塔尼亚胡和黎巴嫩总统奥恩前往白宫，举行自1983年以来以色列与黎巴嫩之间的首次实质性会谈。"
+    },
+    {
+      "id": "brief-8",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -85,7 +101,7 @@
       "origin_note": "国务院办公厅关于深化投资审批制度改革的意见"
     },
     {
-      "id": "brief-4",
+      "id": "brief-5",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -101,7 +117,7 @@
       "origin_note": "中新社贵阳4月16日电 (记者 杨茜)贵州茅台酒股份有限公司(简称，贵州茅台)16日晚发布2025年年报显示，贵州茅台2025年实现营业总收入1720.54亿元(人民币，下同)，利润总额1147.55亿元，归母净利润823.20亿元。"
     },
     {
-      "id": "brief-5",
+      "id": "brief-6",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -149,7 +165,7 @@
       "origin_note": "中新社北京4月16日电 (记者 陈康亮)中国经济2026年一季度“成绩单”16日正式揭晓：当季国内生产总值(GDP)同比增长5%，比去年四季度大幅回升0.5个百分点，实现良好开局。"
     },
     {
-      "id": "brief-1",
+      "id": "brief-2",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -165,7 +181,7 @@
       "origin_note": "新华社华盛顿4月16日电 美国总统特朗普16日说，黎巴嫩与以色列将于美国东部时间当天17时正式启动为期10天的停火。"
     },
     {
-      "id": "brief-2",
+      "id": "brief-3",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -181,7 +197,7 @@
       "origin_note": "新华社德黑兰4月16日电(记者沙达提 陈霄)中国向伊朗提供紧急人道主义援助项目政府间交接证书签字仪式15日在德黑兰的伊朗红新月会总部举行，中国驻伊朗大使丛培武同伊朗红新月会主席科利万德出席。"
     },
     {
-      "id": "brief-6",
+      "id": "brief-7",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -197,7 +213,7 @@
       "origin_note": "黎巴嫩总统府16日发表声明说，黎巴嫩总统奥恩与美国总统特朗普通电话。奥恩希望特朗普尽快继续推动停火努力。"
     },
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -213,7 +229,7 @@
       "origin_note": "4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表。"
     },
     {
-      "id": "brief-9",
+      "id": "brief-10",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -227,22 +243,6 @@
       "insight": "4月16日，中共中央政治局委员、外交部长王毅在北京会见意大利副总理兼外长塔亚尼。",
       "history": "",
       "origin_note": "中新社北京4月16日电 4月16日，中共中央政治局委员、外交部长王毅在北京会见意大利副总理兼外长塔亚尼。"
-    },
-    {
-      "id": "brief-10",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-04-16T14:45:41+00:00",
-      "title": "德媒：德国准备参与霍尔木兹海峡安全保障行动",
-      "url": "https://www.chinanews.com.cn/gj/2026/04-16/10605237.shtml",
-      "summary": "德媒：德国准备参与霍尔木兹海峡安全保障行动。",
-      "content_summary": "新华社柏林4月16日电(记者张毅荣 李超)据德国媒体16日报道，德国已准备好在满足相关前提条件的情况下，参与一项可能进行的霍尔木兹海峡安全保障行动，并提供其扫雷和海上侦察方面…。",
-      "insight": "新华社柏林4月16日电(记者张毅荣 李超)据德国媒体16日报道，德国已准备好在满足相关前提条件的情况下，参与一项可能进行的霍尔木兹海峡安全保障行动，并提供其扫雷和海上侦察方面…。",
-      "history": "",
-      "origin_note": "新华社柏林4月16日电(记者张毅荣 李超)据德国媒体16日报道，德国已准备好在满足相关前提条件的情况下，参与一项可能进行的霍尔木兹海峡安全保障行动，并提供其扫雷和海上侦察方面的能力。"
     },
     {
       "id": "brief-11",
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-16T16:10:05.149398+00:00",
+      "published_at": "2026-04-16T19:52:06.054172+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
       "url": "https://ir.tencentmusic.com/2025-10-14-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2025-Financial-Results-on-November-12,-2025",
       "summary": "腾讯音乐娱乐集团 将公布 第三季度 2025 财报 （时间：November 12, 2025）。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-16T16:10:05.149349+00:00",
+      "published_at": "2026-04-16T19:52:06.054124+00:00",
       "title": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2025-11-12-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第三季度 2025 未审计财报。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-16T16:10:05.149302+00:00",
+      "published_at": "2026-04-16T19:52:06.054080+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-16T16:10:05.149242+00:00",
+      "published_at": "2026-04-16T19:52:06.054023+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-16T16:10:05.149167+00:00",
+      "published_at": "2026-04-16T19:52:06.053952+00:00",
       "title": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-04-14-Tencent-Music-Entertainment-Group-to-Report-First-Quarter-2026-Financial-Results-on-May-12,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
