@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-25T15:06:25.902687+00:00",
+  "updatedAt": "2026-04-25T15:53:25.482935+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-26",
+      "id": "brief-27",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -21,23 +21,7 @@
       "origin_note": "当地时间25日，乌克兰总统泽连斯基在访问阿塞拜疆期间，与阿塞拜疆总统伊利哈姆·阿利耶夫共同发表联合声明。泽连斯基在声明中表示，此次访问期间，乌阿两国正式签署了六项协议，涵盖多个不同领域，其中他特别强调了双方达成的安全协议的重要性。"
     },
     {
-      "id": "brief-27",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 24,
-      "published_at": "2026-04-25T09:18:49+00:00",
-      "title": "刚果(布)公布新政府成员名单",
-      "url": "https://www.chinanews.com.cn/gj/2026/04-25/10610788.shtml",
-      "summary": "刚果(布)公布新政府成员名单。",
-      "content_summary": "新华社布拉柴维尔4月25日电(记者郑扬子)刚果(布)总统府24日晚在国家电视台发布公告，宣布新一届政府成员名单。",
-      "insight": "新华社布拉柴维尔4月25日电(记者郑扬子)刚果(布)总统府24日晚在国家电视台发布公告，宣布新一届政府成员名单。",
-      "history": "",
-      "origin_note": "新华社布拉柴维尔4月25日电(记者郑扬子)刚果(布)总统府24日晚在国家电视台发布公告，宣布新一届政府成员名单。"
-    },
-    {
-      "id": "brief-3",
+      "id": "brief-5",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -53,7 +37,7 @@
       "origin_note": "中新社北京4月25日电 (记者 马帅莎)据中国航天科技集团消息，北京时间4月25日20时15分，中国在太原卫星发射中心使用长征六号运载火箭，成功将巴基斯坦PRSC-EO3卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
     },
     {
-      "id": "brief-18",
+      "id": "brief-19",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -69,7 +53,7 @@
       "origin_note": "中新网郑州4月25日电 (记者 李贵刚)法治是最好的营商环境，破产制度是市场经济有序运行的重要保障。4月25日，河南省破产管理人协会成立大会暨揭牌仪式在郑州举行，这标志着该省破产法治建设迈上新台阶。"
     },
     {
-      "id": "brief-21",
+      "id": "brief-22",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -85,7 +69,7 @@
       "origin_note": "中新社伦敦4月25日电 (记者 欧阳开宇)英国警方25日通报，24日晚，英国英格兰西米德兰兹郡伍尔弗汉普顿市一栋民宅突发火灾，造成两名年幼儿童不幸身亡，警方已就事故原因展开调查。"
     },
     {
-      "id": "brief-22",
+      "id": "brief-23",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -101,7 +85,7 @@
       "origin_note": "中新网北京4月25日电 当地时间4月23日，2026年亚太经合组织(APEC)工商咨询理事会(ABAC)第二次会议在墨西哥首都墨西哥城开幕。2026年APEC工商领导人峰会主席、中国贸促会会长任鸿斌率中国企业家代表团出席并致辞，2026年…"
     },
     {
-      "id": "brief-24",
+      "id": "brief-25",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -117,7 +101,7 @@
       "origin_note": "中新网北京4月25日电 (马帅莎 李宸)北京时间4月25日20时15分，我国在太原卫星发射中心使用长征六号运载火箭，成功将巴基斯坦PRSC-EO3卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
     },
     {
-      "id": "brief-9",
+      "id": "brief-10",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -133,7 +117,7 @@
       "origin_note": "中新社昆明4月25日电 (记者 韩帅南)记者25日从中国华能获悉，当日，随着云南德安、龙街等光伏场站并网发电，中国首个全国产控制系统水光互补项目——华能小湾水光互补项目正式投运，标志着中国在大型清洁能源基地核心装备自主可控领域取得重大突破。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -171,6 +155,38 @@
       "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
+      "published_at": "2026-04-25T15:42:45+00:00",
+      "title": "消息人士：伊朗外长或在未来率团返回伊斯兰堡",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-25/10610953.shtml",
+      "summary": "消息人士：伊朗外长或在未来率团返回伊斯兰堡。",
+      "content_summary": "新华社伊斯兰堡4月25日电(记者邹学冕 杨恺)巴基斯坦消息人士25日告诉新华社记者，如果相关接触进展顺利，伊朗外交部长阿拉格齐或在未来率团返回巴首都伊斯兰堡。",
+      "insight": "新华社伊斯兰堡4月25日电(记者邹学冕 杨恺)巴基斯坦消息人士25日告诉新华社记者，如果相关接触进展顺利，伊朗外交部长阿拉格齐或在未来率团返回巴首都伊斯兰堡。",
+      "history": "",
+      "origin_note": "新华社伊斯兰堡4月25日电(记者邹学冕 杨恺)巴基斯坦消息人士25日告诉新华社记者，如果相关接触进展顺利，伊朗外交部长阿拉格齐或在未来率团返回巴首都伊斯兰堡。"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-04-25T15:37:50+00:00",
+      "title": "2026中国足球女子超级联赛开幕 共有12支球队参赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/04-25/10610952.shtml",
+      "summary": "2026中国足球女子超级联赛开幕 共有12支球队参赛。",
+      "content_summary": "30，2026中国足球女子超级联赛在广西平果市国晶体育场拉开帷幕。新赛季女超共有12支球队参赛，在常规赛阶段，12支参赛队采用主客场单循环赛制，共进行11轮66场比赛。",
+      "insight": "30，2026中国足球女子超级联赛在广西平果市国晶体育场拉开帷幕。新赛季女超共有12支球队参赛，在常规赛阶段，12支参赛队采用主客场单循环赛制，共进行11轮66场比赛。",
+      "history": "",
+      "origin_note": "中新网4月25日电 4月25日晚19:30，2026中国足球女子超级联赛在广西平果市国晶体育场拉开帷幕。新赛季女超共有12支球队参赛，在常规赛阶段，12支参赛队采用主客场单循环赛制，共进行11轮66场比赛。"
+    },
+    {
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
       "published_at": "2026-04-25T14:40:07+00:00",
       "title": "伊朗代表团已离开巴基斯坦",
       "url": "https://www.chinanews.com.cn/gj/2026/04-25/10610951.shtml",
@@ -181,7 +197,7 @@
       "origin_note": "当地时间25日，总台记者获悉，伊朗代表团已离开巴基斯坦。"
     },
     {
-      "id": "brief-4",
+      "id": "brief-6",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -197,7 +213,7 @@
       "origin_note": "中新社安徽黄山4月25日电 (记者 赵强)一架满载230名旅客的A321型客机25日平稳降落在安徽黄山屯溪国际机场，标志着越南胡志明市至中国黄山国际包机航线正式开通。"
     },
     {
-      "id": "brief-5",
+      "id": "brief-7",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -213,7 +229,7 @@
       "origin_note": "中新社郑州4月25日电 (张楠)“与星同行——中国著名作家手稿展首展”25日在河南郑州启幕，莫言、冯骥才、梁晓声、刘慈欣等86位当代中国作家联合捐出200余件珍贵创作手稿，为“星星的孩子”(又称孤独症儿童)筹款。"
     },
     {
-      "id": "brief-7",
+      "id": "brief-8",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -229,7 +245,7 @@
       "origin_note": "中新社台北4月25日电 (记者 陈建新)25日于台北举行的一场研讨会上，多位岛内人士呼吁台当局，应直面台湾民众期盼两岸和平、加强两岸交流的主流民意，在两岸关系中主动争取对台湾有利的条件。"
     },
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -245,7 +261,7 @@
       "origin_note": "中新社悉尼4月25日电 (记者 薄雯雯)澳大利亚全国多地25日举行“澳新军团日”(Anzac Day)纪念活动，缅怀在战争中牺牲的军人。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -261,7 +277,7 @@
       "origin_note": "中新网大连4月25日电 (记者 杨毅)2026大连夏季达沃斯论坛中方社会化合作企业签约仪式25日举行，33家多领域企业与大连市夏季达沃斯论坛筹备协调委员会携手签约，为高质量办好论坛注入强劲企业动能。"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -277,7 +293,7 @@
       "origin_note": "原标题：学习新语·总书记引领强国之路｜让交通成为现代化的开路先锋"
     },
     {
-      "id": "brief-17",
+      "id": "brief-18",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -293,7 +309,7 @@
       "origin_note": "4月24日，2026北京国际汽车展览会盛大启幕。比亚迪全品牌齐聚北京车展，在E3馆包馆打造品牌独立展，王朝｜海洋、方程豹、腾势、仰望四大业务板块统一布局、集中展示，同时专门设置“天神之眼”和闪充技术专区，彰显比亚迪在智能辅助驾驶与电动化领…"
     },
     {
-      "id": "brief-19",
+      "id": "brief-20",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -307,22 +323,6 @@
       "insight": "航天事业是现代科学技术的集大成者，是国家工业整体水平的集中体现。习近平总书记高度重视航天事业发展，他强调，探索浩瀚宇宙，发展航天事业，建设航天强国，是我们不懈追求的航天梦。",
       "history": "",
       "origin_note": "航天事业是现代科学技术的集大成者，是国家工业整体水平的集中体现。习近平总书记高度重视航天事业发展，他强调，探索浩瀚宇宙，发展航天事业，建设航天强国，是我们不懈追求的航天梦。"
-    },
-    {
-      "id": "brief-20",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
-      "industry_focus": false,
-      "item_score": 18,
-      "published_at": "2026-04-25T13:03:23+00:00",
-      "title": "联播+｜“鸡毛飞上天”的时代启示",
-      "url": "https://www.chinanews.com.cn/gn/2026/04-25/10610918.shtml",
-      "summary": "联播+｜“鸡毛飞上天”的时代启示。",
-      "content_summary": "|联播+|义乌被誉为“世界超市”，在全球贸易版图上有着举足轻重的地位。",
-      "insight": "|联播+|义乌被誉为“世界超市”，在全球贸易版图上有着举足轻重的地位。",
-      "history": "",
-      "origin_note": "|联播+|义乌被誉为“世界超市”，在全球贸易版图上有着举足轻重的地位。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T15:06:21.912222+00:00",
+      "published_at": "2026-04-25T15:53:17.694481+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T15:06:21.912173+00:00",
+      "published_at": "2026-04-25T15:53:17.694417+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T15:06:21.912127+00:00",
+      "published_at": "2026-04-25T15:53:17.694347+00:00",
       "title": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-04-14-Tencent-Music-Entertainment-Group-to-Report-First-Quarter-2026-Financial-Results-on-May-12,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-04-25T15:06:21.912070+00:00",
+      "published_at": "2026-04-25T15:53:17.694291+00:00",
       "title": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
       "url": "https://ir.tencentmusic.com/2026-04-17-Tencent-Music-Entertainment-Group-Filed-2025-Annual-Report-on-Form-20-F",
       "summary": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-04-25T15:06:21.911998+00:00",
+      "published_at": "2026-04-25T15:53:17.694213+00:00",
       "title": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
       "url": "https://ir.tencentmusic.com/2026-04-20-Tencent-Music-Entertainment-Group-Releases-2025-ESG-Report",
       "summary": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
