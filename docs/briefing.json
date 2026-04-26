@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-04-25T23:24:30.830385+00:00",
+  "updatedAt": "2026-04-26T00:00:12.957142+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-19",
+      "id": "brief-20",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -21,7 +21,7 @@
       "origin_note": "新华社深圳4月25日电(记者陈宇轩)针对网传一名女子在深圳市光明区一公交站台劝阻一名男子吸烟引发争执一事，深圳市光明区成立由卫健、公安、交通、辖区街道组成的联合调查组。联合调查组25日晚发布情况通报称，涉事双方已自愿达成和解并签署《人民调…"
     },
     {
-      "id": "brief-14",
+      "id": "brief-15",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -37,10 +37,10 @@
       "origin_note": "拍案·加强知识产权保护丨“免费资源”背后隐患重重 警方严打侵犯电影著作权犯罪"
     },
     {
-      "id": "brief-2",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 20,
       "published_at": "2026-04-25T22:02:05+00:00",
@@ -53,7 +53,7 @@
       "origin_note": "未成年人违法驾车肇事折射多方监管漏洞"
     },
     {
-      "id": "brief-6",
+      "id": "brief-7",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -69,7 +69,7 @@
       "origin_note": "中新社北京4月25日电 当地时间4月25日，缅甸新任总统敏昂莱在内比都会见中共中央政治局委员、外交部长王毅。"
     },
     {
-      "id": "brief-7",
+      "id": "brief-8",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -85,7 +85,7 @@
       "origin_note": "新华社耶路撒冷4月25日电(记者庞昕熠 王卓伦)以色列总理办公室25日晚发布声明说，以总理内塔尼亚胡已下令以国防军“猛烈打击”黎巴嫩境内的真主党目标。"
     },
     {
-      "id": "brief-16",
+      "id": "brief-17",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -101,23 +101,7 @@
       "origin_note": "今年3月底，多条“云南深山救助流浪女”的短视频在网络热传，博主发布的所谓“救助场景”牵动人心，很多网友看完要捐钱捐物，还有的甚至要和博主一起前往救助。然而很快就有网友发现了这些“暖心”视频的破绽，一场虚假摆拍的骗局由此浮出水面。"
     },
     {
-      "id": "brief-30",
-      "category": "政策",
-      "source": "中国政府网",
-      "source_zh": "中国政府网",
-      "industry_focus": false,
-      "item_score": 20,
-      "published_at": "2026-04-23T00:00:00+00:00",
-      "title": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》",
-      "url": "https://www.gov.cn/zhengce/202604/content_7066695.htm",
-      "summary": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》。",
-      "content_summary": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "insight": "这是新的政策或监管动作，重点看执行范围、生效时间和后续配套细则。",
-      "history": "",
-      "origin_note": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》"
-    },
-    {
-      "id": "brief-1",
+      "id": "brief-2",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -133,7 +117,7 @@
       "origin_note": "4月26日新闻早报"
     },
     {
-      "id": "brief-3",
+      "id": "brief-4",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -149,7 +133,7 @@
       "origin_note": "拍视频、做直播、发书单……不少实体书店选择从社交媒体“破局”"
     },
     {
-      "id": "brief-5",
+      "id": "brief-6",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -165,7 +149,7 @@
       "origin_note": "中新社北京4月25日电 当地时间4月25日，中共中央政治局委员、外交部长王毅在内比都同缅甸外长丁貌瑞举行会谈。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-11",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -181,7 +165,7 @@
       "origin_note": "当地时间25日，伊朗总统府表示，伊朗总统佩泽希齐扬当天与巴基斯坦总理夏巴兹通电话。佩泽希齐扬在通话中表示，伊朗不会在压力、威胁和封锁下进行谈判。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-12",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -197,7 +181,7 @@
       "origin_note": "中新社阿斯塔纳4月25日电 加巴拉消息：当地时间25日，正在阿塞拜疆访问的乌克兰总统泽连斯基提议，在阿塞拜疆举行乌克兰与俄罗斯的谈判。"
     },
     {
-      "id": "brief-15",
+      "id": "brief-16",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -213,7 +197,7 @@
       "origin_note": "乌克兰总统泽连斯基25日称，俄罗斯对乌克兰中东部第聂伯罗彼得罗夫斯克州发动多轮大规模空袭，导致数十人死伤。"
     },
     {
-      "id": "brief-17",
+      "id": "brief-18",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -229,7 +213,7 @@
       "origin_note": "中新经纬4月25日电 (谢婧雯)“展会的规模很大，车型和品牌非常多。我们第一次来，实在是太震撼了。”24日，来自波兰的记者马尔辛·纳皮耶赖(Marcin Napieraj)在北京车展上感叹。"
     },
     {
-      "id": "brief-20",
+      "id": "brief-21",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -245,7 +229,7 @@
       "origin_note": "当地时间2026年4月25日，中共中央政治局委员、外交部长王毅在内比都同缅甸外长丁貌瑞举行会谈。"
     },
     {
-      "id": "brief-21",
+      "id": "brief-22",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -277,7 +261,7 @@
       "origin_note": "中新网4月24日电 国新办24日就《中国打击侵权假冒工作年度报告(2025)》有关情况举行发布会。会上，中央宣传部版权管理局局长王志成表示，今年，计划将文创领域版权保护纳入打击网络侵权盗版“剑网2026”专项行动，在抓好网络文学、网络销售…"
     },
     {
-      "id": "brief-12",
+      "id": "brief-13",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -293,7 +277,7 @@
       "origin_note": "南部战区24日发布：近期，中国人民解放军南部战区组织107编队位菲律宾吕宋岛以东海域开展演训活动，重点进行实弹射击、海空协同、快速机动、航行补给等演练，检验一体化联合作战能力。这是针对当前地区局势采取的必要行动，符合相关国际法和国际实践。…"
     },
     {
-      "id": "brief-8",
+      "id": "brief-9",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -323,6 +307,22 @@
       "insight": "记者25日从中国华能获悉，当日，随着云南德安、龙街等光伏场站并网发电，中国首个全国产控制系统水光互补项目——华能小湾水光互补项目正式投运，标志着中国在大型清洁能源基地核心装备…。",
       "history": "",
       "origin_note": "中新社昆明4月25日电 (记者 韩帅南)记者25日从中国华能获悉，当日，随着云南德安、龙街等光伏场站并网发电，中国首个全国产控制系统水光互补项目——华能小湾水光互补项目正式投运，标志着中国在大型清洁能源基地核心装备自主可控领域取得重大突破。"
+    },
+    {
+      "id": "brief-1",
+      "category": "国际",
+      "source": "中新网国际",
+      "source_zh": "中新网国际",
+      "industry_focus": false,
+      "item_score": 14,
+      "published_at": "2026-04-25T23:31:18+00:00",
+      "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-26/10610983.shtml",
+      "summary": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话。",
+      "content_summary": "当地时间25日，伊朗外长阿拉格齐率领的代表团结束对巴基斯坦的访问。随后，特朗普宣布取消美国代表原定访问巴基斯坦的行程。",
+      "insight": "当地时间25日，伊朗外长阿拉格齐率领的代表团结束对巴基斯坦的访问。随后，特朗普宣布取消美国代表原定访问巴基斯坦的行程。",
+      "history": "",
+      "origin_note": "当地时间25日，伊朗外长阿拉格齐率领的代表团结束对巴基斯坦的访问。随后，特朗普宣布取消美国代表原定访问巴基斯坦的行程。"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T23:24:28.573201+00:00",
+      "published_at": "2026-04-26T00:00:10.830678+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T23:24:28.573155+00:00",
+      "published_at": "2026-04-26T00:00:10.830627+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-04-25T23:24:28.573112+00:00",
+      "published_at": "2026-04-26T00:00:10.830580+00:00",
       "title": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-04-14-Tencent-Music-Entertainment-Group-to-Report-First-Quarter-2026-Financial-Results-on-May-12,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-04-25T23:24:28.573058+00:00",
+      "published_at": "2026-04-26T00:00:10.830519+00:00",
       "title": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
       "url": "https://ir.tencentmusic.com/2026-04-17-Tencent-Music-Entertainment-Group-Filed-2025-Annual-Report-on-Form-20-F",
       "summary": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-04-25T23:24:28.572984+00:00",
+      "published_at": "2026-04-26T00:00:10.830436+00:00",
       "title": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
       "url": "https://ir.tencentmusic.com/2026-04-20-Tencent-Music-Entertainment-Group-Releases-2025-ESG-Report",
       "summary": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
@@ -407,7 +407,7 @@
       "origin_note": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and au…"
     },
     {
-      "id": "industry-19",
+      "id": "industry-20",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
