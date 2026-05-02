@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-05-02T14:34:43.629005+00:00",
+  "updatedAt": "2026-05-02T15:27:23.969076+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-7",
+      "id": "brief-10",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -21,7 +21,7 @@
       "origin_note": "中新网北京5月2日电 2026年5月2日，商务部发布公告，宣布依据《阻断外国法律与措施不当域外适用办法》(《阻断办法》)，针对美国以参与涉及伊朗的石油交易为由，将恒力石化(大连)炼化有限公司等中国企业列入特别指定国民清单(SDN清单)的单…"
     },
     {
-      "id": "brief-5",
+      "id": "brief-8",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -37,39 +37,23 @@
       "origin_note": "中新社北京5月2日电 (记者 尹倩芸)中国商务部2日发布公告，公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令。"
     },
     {
-      "id": "brief-13",
-      "category": "财经",
-      "source": "中新网财经",
-      "source_zh": "中新网财经",
+      "id": "brief-1",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
-      "item_score": 23,
-      "published_at": "2026-05-02T12:41:54+00:00",
-      "title": "天津“五一”首日重点商贸企业客流同比增长7%",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-02/10614916.shtml",
-      "summary": "天津“五一”首日重点商贸企业客流同比增长7%。",
-      "content_summary": "2026年“五一”假期首日，天津消费市场“热力全开”。记者从天津市商务局获悉，该局重点监测的471家商贸流通企业当日实现销售额3.2亿元，同比增长2.7%；到店客流量216.…。",
-      "insight": "2026年“五一”假期首日，天津消费市场“热力全开”。记者从天津市商务局获悉，该局重点监测的471家商贸流通企业当日实现销售额3.2亿元，同比增长2.7%；到店客流量216.…。",
+      "item_score": 20,
+      "published_at": "2026-05-02T15:11:24+00:00",
+      "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+      "url": "https://www.chinanews.com.cn/gj/2026/05-02/10614962.shtml",
+      "summary": "美国威胁制裁向伊朗缴通行费的航运企业。",
+      "content_summary": "新华社北京5月2日电 美国财政部下属外国资产控制办公室5月1日警告说，任何航运公司以包括慈善捐款在内的任何形式，向伊朗支付霍尔木兹海峡通行费，都可能受到美国制裁。",
+      "insight": "新华社北京5月2日电 美国财政部下属外国资产控制办公室5月1日警告说，任何航运公司以包括慈善捐款在内的任何形式，向伊朗支付霍尔木兹海峡通行费，都可能受到美国制裁。",
       "history": "",
-      "origin_note": "中新网天津5月2日电 (记者 周亚强 王君妍)2026年“五一”假期首日，天津消费市场“热力全开”。记者从天津市商务局获悉，该局重点监测的471家商贸流通企业当日实现销售额3.2亿元，同比增长2.7%；到店客流量216.1万人次，同比增长…"
+      "origin_note": "新华社北京5月2日电 美国财政部下属外国资产控制办公室5月1日警告说，任何航运公司以包括慈善捐款在内的任何形式，向伊朗支付霍尔木兹海峡通行费，都可能受到美国制裁。"
     },
     {
-      "id": "brief-25",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 22,
-      "published_at": "2026-05-02T08:42:49+00:00",
-      "title": "伊朗宣布处决两名向以色列提供情报的间谍",
-      "url": "https://www.chinanews.com.cn/gj/2026/05-02/10614824.shtml",
-      "summary": "伊朗宣布处决两名向以色列提供情报的间谍。",
-      "content_summary": "据伊朗方面2日消息，伊朗处决了两名为以色列情报和特勤局(摩萨德)工作的间谍。",
-      "insight": "据伊朗方面2日消息，伊朗处决了两名为以色列情报和特勤局(摩萨德)工作的间谍。",
-      "history": "",
-      "origin_note": "据伊朗方面2日消息，伊朗处决了两名为以色列情报和特勤局(摩萨德)工作的间谍。"
-    },
-    {
-      "id": "brief-4",
+      "id": "brief-7",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -85,7 +69,7 @@
       "origin_note": "主席，"
     },
     {
-      "id": "brief-8",
+      "id": "brief-11",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -101,23 +85,7 @@
       "origin_note": "中新网重庆5月2日电 题：重庆会展经济观察：一个展馆 双面“五一” 多元消费"
     },
     {
-      "id": "brief-15",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
-      "industry_focus": false,
-      "item_score": 20,
-      "published_at": "2026-05-02T12:30:53+00:00",
-      "title": "东西问丨英国皇家工程院院士菲尔·泰勒：当“能源安全”从技术议题变为民生焦虑",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-02/10614920.shtml",
-      "summary": "英国皇家工程院院士菲尔·泰勒：当“能源安全”从技术议题变为民生焦虑。",
-      "content_summary": "当“能源安全”从技术议题变为民生焦虑。",
-      "insight": "当“能源安全”从技术议题变为民生焦虑。",
-      "history": "",
-      "origin_note": "中新社北京5月2日电 题：当“能源安全”从技术议题变为民生焦虑"
-    },
-    {
-      "id": "brief-23",
+      "id": "brief-24",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -133,7 +101,7 @@
       "origin_note": "中新网济南5月2日电 题：“指尖经济”走热 方寸造景成年轻人新宠"
     },
     {
-      "id": "brief-24",
+      "id": "brief-25",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -149,10 +117,42 @@
       "origin_note": "中新网5月2日电 综合报道，据日本气象厅5月2日消息，当地时间18时28分左右，日本奈良县发生5.7级地震，最大震感为震度4，震源深度70公里。"
     },
     {
-      "id": "brief-1",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-05-02T15:03:31+00:00",
+      "title": "国台办评赖清德窜抵斯威士兰：费尽心机 贻笑天下",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-02/10614961.shtml",
+      "summary": "国台办评赖清德窜抵斯威士兰：费尽心机 贻笑天下。",
+      "content_summary": "针对民进党当局领导人赖清德窜抵斯威士兰，国务院台办发言人陈斌华2日在北京应询表示，赖清德费尽心机炮制的所谓“外交成果”，不过是玩弄伎俩、贻笑天下。",
+      "insight": "针对民进党当局领导人赖清德窜抵斯威士兰，国务院台办发言人陈斌华2日在北京应询表示，赖清德费尽心机炮制的所谓“外交成果”，不过是玩弄伎俩、贻笑天下。",
+      "history": "",
+      "origin_note": "中新社北京5月2日电 针对民进党当局领导人赖清德窜抵斯威士兰，国务院台办发言人陈斌华2日在北京应询表示，赖清德费尽心机炮制的所谓“外交成果”，不过是玩弄伎俩、贻笑天下。"
+    },
+    {
+      "id": "brief-3",
+      "category": "财经",
+      "source": "中新网财经",
+      "source_zh": "中新网财经",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-05-02T14:56:44+00:00",
+      "title": "中建八局一公司产业工人“五一”奋战预制生产一线",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-02/10614960.shtml",
+      "summary": "中建八局一公司产业工人“五一”奋战预制生产一线。",
+      "content_summary": "“五一”劳动节期间，中建八局一公司机电智造研发中心内一派繁忙景象。装配式机房生产线的产业工人奋战一线，全力为济南遥墙机场二标段、济南市儿童医院、省中医院装配式制冷机房安装任务…。",
+      "insight": "“五一”劳动节期间，中建八局一公司机电智造研发中心内一派繁忙景象。装配式机房生产线的产业工人奋战一线，全力为济南遥墙机场二标段、济南市儿童医院、省中医院装配式制冷机房安装任务…。",
+      "history": "",
+      "origin_note": "“五一”劳动节期间，中建八局一公司机电智造研发中心内一派繁忙景象。装配式机房生产线的产业工人奋战一线，全力为济南遥墙机场二标段、济南市儿童医院、省中医院装配式制冷机房安装任务保驾护航。"
+    },
+    {
+      "id": "brief-4",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-05-02T14:13:36+00:00",
@@ -165,7 +165,7 @@
       "origin_note": "中新网5月2日电 据国务院台办微信公众号消息，5月2日，国务院台办发言人陈斌华答记者问。"
     },
     {
-      "id": "brief-2",
+      "id": "brief-5",
       "category": "要闻",
       "source": "中新网滚动",
       "source_zh": "中新网滚动",
@@ -181,10 +181,10 @@
       "origin_note": "中新社北京5月2日电 (记者 国璇) 2026世界泳联跳水世界杯总决赛2日在国家游泳中心“水立方”继续进行，中国选手、奥运冠军王宗源夺得男子单人3米板冠军，中国小将蒋林静问鼎女子单人10米台，为中国队再添两枚金牌。"
     },
     {
-      "id": "brief-3",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
       "published_at": "2026-05-02T13:42:34+00:00",
@@ -197,7 +197,7 @@
       "origin_note": "国务院台办发言人陈斌华答记者问。"
     },
     {
-      "id": "brief-6",
+      "id": "brief-9",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -213,7 +213,7 @@
       "origin_note": "中新网广州5月2日电 (郭军 陈秀慧 上官信)5月2日，广州港出海航道42号浮以南航段，LNG(液化天然气)加注船“海洋石油301”号与一艘大型船舶相向安全驶过。这是国内首次实现LNG船舶与其他船舶正常双向进出港会遇，标志着广州在落实《广…"
     },
     {
-      "id": "brief-9",
+      "id": "brief-12",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -229,7 +229,7 @@
       "origin_note": "中新网宁波5月2日电(林波)5月2日，在浙江省宁波市奉化区裘村镇翔鹤潭村的“渔光营地·大浪钓场”，9岁的小游客陈励志拿着钓竿观察着水面动静，只见浮漂猛地一沉，他迅速扬竿，一道银弧划破水面，一只将近成人手掌长的虾被凌空甩上了岸。“哇，爸爸你…"
     },
     {
-      "id": "brief-10",
+      "id": "brief-13",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -245,7 +245,7 @@
       "origin_note": "中新网上海5月2日电(范宇斌 赵龙云)浦江潮涌三十载，哀牢叠翠情更长。30年来，上海长宁对口帮扶云南红河，从产业提质到民生改善，从爱心筑梦到招商兴县，以全方位、深层次的帮扶力度，扎实推进各项协作工作，筑牢乡村振兴根基。"
     },
     {
-      "id": "brief-11",
+      "id": "brief-14",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -261,7 +261,7 @@
       "origin_note": "中新社北京5月2日电 针对赖清德搭乘斯威士兰国王“私人飞机”窜斯，外交部发言人5月2日答记者问时表示，无论民进党当局怎么勾连外部势力、以什么形式“豢养他人”，都是枉费心机，改变不了台湾是中国一部分的事实。"
     },
     {
-      "id": "brief-14",
+      "id": "brief-16",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -277,7 +277,7 @@
       "origin_note": "中新网杭州5月2日电(鲍梦妮)据浙江省交通运输厅5月2日消息，5月1日，浙江全省完成跨区域人员流动量2604.77万人次。其中营业性客运量(不含地铁、公交)423.37万人次。"
     },
     {
-      "id": "brief-16",
+      "id": "brief-17",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -293,7 +293,7 @@
       "origin_note": "“1亿桶已到，1亿桶在途”"
     },
     {
-      "id": "brief-17",
+      "id": "brief-18",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -309,7 +309,7 @@
       "origin_note": "中新网5月2日电 据俄罗斯塔斯社1日报道，塔斯社记者通过分析监测数据获悉，在霍尔木兹海峡被封锁之际，日本已购买了一批俄罗斯石油。"
     },
     {
-      "id": "brief-18",
+      "id": "brief-19",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T14:34:41.114137+00:00",
+      "published_at": "2026-05-02T15:27:17.022827+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T14:34:41.114086+00:00",
+      "published_at": "2026-05-02T15:27:17.022782+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T14:34:41.114038+00:00",
+      "published_at": "2026-05-02T15:27:17.022741+00:00",
       "title": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-04-14-Tencent-Music-Entertainment-Group-to-Report-First-Quarter-2026-Financial-Results-on-May-12,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-05-02T14:34:41.113979+00:00",
+      "published_at": "2026-05-02T15:27:17.022688+00:00",
       "title": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
       "url": "https://ir.tencentmusic.com/2026-04-17-Tencent-Music-Entertainment-Group-Filed-2025-Annual-Report-on-Form-20-F",
       "summary": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-05-02T14:34:41.113906+00:00",
+      "published_at": "2026-05-02T15:27:17.022617+00:00",
       "title": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
       "url": "https://ir.tencentmusic.com/2026-04-20-Tencent-Music-Entertainment-Group-Releases-2025-ESG-Report",
       "summary": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
