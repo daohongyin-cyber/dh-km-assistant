@@ -1,11 +1,11 @@
 {
   "appName": "DH KM 助理",
   "headline": "每日最新事件资讯",
-  "updatedAt": "2026-05-02T22:03:47.028034+00:00",
+  "updatedAt": "2026-05-02T22:56:51.398118+00:00",
   "count": 20,
   "items": [
     {
-      "id": "brief-13",
+      "id": "brief-16",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -21,7 +21,7 @@
       "origin_note": "中新网北京5月2日电 2026年5月2日，商务部发布公告，宣布依据《阻断外国法律与措施不当域外适用办法》(《阻断办法》)，针对美国以参与涉及伊朗的石油交易为由，将恒力石化(大连)炼化有限公司等中国企业列入特别指定国民清单(SDN清单)的单…"
     },
     {
-      "id": "brief-11",
+      "id": "brief-14",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -43,6 +43,70 @@
       "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 18,
+      "published_at": "2026-05-02T22:51:46+00:00",
+      "title": "中超第九轮：成都蓉城逆转上海申花 大连英博送重庆铜梁龙赛季首败",
+      "url": "https://www.chinanews.com.cn/ty/2026/05-03/10614970.shtml",
+      "summary": "中超第九轮：成都蓉城逆转上海申花 大连英博送重庆铜梁龙赛季首败。",
+      "content_summary": "2026赛季中超联赛2日结束第九轮较量。成都蓉城客场3:2逆转上海申花，以九轮不败战绩稳居联赛积分榜榜首；大连英博主场1:0力克重庆铜梁龙，并送对手本赛季首败。",
+      "insight": "2026赛季中超联赛2日结束第九轮较量。成都蓉城客场3:2逆转上海申花，以九轮不败战绩稳居联赛积分榜榜首；大连英博主场1:0力克重庆铜梁龙，并送对手本赛季首败。",
+      "history": "",
+      "origin_note": "中新社北京5月2日电 (刘梦青)2026赛季中超联赛2日结束第九轮较量。成都蓉城客场3:2逆转上海申花，以九轮不败战绩稳居联赛积分榜榜首；大连英博主场1:0力克重庆铜梁龙，并送对手本赛季首败。"
+    },
+    {
+      "id": "brief-2",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-05-02T22:51:22+00:00",
+      "title": "韩乔生助阵芒棒泼水篮球节明星表演赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/05-03/10614967.shtml",
+      "summary": "韩乔生助阵芒棒泼水篮球节明星表演赛。",
+      "content_summary": "由“名嘴”韩乔生解说，前CBA球员刘子秋以及被球迷称为“云南滑翔机”的矣进宏各自带队进行的“天行高黎”芒棒泼水篮球节明星表演赛日前举行。",
+      "insight": "由“名嘴”韩乔生解说，前CBA球员刘子秋以及被球迷称为“云南滑翔机”的矣进宏各自带队进行的“天行高黎”芒棒泼水篮球节明星表演赛日前举行。",
+      "history": "",
+      "origin_note": "中新网5月3日电 由“名嘴”韩乔生解说，前CBA球员刘子秋以及被球迷称为“云南滑翔机”的矣进宏各自带队进行的“天行高黎”芒棒泼水篮球节明星表演赛日前举行。"
+    },
+    {
+      "id": "brief-3",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-05-02T22:50:30+00:00",
+      "title": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战",
+      "url": "https://www.chinanews.com.cn/gj/2026/05-03/10614969.shtml",
+      "summary": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战。",
+      "content_summary": "新华社德黑兰5月2日电 伊朗媒体2日披露伊方日前经由斡旋方巴基斯坦向美国转交的最新谈判方案内容，总计14点提议，聚焦“结束战争”。报道说，伊朗正在等待美方正式回应。",
+      "insight": "新华社德黑兰5月2日电 伊朗媒体2日披露伊方日前经由斡旋方巴基斯坦向美国转交的最新谈判方案内容，总计14点提议，聚焦“结束战争”。报道说，伊朗正在等待美方正式回应。",
+      "history": "",
+      "origin_note": "新华社德黑兰5月2日电 伊朗媒体2日披露伊方日前经由斡旋方巴基斯坦向美国转交的最新谈判方案内容，总计14点提议，聚焦“结束战争”。报道说，伊朗正在等待美方正式回应。"
+    },
+    {
+      "id": "brief-4",
+      "category": "国内",
+      "source": "中新网国内",
+      "source_zh": "中新网国内",
+      "industry_focus": false,
+      "item_score": 18,
+      "published_at": "2026-05-02T22:45:38+00:00",
+      "title": "首个、首次、首艘！本周我国硬核实力再“上新”",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-03/10614968.shtml",
+      "summary": "首个、首次、首艘！本周我国硬核实力再“上新”。",
+      "content_summary": "首个、首次、首艘！本周我国硬核实力再“上新”这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "insight": "首个、首次、首艘！本周我国硬核实力再“上新”这条信息值得关注，重点看后续有没有更具体的执行动作。",
+      "history": "",
+      "origin_note": "本周"
+    },
+    {
+      "id": "brief-5",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
+      "industry_focus": false,
+      "item_score": 18,
       "published_at": "2026-05-02T16:39:45+00:00",
       "title": "CBA季后赛：山西主场再胜青岛晋级八强",
       "url": "https://www.chinanews.com.cn/ty/2026/05-03/10614966.shtml",
@@ -53,10 +117,10 @@
       "origin_note": "中新社太原5月2日电 (记者 胡健)2025-2026赛季中国男子篮球职业联赛(CBA)季后赛12进8第二回合2日晚展开较量，山西汾酒男篮主场以97:94战胜青岛崂山啤酒男篮，以总比分2:0淘汰青岛队，晋级八强。"
     },
     {
-      "id": "brief-2",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
+      "id": "brief-6",
+      "category": "要闻",
+      "source": "中新网滚动",
+      "source_zh": "中新网滚动",
       "industry_focus": false,
       "item_score": 16,
       "published_at": "2026-05-02T15:56:58+00:00",
@@ -69,7 +133,7 @@
       "origin_note": "古巴外交部长罗德里格斯当地时间5月2日称，在大幅强化对古巴经济封锁后，美国总统特朗普又发出新的、明确且直接的军事侵略威胁，针对古巴的攻击上升至危险水平。"
     },
     {
-      "id": "brief-5",
+      "id": "brief-8",
       "category": "国际",
       "source": "中新网国际",
       "source_zh": "中新网国际",
@@ -85,7 +149,7 @@
       "origin_note": "新华社北京5月2日电 美国财政部下属外国资产控制办公室5月1日警告说，任何航运公司以包括慈善捐款在内的任何形式，向伊朗支付霍尔木兹海峡通行费，都可能受到美国制裁。"
     },
     {
-      "id": "brief-10",
+      "id": "brief-13",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -101,7 +165,7 @@
       "origin_note": "主席，"
     },
     {
-      "id": "brief-14",
+      "id": "brief-17",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -117,7 +181,7 @@
       "origin_note": "中新网重庆5月2日电 题：重庆会展经济观察：一个展馆 双面“五一” 多元消费"
     },
     {
-      "id": "brief-26",
+      "id": "brief-27",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -133,10 +197,10 @@
       "origin_note": "中新网济南5月2日电 题：“指尖经济”走热 方寸造景成年轻人新宠"
     },
     {
-      "id": "brief-3",
+      "id": "brief-7",
       "category": "AI",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "source": "中新网国内",
+      "source_zh": "中新网国内",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-05-02T15:50:00+00:00",
@@ -149,26 +213,10 @@
       "origin_note": "中新社银川5月2日电 (记者 李佩珊)5月2日，中国首个大规模“算电协同”绿电直供项目——中国大唐中卫云基地50万千瓦光伏电站正式投运，标志着国家“东数西算”工程实现从沙漠风光资源到数字算力负荷的直连直通。"
     },
     {
-      "id": "brief-4",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-05-02T15:44:17+00:00",
-      "title": "伦敦世乒赛：中国男队首战力克东道主英格兰",
-      "url": "https://www.chinanews.com.cn/ty/2026/05-02/10614963.shtml",
-      "summary": "伦敦世乒赛：中国男队首战力克东道主英格兰。",
-      "content_summary": "当地时间5月2日，2026年伦敦世界乒乓球团体锦标赛迎来男团小组赛较量，卫冕冠军中国队首战对阵东道主英格兰队，全队发挥稳健，顺利击败对手，拿下本届赛事首场胜利。",
-      "insight": "当地时间5月2日，2026年伦敦世界乒乓球团体锦标赛迎来男团小组赛较量，卫冕冠军中国队首战对阵东道主英格兰队，全队发挥稳健，顺利击败对手，拿下本届赛事首场胜利。",
-      "history": "",
-      "origin_note": "中新社伦敦5月2日电 (记者 欧阳开宇)当地时间5月2日，2026年伦敦世界乒乓球团体锦标赛迎来男团小组赛较量，卫冕冠军中国队首战对阵东道主英格兰队，全队发挥稳健，顺利击败对手，拿下本届赛事首场胜利。"
-    },
-    {
-      "id": "brief-6",
-      "category": "要闻",
-      "source": "中新网滚动",
-      "source_zh": "中新网滚动",
+      "id": "brief-9",
+      "category": "国内",
+      "source": "中新网国内",
+      "source_zh": "中新网国内",
       "industry_focus": false,
       "item_score": 14,
       "published_at": "2026-05-02T15:03:31+00:00",
@@ -181,7 +229,7 @@
       "origin_note": "中新社北京5月2日电 针对民进党当局领导人赖清德窜抵斯威士兰，国务院台办发言人陈斌华2日在北京应询表示，赖清德费尽心机炮制的所谓“外交成果”，不过是玩弄伎俩、贻笑天下。"
     },
     {
-      "id": "brief-7",
+      "id": "brief-10",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -197,7 +245,7 @@
       "origin_note": "“五一”劳动节期间，中建八局一公司机电智造研发中心内一派繁忙景象。装配式机房生产线的产业工人奋战一线，全力为济南遥墙机场二标段、济南市儿童医院、省中医院装配式制冷机房安装任务保驾护航。"
     },
     {
-      "id": "brief-8",
+      "id": "brief-11",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -213,7 +261,7 @@
       "origin_note": "中新网5月2日电 据国务院台办微信公众号消息，5月2日，国务院台办发言人陈斌华答记者问。"
     },
     {
-      "id": "brief-9",
+      "id": "brief-12",
       "category": "国内",
       "source": "中新网国内",
       "source_zh": "中新网国内",
@@ -229,7 +277,7 @@
       "origin_note": "国务院台办发言人陈斌华答记者问。"
     },
     {
-      "id": "brief-12",
+      "id": "brief-15",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -245,7 +293,7 @@
       "origin_note": "中新网广州5月2日电 (郭军 陈秀慧 上官信)5月2日，广州港出海航道42号浮以南航段，LNG(液化天然气)加注船“海洋石油301”号与一艘大型船舶相向安全驶过。这是国内首次实现LNG船舶与其他船舶正常双向进出港会遇，标志着广州在落实《广…"
     },
     {
-      "id": "brief-15",
+      "id": "brief-18",
       "category": "社会",
       "source": "中新网社会",
       "source_zh": "中新网社会",
@@ -261,7 +309,7 @@
       "origin_note": "中新网宁波5月2日电(林波)5月2日，在浙江省宁波市奉化区裘村镇翔鹤潭村的“渔光营地·大浪钓场”，9岁的小游客陈励志拿着钓竿观察着水面动静，只见浮漂猛地一沉，他迅速扬竿，一道银弧划破水面，一只将近成人手掌长的虾被凌空甩上了岸。“哇，爸爸你…"
     },
     {
-      "id": "brief-16",
+      "id": "brief-19",
       "category": "财经",
       "source": "中新网财经",
       "source_zh": "中新网财经",
@@ -275,54 +323,6 @@
       "insight": "浦江潮涌三十载，哀牢叠翠情更长。30年来，上海长宁对口帮扶云南红河，从产业提质到民生改善，从爱心筑梦到招商兴县，以全方位、深层次的帮扶力度，扎实推进各项协作工作，筑牢乡村振兴…。",
       "history": "",
       "origin_note": "中新网上海5月2日电(范宇斌 赵龙云)浦江潮涌三十载，哀牢叠翠情更长。30年来，上海长宁对口帮扶云南红河，从产业提质到民生改善，从爱心筑梦到招商兴县，以全方位、深层次的帮扶力度，扎实推进各项协作工作，筑牢乡村振兴根基。"
-    },
-    {
-      "id": "brief-17",
-      "category": "国内",
-      "source": "中新网国内",
-      "source_zh": "中新网国内",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-05-02T12:44:42+00:00",
-      "title": "赖清德搭乘斯威士兰国王“私人飞机”窜斯 外交部回应",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-02/10614941.shtml",
-      "summary": "赖清德搭乘斯威士兰国王“私人飞机”窜斯 外交部回应。",
-      "content_summary": "针对赖清德搭乘斯威士兰国王“私人飞机”窜斯，外交部发言人5月2日答记者问时表示，无论民进党当局怎么勾连外部势力、以什么形式“豢养他人”，都是枉费心机，改变不了台湾是中国一部分…。",
-      "insight": "针对赖清德搭乘斯威士兰国王“私人飞机”窜斯，外交部发言人5月2日答记者问时表示，无论民进党当局怎么勾连外部势力、以什么形式“豢养他人”，都是枉费心机，改变不了台湾是中国一部分…。",
-      "history": "",
-      "origin_note": "中新社北京5月2日电 针对赖清德搭乘斯威士兰国王“私人飞机”窜斯，外交部发言人5月2日答记者问时表示，无论民进党当局怎么勾连外部势力、以什么形式“豢养他人”，都是枉费心机，改变不了台湾是中国一部分的事实。"
-    },
-    {
-      "id": "brief-18",
-      "category": "社会",
-      "source": "中新网社会",
-      "source_zh": "中新网社会",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-05-02T12:41:00+00:00",
-      "title": "“五一”假期首日浙江完成跨区域人员流动量2604.77万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-02/10614926.shtml",
-      "summary": "“五一”假期首日浙江完成跨区域人员流动量2604.77万人次。",
-      "content_summary": "据浙江省交通运输厅5月2日消息，5月1日，浙江全省完成跨区域人员流动量2604.77万人次。其中营业性客运量(不含地铁、公交)423.37万人次。",
-      "insight": "据浙江省交通运输厅5月2日消息，5月1日，浙江全省完成跨区域人员流动量2604.77万人次。其中营业性客运量(不含地铁、公交)423.37万人次。",
-      "history": "",
-      "origin_note": "中新网杭州5月2日电(鲍梦妮)据浙江省交通运输厅5月2日消息，5月1日，浙江全省完成跨区域人员流动量2604.77万人次。其中营业性客运量(不含地铁、公交)423.37万人次。"
-    },
-    {
-      "id": "brief-19",
-      "category": "国际",
-      "source": "中新网国际",
-      "source_zh": "中新网国际",
-      "industry_focus": false,
-      "item_score": 14,
-      "published_at": "2026-05-02T12:29:35+00:00",
-      "title": "特朗普大言不惭：美国至少掌控2亿桶委内瑞拉石油，“非常赚钱”",
-      "url": "https://www.chinanews.com.cn/gj/2026/05-02/10614923.shtml",
-      "summary": "特朗普大言不惭：美国至少掌控2亿桶委内瑞拉石油，“非常赚钱”。",
-      "content_summary": "“1亿桶已到，1亿桶在途”。",
-      "insight": "“1亿桶已到，1亿桶在途”。",
-      "history": "",
-      "origin_note": "“1亿桶已到，1亿桶在途”"
     }
   ],
   "industryItems": [
@@ -333,7 +333,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T22:03:44.868033+00:00",
+      "published_at": "2026-05-02T22:56:49.429637+00:00",
       "title": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-02-10-Tencent-Music-Entertainment-Group-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-March-17,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 第四季度及全年 2025 财报 （时间：March 17, 2026）。",
@@ -349,7 +349,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T22:03:44.867990+00:00",
+      "published_at": "2026-05-02T22:56:49.429587+00:00",
       "title": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
       "url": "https://ir.tencentmusic.com/2026-03-17-Tencent-Music-Entertainment-Group-Announces-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results",
       "summary": "腾讯音乐娱乐集团 公布 第四季度及全年 2025 未审计财报。",
@@ -365,7 +365,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 47,
-      "published_at": "2026-05-02T22:03:44.867950+00:00",
+      "published_at": "2026-05-02T22:56:49.429542+00:00",
       "title": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
       "url": "https://ir.tencentmusic.com/2026-04-14-Tencent-Music-Entertainment-Group-to-Report-First-Quarter-2026-Financial-Results-on-May-12,-2026",
       "summary": "腾讯音乐娱乐集团 将公布 First Quarter 2026 财报 （时间：May 12, 2026）。",
@@ -381,7 +381,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-05-02T22:03:44.867899+00:00",
+      "published_at": "2026-05-02T22:56:49.429483+00:00",
       "title": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
       "url": "https://ir.tencentmusic.com/2026-04-17-Tencent-Music-Entertainment-Group-Filed-2025-Annual-Report-on-Form-20-F",
       "summary": "腾讯音乐娱乐集团 Filed 2025 Annual Report on Form 20-F。",
@@ -397,7 +397,7 @@
       "source_zh": "腾讯音乐官方",
       "industry_focus": true,
       "item_score": 45,
-      "published_at": "2026-05-02T22:03:44.867829+00:00",
+      "published_at": "2026-05-02T22:56:49.429401+00:00",
       "title": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
       "url": "https://ir.tencentmusic.com/2026-04-20-Tencent-Music-Entertainment-Group-Releases-2025-ESG-Report",
       "summary": "腾讯音乐娱乐集团 Releases 2025 ESG Report。",
@@ -407,7 +407,7 @@
       "origin_note": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and au…"
     },
     {
-      "id": "industry-39",
+      "id": "industry-40",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -423,7 +423,7 @@
       "origin_note": "中国版权协会发布《关于强化微短剧领域 “通知—删除”规则的工作指南》"
     },
     {
-      "id": "industry-38",
+      "id": "industry-39",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -439,7 +439,7 @@
       "origin_note": "2026年度第六批重点作品版权保护预警名单（院线电影）"
     },
     {
-      "id": "industry-52",
+      "id": "industry-53",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -455,7 +455,7 @@
       "origin_note": "2026年度第五批重点作品版权保护预警名单（院线电影）"
     },
     {
-      "id": "industry-54",
+      "id": "industry-55",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -471,7 +471,7 @@
       "origin_note": "2026年度第四批重点作品版权保护预警名单（电视剧）"
     },
     {
-      "id": "industry-53",
+      "id": "industry-54",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -487,7 +487,7 @@
       "origin_note": "关于开展2026年全国知识产权宣传周活动的通知"
     },
     {
-      "id": "industry-56",
+      "id": "industry-57",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
@@ -503,7 +503,7 @@
       "origin_note": "国家版权局 中央军委装备发展部 关于印发《军用计算机软件著作权登记工作暂行办法》的通知"
     },
     {
-      "id": "industry-57",
+      "id": "industry-58",
       "category": "平台新规",
       "source": "国家版权局",
       "source_zh": "国家版权局",
