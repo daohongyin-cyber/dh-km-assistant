@@ -41,16 +41,17 @@
 
       .splash-card {
         width: min(100%, 430px);
-        min-height: min(92vh, 880px);
+        min-height: calc(100dvh - 56px - env(safe-area-inset-bottom, 0px));
+        max-height: calc(100dvh - 56px - env(safe-area-inset-bottom, 0px));
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: flex-start;
         align-items: center;
         text-align: center;
       }
 
       .splash-copy {
-        padding-top: 34px;
+        padding-top: max(18px, env(safe-area-inset-top, 0px));
         width: 100%;
       }
 
@@ -64,8 +65,8 @@
 
       .splash-slogan {
         margin: 0;
-        font-size: 62px;
-        line-height: 1.12;
+        font-size: clamp(40px, 12vw, 72px);
+        line-height: 1.1;
         color: var(--text);
         font-family: "STXingkai", "Kaiti SC", "KaiTi", cursive;
         font-weight: 400;
@@ -79,11 +80,12 @@
       .splash-stage {
         position: relative;
         width: 100%;
-        min-height: 520px;
+        min-height: clamp(320px, 42dvh, 520px);
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-top: 8px;
+        margin-top: 12px;
+        flex: 1;
       }
 
       .splash-blob {
@@ -94,10 +96,10 @@
       }
 
       .splash-blob-a {
-        top: 62px;
-        left: 74px;
-        width: 178px;
-        height: 178px;
+        top: 54px;
+        left: 58px;
+        width: clamp(120px, 34vw, 178px);
+        height: clamp(120px, 34vw, 178px);
         background: linear-gradient(180deg, rgba(255, 190, 76, 0.92), rgba(255, 131, 0, 0.9));
         border-top-left-radius: 110px;
         border-top-right-radius: 110px;
@@ -106,10 +108,10 @@
       }
 
       .splash-blob-b {
-        top: 66px;
-        right: 46px;
-        width: 182px;
-        height: 208px;
+        top: 62px;
+        right: 40px;
+        width: clamp(128px, 34vw, 182px);
+        height: clamp(150px, 38vw, 208px);
         background: linear-gradient(180deg, rgba(26, 24, 34, 0.95), rgba(43, 40, 55, 0.96));
         border-top-left-radius: 140px;
         border-top-right-radius: 140px;
@@ -119,10 +121,10 @@
       }
 
       .splash-blob-c {
-        bottom: 64px;
-        left: 34px;
-        width: 214px;
-        height: 138px;
+        bottom: 42px;
+        left: 28px;
+        width: clamp(154px, 46vw, 214px);
+        height: clamp(92px, 26vw, 138px);
         background: linear-gradient(180deg, rgba(22, 20, 29, 0.94), rgba(44, 40, 57, 0.98));
         border-top-left-radius: 42px;
         border-top-right-radius: 170px;
@@ -133,8 +135,8 @@
 
       .splash-pulse-ring {
         position: absolute;
-        width: 288px;
-        height: 288px;
+        width: clamp(214px, 58vw, 288px);
+        height: clamp(214px, 58vw, 288px);
         border-radius: 50%;
         background: radial-gradient(circle, rgba(255, 246, 242, 0.28), rgba(255, 246, 242, 0) 68%);
         animation: splashRing 2.3s ease-in-out infinite;
@@ -143,9 +145,9 @@
       .splash-shadow {
         position: absolute;
         left: 50%;
-        bottom: 52px;
-        width: 256px;
-        height: 38px;
+        bottom: 34px;
+        width: clamp(180px, 58vw, 256px);
+        height: clamp(28px, 8vw, 38px);
         transform: translateX(-50%);
         border-radius: 50%;
         background: rgba(157, 38, 26, 0.34);
@@ -155,19 +157,19 @@
       .splash-visual-shell {
         position: relative;
         z-index: 2;
-        width: 292px;
-        height: 292px;
+        width: clamp(210px, 66vw, 292px);
+        height: clamp(210px, 66vw, 292px);
         display: flex;
         align-items: center;
         justify-content: center;
-        transform: translateY(14px);
+        transform: translateY(8px);
       }
 
       .splash-visual {
         position: relative;
-        width: 236px;
-        height: 236px;
-        border-radius: 64px;
+        width: clamp(172px, 54vw, 236px);
+        height: clamp(172px, 54vw, 236px);
+        border-radius: clamp(44px, 14vw, 64px);
         overflow: hidden;
         box-shadow: 0 28px 60px rgba(132, 34, 24, 0.24);
         animation: splashPulse 2.1s ease-in-out infinite;
@@ -205,8 +207,8 @@
       }
 
       .splash-motion-left {
-        left: 58px;
-        bottom: 132px;
+        left: 38px;
+        bottom: 104px;
       }
 
       .splash-motion-left span:first-child {
@@ -215,8 +217,8 @@
       }
 
       .splash-motion-right {
-        right: 44px;
-        bottom: 138px;
+        right: 34px;
+        bottom: 110px;
       }
 
       .splash-motion-right span:last-child {
@@ -233,23 +235,23 @@
       }
 
       .splash-note-one {
-        top: 88px;
-        left: 30%;
-        font-size: 44px;
+        top: 76px;
+        left: 28%;
+        font-size: clamp(28px, 8vw, 44px);
         animation-delay: 0s;
       }
 
       .splash-note-two {
-        top: 156px;
-        right: 20%;
-        font-size: 34px;
+        top: 124px;
+        right: 18%;
+        font-size: clamp(22px, 6vw, 34px);
         animation-delay: 0.45s;
       }
 
       .splash-note-three {
-        top: 238px;
-        right: 18%;
-        font-size: 42px;
+        top: 182px;
+        right: 16%;
+        font-size: clamp(28px, 7vw, 42px);
         animation-delay: 0.9s;
       }
 
@@ -258,8 +260,9 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        gap: 28px;
-        padding-bottom: 10px;
+        gap: 20px;
+        padding-bottom: calc(8px + env(safe-area-inset-bottom, 0px));
+        margin-top: auto;
       }
 
       .splash-brand {
@@ -285,7 +288,7 @@
 
       .splash-brand-name {
         margin: 0;
-        font-size: 28px;
+        font-size: clamp(20px, 6vw, 28px);
         line-height: 1;
         color: var(--text);
         letter-spacing: 0.04em;
@@ -293,7 +296,7 @@
 
       .splash-loader {
         position: relative;
-        width: 320px;
+        width: min(320px, 76vw);
         height: 14px;
         margin-bottom: 0;
       }
@@ -419,16 +422,9 @@
       }
 
       @media (max-width: 420px) {
-        .splash-slogan {
-          font-size: 48px;
-        }
-
-        .splash-brand-name {
-          font-size: 24px;
-        }
-
-        .splash-loader {
-          width: 270px;
+        .splash-card {
+          min-height: calc(100dvh - 44px - env(safe-area-inset-bottom, 0px));
+          max-height: calc(100dvh - 44px - env(safe-area-inset-bottom, 0px));
         }
       }
     </style>
