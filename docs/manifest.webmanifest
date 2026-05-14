@@ -1,12 +1,12 @@
 {
   "name": "DH KM 助理",
   "short_name": "DH KM",
-  "description": "每日最新二十条大事件资讯",
+  "description": "DH KM 助理外壳与静态内容演示版",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#3a0d1d",
-  "theme_color": "#4d1126",
+  "background_color": "#ef5c41",
+  "theme_color": "#ef5c41",
   "icons": [
     {
       "src": "./icon-192.png",
@@ -19,10 +19,9 @@
       "type": "image/png"
     },
     {
-      "src": "./icon.svg",
-      "sizes": "1024x1024",
-      "type": "image/svg+xml",
-      "purpose": "any"
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
     }
   ]
 }

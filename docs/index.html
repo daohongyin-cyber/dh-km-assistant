@@ -2,85 +2,136 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#4d1126" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#ef5c41" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="DH KM 助理" />
-    <title>DH KM 助理 - 每日最新二十条大事件资讯</title>
+    <title>DH KM 助理</title>
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png" />
-    <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+    <link rel="icon" href="./icon-512.png" type="image/png" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main class="page-shell">
+    <div id="splash-screen" class="splash-screen" aria-hidden="true">
+      <div class="splash-card">
+        <div class="splash-copy">
+          <p class="splash-intro">DH KM 助理</p>
+          <h1 class="splash-slogan">关注什么<br />成为什么</h1>
+        </div>
+
+        <div class="splash-stage" aria-hidden="true">
+          <div class="splash-blob splash-blob-a"></div>
+          <div class="splash-blob splash-blob-b"></div>
+          <div class="splash-blob splash-blob-c"></div>
+
+          <span class="splash-note splash-note-one">♪</span>
+          <span class="splash-note splash-note-two">♩</span>
+          <span class="splash-note splash-note-three">♫</span>
+
+          <div class="splash-motion splash-motion-left">
+            <span></span>
+            <span></span>
+          </div>
+          <div class="splash-motion splash-motion-right">
+            <span></span>
+            <span></span>
+          </div>
+
+          <div class="splash-pulse-ring"></div>
+          <div class="splash-shadow"></div>
+          <div class="splash-visual-shell">
+            <div class="splash-visual">
+              <img src="./icon-512.png" alt="DH KM 助理图标" />
+            </div>
+          </div>
+        </div>
+
+        <div class="splash-footer">
+          <div class="splash-brand">
+            <div class="splash-brand-mark">
+              <img src="./icon-192.png" alt="DH KM 助理图标" />
+            </div>
+            <p class="splash-brand-name">DH KM 助理</p>
+          </div>
+
+          <div class="splash-loader" aria-hidden="true">
+            <span class="splash-loader-track"></span>
+            <span class="splash-loader-fill"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <main class="app-shell">
       <header class="app-header">
         <div class="brand-block">
           <div class="brand-mark">
-            <img src="./icon.svg" alt="DH KM 助理图标" />
+            <img src="./icon-192.png" alt="DH KM 助理图标" />
           </div>
           <div class="brand-copy">
-            <p class="eyebrow">DH KM 助理</p>
-            <h1>每日最新二十条大事件资讯</h1>
+            <p class="brand-name">DH KM 助理</p>
+            <h1 class="page-title">每日最新事件资讯</h1>
           </div>
         </div>
-        <div class="live-pill" id="live-pill">实时更新</div>
       </header>
 
-      <section class="control-panel">
-        <div class="hero-meta">
-          <div class="meta-item">
-            <span class="meta-label">更新时间</span>
-            <strong id="updated-at">加载中</strong>
-          </div>
-          <div class="meta-item">
-            <span class="meta-label">当前条数</span>
-            <strong id="item-count">0</strong>
-          </div>
-          <div class="meta-item">
-            <span class="meta-label">当前分栏</span>
-            <strong id="current-view-label">全部大事件</strong>
-          </div>
+      <nav class="section-tabs" aria-label="资讯分类">
+        <button class="section-tab is-active" type="button" data-view="latest">最新资讯</button>
+        <button class="section-tab" type="button" data-view="policy">政策新规</button>
+        <button class="section-tab" type="button" data-view="industry">行业动向</button>
+      </nav>
+
+      <section class="hero-panel">
+        <div class="hero-copy">
+          <p class="hero-kicker" id="hero-kicker">内容导入版</p>
+          <h2 class="hero-title" id="hero-title">最新资讯</h2>
+          <p class="hero-description" id="hero-description">
+            先导入现有信息，缺少的后续再补充，当前优先确认栏目和阅读结构。
+          </p>
         </div>
-
-        <div class="toolbar-row">
-          <div class="filter-tabs">
-            <button class="filter-tab is-active" data-view="all" type="button">全部大事件</button>
-            <button class="filter-tab" data-view="industry" type="button">平台新规</button>
-          </div>
-          <button id="refresh-button" class="refresh-button" type="button">刷新</button>
-        </div>
-
-        <label class="search-shell" for="search-input">
-          <span class="search-label">搜索</span>
-          <input
-            id="search-input"
-            class="search-input"
-            type="search"
-            placeholder="搜索事件、公司、版权、平台规则"
-            autocomplete="off"
-          />
-        </label>
       </section>
 
-      <section id="status-banner" class="status-banner loading" aria-live="polite">
-        正在获取当天最新内容。
+      <section class="feed-section">
+        <ol id="news-list" class="news-list"></ol>
       </section>
-
-      <section id="featured-card" class="featured-card" hidden>
-        <p id="featured-tag" class="featured-tag">头条</p>
-        <h2 id="featured-title" class="featured-title"></h2>
-        <p id="featured-summary" class="featured-summary"></p>
-      </section>
-
-      <ol id="news-list" class="news-list"></ol>
     </main>
+
+    <aside id="detail-sheet" class="detail-sheet" aria-hidden="true">
+      <div id="sheet-backdrop" class="sheet-backdrop"></div>
+      <section class="sheet-panel" aria-label="资讯详情">
+        <button id="close-detail" class="close-detail" type="button" aria-label="关闭详情">关闭</button>
+        <div class="sheet-meta">
+          <span id="detail-category" class="detail-category"></span>
+          <span id="detail-time" class="detail-time"></span>
+        </div>
+        <h2 id="detail-title" class="detail-title"></h2>
+        <p id="detail-location" class="detail-location"></p>
+        <p id="detail-summary" class="detail-summary"></p>
+        <div class="detail-block">
+          <h3>完整版</h3>
+          <p id="detail-content"></p>
+        </div>
+        <div class="detail-block">
+          <h3>原文来源</h3>
+          <p id="detail-source"></p>
+          <a id="detail-link" class="detail-link" href="#" target="_blank" rel="noreferrer">查看原文</a>
+        </div>
+      </section>
+    </aside>
 
     <template id="item-template">
       <li class="news-item">
-        <h2 class="item-title"></h2>
-        <p class="item-summary"></p>
+        <button class="news-card" type="button">
+          <div class="card-topline">
+            <span class="card-tag"></span>
+            <span class="card-time"></span>
+          </div>
+          <h2 class="card-title"></h2>
+          <p class="card-location"></p>
+          <p class="card-summary"></p>
+        </button>
       </li>
     </template>
 
