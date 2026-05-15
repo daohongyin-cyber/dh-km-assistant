@@ -1,4 +1,4 @@
-name: Update Briefing
+name: Update DH KM Content
 
 on:
   workflow_dispatch:
@@ -6,34 +6,34 @@ on:
     branches:
       - main
   schedule:
-    - cron: "2/5 * * * *"
+    - cron: "15 0 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-briefing:
+  update-content:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: "24"
 
-      - name: Build static site
-        run: python sync_static_site.py
+      - name: Build content
+        run: node sync_static_site.js
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs
+          git add content.js docs
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update static briefing"
+          git commit -m "Update DH KM content"
           git push
