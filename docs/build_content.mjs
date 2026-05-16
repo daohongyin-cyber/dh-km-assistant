@@ -21,6 +21,11 @@ const INDUSTRY_KEYWORDS = [
   "字节", "字节跳动", "抖音", "豆包", "飞书", "音乐人", "版权", "著作权",
   "版税", "分成", "分账", "商单", "发行", "平台", "AI", "人工智能", "芯片",
 ];
+const INDUSTRY_STRONG_KEYWORDS = [
+  "音乐", "音乐人", "网易云", "网易云音乐", "QQ音乐", "腾讯音乐", "酷狗", "酷我",
+  "抖音", "抖音音乐", "字节", "版权", "著作权", "版税", "分成", "发行", "商单",
+  "AI", "人工智能", "大模型", "芯片", "智能体", "量子", "设计", "创作工具", "平台规则",
+];
 const POLICY_KEYWORDS = [
   "新规", "政策", "规定", "办法", "通知", "版权", "著作权", "规则", "治理",
   "专项行动", "正版软件", "公示", "批复", "意见", "条例", "预警名单",
@@ -94,6 +99,16 @@ function shortText(text = "", length = 88) {
   return normalized.slice(0, length - 1).trimEnd() + "…";
 }
 
+function hasChineseText(text = "") {
+  return /[\u4e00-\u9fff]/.test(text);
+}
+
+function isChineseDominant(text = "") {
+  const chinese = (text.match(/[\u4e00-\u9fff]/g) || []).length;
+  const asciiLetters = (text.match(/[A-Za-z]/g) || []).length;
+  return chinese > 0 && chinese >= asciiLetters;
+}
+
 function parseDatetime(value = "") {
   if (!value) return new Date();
   const parsed = Date.parse(value);
@@ -136,6 +151,7 @@ function parseRssItems(xml, source) {
     const description = cleanHtml((block.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/s) || block.match(/<description>(.*?)<\/description>/s) || [, ""])[1]);
     const pubDate = cleanHtml((block.match(/<pubDate>(.*?)<\/pubDate>/s) || [, ""])[1]);
     if (!title || !link) continue;
+    if (!isChineseDominant(title)) continue;
     if (LOW_VALUE_KEYWORDS.some((keyword) => title.includes(keyword))) continue;
     const published = parseDatetime(pubDate);
     items.push({
@@ -164,6 +180,7 @@ async function fetchGovCn(limit = 12) {
   return data.slice(0, limit).map((item) => {
     const published = parseDatetime(item.DOCRELPUBTIME || "");
     const title = String(item.TITLE || "").trim();
+    if (!isChineseDominant(title)) return null;
     return {
       category: "政策新规",
       time: formatTime(published),
@@ -175,7 +192,7 @@ async function fetchGovCn(limit = 12) {
       url: item.URL || "",
       publishedAt: published.toISOString(),
     };
-  }).filter((item) => item.title);
+  }).filter(Boolean);
 }
 
 async function fetchNcac(limit = 12) {
@@ -188,6 +205,7 @@ async function fetchNcac(limit = 12) {
     const href = match[1];
     const title = cleanHtml(match[2]);
     if (!title || seen.has(title)) continue;
+    if (!isChineseDominant(title)) continue;
     seen.add(title);
     if (!POLICY_KEYWORDS.some((keyword) => title.includes(keyword))) continue;
     const dateMatch = href.match(/t(\d{8})_/);
@@ -217,6 +235,7 @@ async function fetchTencentIr(limit = 10) {
     const title = cleanHtml(rawTitle);
     const summary = cleanHtml(rawSummary);
     if (!title || LOW_VALUE_KEYWORDS.some((keyword) => title.includes(keyword))) continue;
+    if (!isChineseDominant(title)) continue;
     const published = parseDatetime(rawDate);
     items.push({
       category: "行业动向",
@@ -241,6 +260,22 @@ function sortAndLimit(items, limit = 20) {
   return [...unique.values()].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).slice(0, limit);
 }
 
+function isIndustryRelevant(item) {
+  const text = `${item.title} ${item.summary} ${item.content} ${item.source}`;
+  if (!hasChineseText(text)) return false;
+  if (item.category === "要闻") return false;
+  return INDUSTRY_STRONG_KEYWORDS.some((keyword) => text.includes(keyword));
+}
+
+function scoreIndustry(item) {
+  const text = `${item.title} ${item.summary} ${item.content}`;
+  let score = 0;
+  if (/音乐|音乐人|版税|分成|网易云|QQ音乐|腾讯音乐|抖音音乐|发行|商单|版权|著作权/.test(text)) score += 10;
+  if (/AI|人工智能|大模型|芯片|智能体|量子|科技/.test(text)) score += 6;
+  if (/设计|创作工具|平台规则/.test(text)) score += 4;
+  return score;
+}
+
 function fillWithBestAvailable(primary, pool, limit = 20) {
   const chosen = sortAndLimit(primary, limit);
   const seen = new Set(chosen.map((item) => item.title));
@@ -252,6 +287,22 @@ function fillWithBestAvailable(primary, pool, limit = 20) {
     seen.add(item.title);
   }
   return chosen.slice(0, limit);
+}
+
+function latestRelevant(item) {
+  const text = `${item.title} ${item.summary} ${item.content}`;
+  return hasChineseText(text) && !/创作者中心官方入口已接入|帮助中心已接入|平台入口/.test(text);
+}
+
+function policyRelevant(item) {
+  const text = `${item.title} ${item.summary} ${item.content}`;
+  if (!hasChineseText(text)) return false;
+  if (/官方入口已接入|帮助中心已接入|平台入口/.test(text)) return false;
+  return POLICY_KEYWORDS.some((keyword) => text.includes(keyword));
+}
+
+function rankIndustry(items) {
+  return [...items].sort((a, b) => scoreIndustry(b) - scoreIndustry(a) || new Date(b.publishedAt) - new Date(a.publishedAt));
 }
 
 async function buildPayload() {
@@ -277,14 +328,31 @@ async function buildPayload() {
 
   for (const item of [...latestLive, ...policyLive]) {
     const text = `${item.title} ${item.summary} ${item.source}`;
-    if (INDUSTRY_KEYWORDS.some((keyword) => text.includes(keyword))) {
+    if (INDUSTRY_KEYWORDS.some((keyword) => text.includes(keyword)) && isIndustryRelevant(item)) {
       industryLive.push({ ...item, category: "行业动向" });
     }
   }
 
-  const latestSection = fillWithBestAvailable(latestLive, [...latestLive, ...SEED_CONTENT.latest, ...SEED_CONTENT.policy, ...SEED_CONTENT.industry], 20);
-  const policySection = fillWithBestAvailable(policyLive, [...policyLive, ...SEED_CONTENT.policy, ...latestLive, ...SEED_CONTENT.latest, ...SEED_CONTENT.industry], 20);
-  const industrySection = fillWithBestAvailable(industryLive, [...industryLive, ...SEED_CONTENT.industry, ...policyLive, ...SEED_CONTENT.policy, ...latestLive, ...SEED_CONTENT.latest], 20);
+  const latestPool = [
+    ...latestLive.filter(latestRelevant),
+    ...SEED_CONTENT.latest.filter(latestRelevant),
+  ];
+
+  const policyPool = [
+    ...policyLive.filter(policyRelevant),
+    ...SEED_CONTENT.policy.filter(policyRelevant),
+    ...SEED_CONTENT.industry.filter(policyRelevant),
+  ];
+
+  const industryPool = rankIndustry([
+    ...industryLive.filter(isIndustryRelevant),
+    ...SEED_CONTENT.industry.filter(isIndustryRelevant),
+    ...SEED_CONTENT.policy.filter(isIndustryRelevant),
+  ]);
+
+  const latestSection = fillWithBestAvailable(latestPool, latestPool, 20);
+  const policySection = fillWithBestAvailable(policyPool, policyPool, 20);
+  const industrySection = fillWithBestAvailable(industryPool, industryPool, 20);
 
   return {
     updatedAt: new Date().toISOString(),

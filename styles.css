@@ -470,42 +470,6 @@ a {
   animation: splashScan 1.9s ease-in-out infinite;
 }
 
-.splash-motion {
-  position: absolute;
-  z-index: 4;
-  display: grid;
-  gap: 12px;
-}
-
-.splash-motion span {
-  display: block;
-  width: 72px;
-  height: 4px;
-  border-radius: 999px;
-  background: rgba(255, 246, 241, 0.84);
-  animation: motionFlicker 1.8s ease-in-out infinite;
-}
-
-.splash-motion-left {
-  left: 26px;
-  bottom: 120px;
-}
-
-.splash-motion-left span:first-child {
-  width: 46px;
-  justify-self: end;
-}
-
-.splash-motion-right {
-  right: 22px;
-  bottom: 126px;
-}
-
-.splash-motion-right span:last-child {
-  width: 42px;
-  justify-self: end;
-}
-
 .splash-note {
   position: absolute;
   z-index: 5;
@@ -617,19 +581,6 @@ a {
   100% {
     transform: translateX(130%) rotate(8deg);
     opacity: 0;
-  }
-}
-
-@keyframes motionFlicker {
-  0%,
-  100% {
-    opacity: 0.45;
-    transform: translateX(0);
-  }
-
-  50% {
-    opacity: 1;
-    transform: translateX(6px);
   }
 }
 
