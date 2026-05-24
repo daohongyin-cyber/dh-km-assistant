@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-05-24T06:41:26.409Z",
+  "updatedAt": "2026-05-24T07:27:51.677Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -77,6 +77,94 @@ window.DHKM_CONTENT = {
     ],
     "policy": [
       {
+        "category": "政策新规",
+        "time": "05/24 15:27",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-05-24T07:27:51.333Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/22 08:00",
+        "location": "全国",
+        "title": "国务院关于推行常住地提供基本公共服务的实施意见。",
+        "summary": "国务院关于推行常住地提供基本公共服务的实施意见",
+        "content": "国务院关于推行常住地提供基本公共服务的实施意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7069960.htm",
+        "publishedAt": "2026-05-22T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/20 08:00",
+        "location": "全国",
+        "title": "中华人民共和国矿产资源法实施条例。",
+        "summary": "中华人民共和国矿产资源法实施条例",
+        "content": "中华人民共和国矿产资源法实施条例",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7069679.htm",
+        "publishedAt": "2026-05-20T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/19 08:00",
+        "location": "全国",
+        "title": "行政法规制定程序条例。",
+        "summary": "行政法规制定程序条例",
+        "content": "行政法规制定程序条例",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7069473.htm",
+        "publishedAt": "2026-05-19T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/11 08:00",
+        "location": "全国",
+        "title": "国务院办公厅关于印发《国务院2026年度立法工作计划》的通知。",
+        "summary": "国务院办公厅关于印发《国务院2026年度立法工作计划》的通知",
+        "content": "国务院办公厅关于印发《国务院2026年度立法工作计划》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7068345.htm",
+        "publishedAt": "2026-05-11T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/08 08:00",
+        "location": "全国",
+        "title": "中华人民共和国行政复议法实施条例。",
+        "summary": "中华人民共和国行政复议法实施条例",
+        "content": "中华人民共和国行政复议法实施条例",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7068115.htm",
+        "publishedAt": "2026-05-08T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/08 08:00",
+        "location": "全国",
+        "title": "国务院关于同意在上海市暂时调整实施有关行政法规规定的批复。",
+        "summary": "国务院关于同意在上海市暂时调整实施有关行政法规规定的批复",
+        "content": "国务院关于同意在上海市暂时调整实施有关行政法规规定的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202605/content_7068117.htm",
+        "publishedAt": "2026-05-08T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "05/07 08:00",
+        "location": "全国",
+        "title": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》。",
+        "summary": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》",
+        "content": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202605/content_7067978.htm",
+        "publishedAt": "2026-05-07T00:00:00.000Z"
+      },
+      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -97,6 +185,39 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/tzgg/",
         "publishedAt": "2026-04-29T08:00:00+08:00"
+      },
+      {
+        "category": "政策新规",
+        "time": "04/26 08:00",
+        "location": "全国",
+        "title": "中共中央办公厅 国务院办公厅关于加强新就业群体服务管理的意见。",
+        "summary": "中共中央办公厅 国务院办公厅关于加强新就业群体服务管理的意见",
+        "content": "中共中央办公厅 国务院办公厅关于加强新就业群体服务管理的意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202604/content_7066998.htm",
+        "publishedAt": "2026-04-26T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "04/23 08:00",
+        "location": "全国",
+        "title": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》。",
+        "summary": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》",
+        "content": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202604/content_7066695.htm",
+        "publishedAt": "2026-04-23T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "04/22 08:00",
+        "location": "全国",
+        "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见。",
+        "summary": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见",
+        "content": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202604/content_7066623.htm",
+        "publishedAt": "2026-04-22T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -174,42 +295,42 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
-      },
-      {
-        "category": "版权新规",
-        "time": "03/17 08:00",
-        "location": "国家版权局",
-        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
-        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
-        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
-        "publishedAt": "2026-03-17T00:00:00+00:00"
-      },
-      {
-        "category": "版权保护",
-        "time": "02/14 08:00",
-        "location": "国家版权局",
-        "title": "民间文艺版权保护与促进试点申报表。",
-        "summary": "民间文艺版权保护与促进试点申报工作发布。",
-        "content": "这类试点工作能反映版权保护从制度走向落地推进，对内容和文化行业有现实意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202602/t20260214_954089.html",
-        "publishedAt": "2026-02-14T08:00:00+08:00"
-      },
-      {
-        "category": "版权保护",
-        "time": "02/10 08:00",
-        "location": "全国",
-        "title": "国家版权局等四部门启动2026年院线电影版权保护专项行动。",
-        "summary": "院线电影版权保护专项行动启动，体现版权打击和保护力度持续增强。",
-        "content": "虽然表面是电影领域，但这类专项行动对整个内容产业的版权意识、平台治理和侵权打击都具有风向标意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202602/t20260210_949671.html",
-        "publishedAt": "2026-02-10T00:00:00+00:00"
       }
     ],
     "industry": [
+      {
+        "category": "行业动向",
+        "time": "05/24 15:27",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-05-24T07:27:51.333Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "05/24 13:49",
+        "location": "深圳",
+        "title": "文博会观察：AI加速融入中国文化全产业链。",
+        "summary": "中新社深圳5月24日电 (记者 蔡敏婕)用户只需输入时长、风格、场景等关键词，系统就能快速生成包含分镜的完整短片脚本，数秒内便生成了从人物设定到镜头细节的方案，一部古风悬疑江…",
+        "content": "中新社深圳5月24日电 (记者 蔡敏婕)用户只需输入时长、风格、场景等关键词，系统就能快速生成包含分镜的完整短片脚本，数秒内便生成了从人物设定到镜头细节的方案，一部古风悬疑江湖故事逐步成片。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/05-24/10627573.shtml",
+        "publishedAt": "2026-05-24T05:49:43.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "05/24 12:03",
+        "location": "深圳",
+        "title": "AI眼镜对话文物、半小时生成短剧：AI成文化产业新引擎。",
+        "summary": "中新网深圳5月24日电 (记者 蔡敏婕)正在深圳举行的第二十二届中国(深圳)国际文化产业博览交易会上，人工智能(AI)不再是锦上添花的辅助工具，已然成为贯穿文化创作、生产、运…",
+        "content": "中新网深圳5月24日电 (记者 蔡敏婕)正在深圳举行的第二十二届中国(深圳)国际文化产业博览交易会上，人工智能(AI)不再是锦上添花的辅助工具，已然成为贯穿文化创作、生产、运营、传播、消费全链条的核心引擎，推动行业朝着可运营、可迭代、可变现的数字生态加速迈进。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/05-24/10627536.shtml",
+        "publishedAt": "2026-05-24T04:03:31.000Z"
+      },
       {
         "category": "平台入口",
         "time": "05/15 13:00",
