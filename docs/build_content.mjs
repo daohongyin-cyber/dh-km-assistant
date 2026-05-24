@@ -32,6 +32,10 @@ const POLICY_KEYWORDS = [
 ];
 
 const SOURCES = [
+  "OpenAI 官方",
+  "Google DeepMind 官方",
+  "Google 官方博客",
+  "Suno 官方 / 帮助中心",
   "中国政府网｜最新政策",
   "国家版权局｜通知公告 / 要闻信息",
   "国家新闻出版署｜通知公示 / 要闻信息",
@@ -39,6 +43,29 @@ const SOURCES = [
   "腾讯音乐 IR 官方",
   "网易云音乐创作者中心（官方入口）",
   "抖音音乐开放平台帮助中心（官方入口）",
+];
+
+const AI_SECTION = [
+  ["智能体", "05/19 08:00", "OpenAI", "OpenAI 推进工作区智能体能力。", "OpenAI 持续强化工作区智能体场景，让智能体更适合在企业和团队任务里直接落地。", "这类更新的价值在于把聊天能力推进到真实工作流里，重点不是模型参数，而是智能体能不能真正接手长期任务。", "OpenAI 官方", "https://openai.com/index/introducing-workspace-agents-in-chatgpt//", "2026-05-19T08:00:00+08:00"],
+  ["搜索 AI", "05/19 08:00", "Google", "Google Search 在 I/O 2026 推出 AI agents 新能力。", "Google 将 AI agents 能力接入搜索，让用户直接通过提问触发更复杂的任务处理。", "这类更新说明搜索产品正在从“找答案”转向“替你做事”，对 AI agent 产品形态很关键。", "Google 官方博客", "https://blog.google/products-and-platforms/products/search/search-io-2026/", "2026-05-19T08:00:00+08:00"],
+  ["智能体", "04/15 08:00", "OpenAI", "OpenAI 更新 Agents SDK，强化智能体任务执行能力。", "新版 Agents SDK 强化了文件、命令和长任务处理能力，也补了更标准化的执行基础设施。", "这类更新对开发者非常重要，因为真正决定智能体能不能落地的，是工具调用、执行环境和稳定性。", "OpenAI 官方", "https://openai.com/index/the-next-evolution-of-the-agents-sdk", "2026-04-15T08:00:00+08:00"],
+  ["智能体", "03/11 08:00", "OpenAI", "OpenAI 为 Responses API 补上计算机环境。", "Responses API 现在可以结合计算机环境工作，让模型向更完整的 agent 方向推进。", "这意味着智能体不再只是会回答问题，而是更接近能操作环境、执行复杂流程的系统。", "OpenAI 官方", "https://openai.com/index/equip-responses-api-computer-environment/", "2026-03-11T08:00:00+08:00"],
+  ["开发工具", "03/04 08:00", "OpenAI", "OpenAI 推出 Codex app，面向多智能体协作开发。", "Codex app 把 coding agent 做成桌面工作台，让用户能直接监督和协同多个智能体。", "重点不是单次代码生成，而是智能体协同、项目监督和端到端开发流程。", "OpenAI 官方", "https://openai.com/index/introducing-the-codex-app/", "2026-03-04T08:00:00+08:00"],
+  ["AI 云服务", "04/28 08:00", "OpenAI", "OpenAI 模型和 Managed Agents 接入 AWS。", "OpenAI 把模型和托管智能体能力带到 AWS Bedrock 场景，降低企业部署门槛。", "这类动作说明 agent 产品正在从实验工具进入企业基础设施层。", "OpenAI 官方", "https://openai.com/index/openai-on-aws", "2026-04-28T08:00:00+08:00"],
+  ["智能体平台", "10/06 08:00", "OpenAI", "OpenAI 推出 AgentKit，覆盖构建、部署和评估。", "AgentKit 把可视化流程、前端嵌入和评估工具整合在一起，方便开发者落地 agent。", "对于 AI agent 领域来说，这代表平台化建设正在提速。", "OpenAI 官方", "https://openai.com/index/introducing-agentkit/", "2025-10-06T08:00:00+08:00"],
+  ["AI 助手", "07/17 08:00", "OpenAI", "ChatGPT agent 整合 Operator 与深度研究能力。", "ChatGPT agent 让模型不仅能对话，还能结合浏览器、研究和工具直接完成任务。", "这类整合最值得关注的，是智能体真正从单一模型能力转向完整产品能力。", "OpenAI 官方", "https://openai.com/index/introducing-chatgpt-agent/", "2025-07-17T08:00:00+08:00"],
+  ["模型进展", "05/10 08:00", "Google", "Google DeepMind 持续主推 Gemini 3.5 作为新一代行动型模型。", "Gemini 3.5 的定位不只是多模态，而是面向行动型任务和更强工作流能力。", "在 AI 领域里，这类模型定义变化，往往比单次 benchmark 更有意义。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["生成视频", "05/10 08:00", "Google", "Google DeepMind 持续强化 Veo 视频生成能力。", "Veo 继续代表 Google 在生成视频和音视频理解方向上的核心布局。", "如果你关注生成视频赛道，这一类产品会持续是重点观察对象。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["图像生成", "05/10 08:00", "Google", "Google DeepMind 持续强化 Imagen 图像生成能力。", "Imagen 继续作为 Google 图像生成主力产品，重点方向是细节表现和创意控制。", "图像生成已经很卷，真正值得看的是控制力、质感和产品接入深度。", "Google DeepMind 官方", "https://deepmind.google/models/imagen/", "2026-05-10T08:00:00+08:00"],
+  ["AI 音乐", "05/10 08:00", "Google", "Google DeepMind 持续推进 Lyria 3 音乐生成。", "Lyria 3 是 Google 在高保真音乐与音频生成方向的重要产品。", "你既然关心音乐领域，这类 AI 音乐模型就是必须长期跟踪的对象。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["图像生成", "05/10 08:00", "Google", "Nano Banana 2 继续强化图像生成与编辑。", "Google 把 Nano Banana 2 放在图像生成和编辑场景中，强调速度与成图能力。", "这一类工具更贴近普通创作者和视觉工作流，是值得看功能落地的方向。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["机器人", "05/10 08:00", "Google", "Google DeepMind 推进 Gemini Robotics。", "Gemini Robotics 继续代表 Google 在智能体与机器人结合方向上的探索。", "这类能力虽然离大众产品还有距离，但会决定 AI agent 的下一阶段边界。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["世界模型", "05/10 08:00", "Google", "Google DeepMind 推进 Genie 3 世界模型方向。", "Genie 3 更偏世界模型与交互式生成环境，是 DeepMind 长线技术路线的重要部分。", "世界模型和 agent 的结合，是未来 AI 系统从工具走向环境级能力的关键。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["AI 音乐", "03/26 08:00", "Suno", "Suno v5.5 发布，强化声音表达和个性控制。", "Suno v5.5 新增 Voices、Custom models 和 My Taste，让音乐生成更可控。", "这类更新对音乐创作者最有价值，因为它直接提升生成音乐的个性表达和可调性。", "Suno 官方", "https://suno.com/blog", "2026-03-26T08:00:00+08:00"],
+  ["AI 音乐", "02/18 08:00", "Suno", "Suno Studio 1.2 发布，增强音乐细节编辑能力。", "Suno Studio 1.2 强调更精细的音乐编辑和控制，比如 Remove FX 与拍号支持。", "和“直接生成一首歌”相比，这类功能更接近真正可用的音乐工作流。", "Suno 官方帮助中心", "https://help.suno.com/en/articles/10625089", "2026-02-18T08:00:00+08:00"],
+  ["AI 音乐", "02/23 08:00", "Suno", "Suno 持续强化文本作曲、人声、歌词和节拍生成能力。", "Suno 把 AI 音乐创作做成一整套产品，从文本成歌到旋律、人声和节拍生成都在打磨。", "这类产品趋势值得长期看，因为它正在改变普通创作者进入音乐创作的门槛。", "Suno 官方", "https://suno.com/hub/create-music-with-ai", "2026-02-23T08:00:00+08:00"],
+  ["开放模型", "05/10 08:00", "Google", "Google DeepMind 推进 Gemma 4 开放模型。", "Gemma 4 继续作为 Google 的开放模型方向，强调智能密度与开放使用场景。", "开源和开放模型一直是 AI 生态里非常关键的一条线，值得持续放进这栏。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"],
+  ["多模态", "05/10 08:00", "Google", "Google DeepMind 推进 Gemini Omni，多模态创作能力再强化。", "Gemini Omni 走的是“从任何输入创造任何内容”的方向，覆盖多模态创作。", "多模态能力是 AI 产品升级的核心方向，尤其会影响视频、图像、文本和音频一体化工作流。", "Google DeepMind 官方", "https://deepmind.google/models/", "2026-05-10T08:00:00+08:00"]
 ];
 
 const SEED_CONTENT = {
@@ -88,6 +115,8 @@ function fromArray([category, time, location, title, summary, content, source, u
 for (const key of Object.keys(SEED_CONTENT)) {
   SEED_CONTENT[key] = SEED_CONTENT[key].map(fromArray);
 }
+
+const AI_ITEMS = AI_SECTION.map(fromArray);
 
 function cleanHtml(text = "") {
   return text.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
@@ -333,10 +362,7 @@ async function buildPayload() {
     }
   }
 
-  const latestPool = [
-    ...latestLive.filter(latestRelevant),
-    ...SEED_CONTENT.latest.filter(latestRelevant),
-  ];
+  const latestPool = AI_ITEMS.filter((item) => isChineseDominant(item.title));
 
   const policyPool = [
     ...policyLive.filter(policyRelevant),
@@ -359,8 +385,8 @@ async function buildPayload() {
     views: {
       latest: {
         kicker: "实时更新",
-        title: "最新资讯",
-        description: "当前内容来自已接入的官源、主流媒体与平台官方入口，按你的三栏规则筛选。",
+        title: "AI领域相关资讯",
+        description: "优先展示 AI agent、智能体、OpenAI、Google、Suno、生成视频、新模型和新功能更新。",
       },
       policy: {
         kicker: "规则与治理",

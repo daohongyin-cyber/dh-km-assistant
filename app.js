@@ -1,8 +1,8 @@
 const DEFAULT_VIEWS = {
   latest: {
     kicker: "实时更新",
-    title: "最新资讯",
-    description: "当前内容来自已接入的官源、主流媒体与平台官方入口，按你的三栏规则筛选。",
+    title: "AI领域相关资讯",
+    description: "优先展示智能体、OpenAI、Google、Suno、生成视频、新模型与新功能相关更新。",
   },
   policy: {
     kicker: "规则与治理",
