@@ -31,6 +31,7 @@ const VIEWS = CONTENT_PAYLOAD.views || DEFAULT_VIEWS;
 const CONTENT = CONTENT_PAYLOAD.sections || FALLBACK_CONTENT.sections;
 
 const splashScreen = document.getElementById("splash-screen");
+const skipSplashButton = document.getElementById("skip-splash");
 const newsList = document.getElementById("news-list");
 const itemTemplate = document.getElementById("item-template");
 const detailSheet = document.getElementById("detail-sheet");
@@ -66,9 +67,13 @@ function showSplashIfNeeded() {
   }
 
   window.setTimeout(() => {
-    splashScreen.classList.remove("is-visible");
-    splashScreen.setAttribute("aria-hidden", "true");
-  }, 7000);
+    hideSplash();
+  }, 5000);
+}
+
+function hideSplash() {
+  splashScreen.classList.remove("is-visible");
+  splashScreen.setAttribute("aria-hidden", "true");
 }
 
 function updateHero() {
@@ -139,6 +144,10 @@ document.addEventListener("keydown", (event) => {
     closeDetail();
   }
 });
+
+if (skipSplashButton) {
+  skipSplashButton.addEventListener("click", hideSplash);
+}
 
 showSplashIfNeeded();
 updateHero();

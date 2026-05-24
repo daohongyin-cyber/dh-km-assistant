@@ -314,6 +314,22 @@ a {
   pointer-events: auto;
 }
 
+.skip-splash {
+  position: fixed;
+  top: calc(16px + env(safe-area-inset-top, 0px));
+  right: 16px;
+  z-index: 40;
+  min-width: 68px;
+  height: 36px;
+  padding: 0 14px;
+  border: 1px solid rgba(255, 243, 238, 0.42);
+  border-radius: 999px;
+  background: rgba(124, 34, 25, 0.18);
+  color: rgba(255, 251, 248, 0.94);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 8px 20px rgba(118, 33, 23, 0.18);
+}
+
 .splash-card {
   width: min(100%, 430px);
   min-height: calc(100dvh - 56px - env(safe-area-inset-bottom, 0px));
