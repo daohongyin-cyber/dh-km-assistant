@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-05-31T04:53:30.089Z",
+  "updatedAt": "2026-06-01T05:17:34.652Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,28 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "06/01 13:17",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-06-01T05:17:33.957Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "06/01 08:00",
+        "location": "全国",
+        "title": "国务院关于对外投资的规定。",
+        "summary": "国务院关于对外投资的规定",
+        "content": "国务院关于对外投资的规定",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202606/content_7070755.htm",
+        "publishedAt": "2026-06-01T00:00:00.000Z"
+      },
       {
         "category": "政策新规",
         "time": "05/29 08:00",
@@ -176,17 +198,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-05-08T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "05/07 08:00",
-        "location": "全国",
-        "title": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》。",
-        "summary": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》",
-        "content": "中共中央办公厅 国务院办公厅印发《美丽中国建设成效考核办法》",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/202605/content_7067978.htm",
-        "publishedAt": "2026-05-07T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -284,20 +295,20 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
-      },
-      {
-        "category": "版权新规",
-        "time": "03/17 08:00",
-        "location": "国家版权局",
-        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
-        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
-        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
-        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
+      {
+        "category": "行业动向",
+        "time": "06/01 13:17",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-06-01T05:17:33.957Z"
+      },
       {
         "category": "行业动向",
         "time": "05/28 16:19",
