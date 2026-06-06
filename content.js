@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-05T04:48:43.281Z",
+  "updatedAt": "2026-06-06T04:29:58.936Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,28 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "06/06 12:29",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-06-06T04:29:58.732Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "06/05 08:00",
+        "location": "全国",
+        "title": "国办关于加强监管防范风险促进私募投资基金高质量发展的指导意见。",
+        "summary": "国办关于加强监管防范风险促进私募投资基金高质量发展的指导意见",
+        "content": "国办关于加强监管防范风险促进私募投资基金高质量发展的指导意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202606/content_7071204.htm",
+        "publishedAt": "2026-06-05T00:00:00.000Z"
+      },
       {
         "category": "政策新规",
         "time": "06/02 08:00",
@@ -176,17 +198,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-05-11T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "05/08 08:00",
-        "location": "全国",
-        "title": "中华人民共和国行政复议法实施条例。",
-        "summary": "中华人民共和国行政复议法实施条例",
-        "content": "中华人民共和国行政复议法实施条例",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202605/content_7068115.htm",
-        "publishedAt": "2026-05-08T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -284,30 +295,19 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
-      },
-      {
-        "category": "版权新规",
-        "time": "03/17 08:00",
-        "location": "国家版权局",
-        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
-        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
-        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
-        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/05 10:17",
-        "location": "北京",
-        "title": "新加坡青年领袖：青年群体为中国—东盟协作注入创新动能丨世界观。",
-        "summary": "中新网北京6月5日电 (记者 吴辛茹 薛凌桥)人工智能技术的飞速迭代与数字经济的迅猛发展，重塑了全球商业模式与创新发展逻辑。中国与东盟区域合作，也搭乘数字化浪潮前行。中国与东…",
-        "content": "中新网北京6月5日电 (记者 吴辛茹 薛凌桥)人工智能技术的飞速迭代与数字经济的迅猛发展，重塑了全球商业模式与创新发展逻辑。中国与东盟区域合作，也搭乘数字化浪潮前行。中国与东盟国家的青年群体，已然成为推动双边产业协作、深化创新合作的核心动能。",
-        "source": "中新网国际",
-        "url": "https://www.chinanews.com.cn/gj/2026/06-05/10634552.shtml",
-        "publishedAt": "2026-06-05T02:17:50.000Z"
+        "time": "06/06 12:29",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-06-06T04:29:58.732Z"
       },
       {
         "category": "平台入口",
