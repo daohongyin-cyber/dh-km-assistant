@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-06T04:29:58.936Z",
+  "updatedAt": "2026-06-07T04:57:16.303Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/06 12:29",
+        "time": "06/07 12:57",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-06T04:29:58.732Z"
+        "publishedAt": "2026-06-07T04:57:16.146Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/06 12:29",
+        "time": "06/07 12:57",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-06T04:29:58.732Z"
+        "publishedAt": "2026-06-07T04:57:16.146Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/06 22:08",
+        "location": "山东",
+        "title": "破解智算能耗难题 国产创新技术赋能超高密算力发展。",
+        "summary": "中新网青岛6月6日电(王禹)为智算产业配套供能的算力中心高压交直流预制舱供电站“算电岛”6日在山东青岛发布。该产品重构智算电力底层架构及建设模式，为超高密人工智能(AI)算力…",
+        "content": "中新网青岛6月6日电(王禹)为智算产业配套供能的算力中心高压交直流预制舱供电站“算电岛”6日在山东青岛发布。该产品重构智算电力底层架构及建设模式，为超高密人工智能(AI)算力打造一体化能源枢纽解决方案。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/06-06/10635622.shtml",
+        "publishedAt": "2026-06-06T14:08:45.000Z"
       },
       {
         "category": "平台入口",
