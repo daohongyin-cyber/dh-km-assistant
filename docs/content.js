@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-19T05:26:53.257Z",
+  "updatedAt": "2026-06-20T04:42:02.781Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/19 13:26",
+        "time": "06/20 12:42",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-19T05:26:52.853Z"
+        "publishedAt": "2026-06-20T04:42:02.238Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/19 13:26",
+        "time": "06/20 12:42",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-19T05:26:52.853Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/19 10:16",
-        "location": "",
-        "title": "让AI走进千家万户 17项举措推进“人工智能+消费”发展。",
-        "summary": "今天(18日)，商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进…",
-        "content": "今天(18日)，商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进千家万户、进千商万店，更好满足人民美好生活需要。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/06-19/10643687.shtml",
-        "publishedAt": "2026-06-19T02:16:07.000Z"
+        "publishedAt": "2026-06-20T04:42:02.238Z"
       },
       {
         "category": "行业动向",
