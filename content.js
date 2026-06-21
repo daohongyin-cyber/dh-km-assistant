@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-20T04:42:02.781Z",
+  "updatedAt": "2026-06-21T05:19:41.515Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/20 12:42",
+        "time": "06/21 13:19",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-20T04:42:02.238Z"
+        "publishedAt": "2026-06-21T05:19:41.076Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/20 12:42",
+        "time": "06/21 13:19",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-20T04:42:02.238Z"
+        "publishedAt": "2026-06-21T05:19:41.076Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/20 20:09",
+        "location": "",
+        "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键。",
+        "summary": "人工智能，当下最热门的前沿科技；提振消费，扩大内需战略的重中之重。当人工智能与消费叠加，会打开怎样一片蓝海？",
+        "content": "人工智能，当下最热门的前沿科技；提振消费，扩大内需战略的重中之重。当人工智能与消费叠加，会打开怎样一片蓝海？",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/06-20/10644305.shtml",
+        "publishedAt": "2026-06-20T12:09:29.000Z"
       },
       {
         "category": "行业动向",
