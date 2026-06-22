@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-21T05:19:41.515Z",
+  "updatedAt": "2026-06-22T05:32:40.051Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/21 13:19",
+        "time": "06/22 13:32",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-21T05:19:41.076Z"
+        "publishedAt": "2026-06-22T05:32:39.698Z"
       },
       {
         "category": "政策新规",
@@ -300,36 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/21 13:19",
+        "time": "06/22 13:32",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-21T05:19:41.076Z"
+        "publishedAt": "2026-06-22T05:32:39.698Z"
       },
       {
         "category": "行业动向",
-        "time": "06/20 20:09",
+        "time": "06/22 13:28",
         "location": "",
-        "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键。",
-        "summary": "人工智能，当下最热门的前沿科技；提振消费，扩大内需战略的重中之重。当人工智能与消费叠加，会打开怎样一片蓝海？",
-        "content": "人工智能，当下最热门的前沿科技；提振消费，扩大内需战略的重中之重。当人工智能与消费叠加，会打开怎样一片蓝海？",
+        "title": "人工智能成“情绪经济”新变量。",
+        "summary": "【解码数智+⑨·专家点评】",
+        "content": "【解码数智+⑨·专家点评】",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/06-20/10644305.shtml",
-        "publishedAt": "2026-06-20T12:09:29.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/15 13:54",
-        "location": "上海",
-        "title": "顾客用AI伪造诊断证明“碰瓷”商家 法院判了。",
-        "summary": "近日，上海市杨浦区人民法院公开审理并当庭宣判了一起利用AI技术敲诈勒索的案件。被告人杨某利用AI软件伪造医院诊断证明、收费单据和投诉材料，以“就餐致病”为名敲诈餐厅，累计非法…",
-        "content": "近日，上海市杨浦区人民法院公开审理并当庭宣判了一起利用AI技术敲诈勒索的案件。被告人杨某利用AI软件伪造医院诊断证明、收费单据和投诉材料，以“就餐致病”为名敲诈餐厅，累计非法获利2500元。最终，法院一审认定杨某犯敲诈勒索罪。",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/06-15/10640686.shtml",
-        "publishedAt": "2026-06-15T05:54:45.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/06-22/10644929.shtml",
+        "publishedAt": "2026-06-22T05:28:31.000Z"
       },
       {
         "category": "平台入口",
