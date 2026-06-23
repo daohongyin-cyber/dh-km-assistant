@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-22T05:32:40.051Z",
+  "updatedAt": "2026-06-23T04:31:00.597Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/22 13:32",
+        "time": "06/23 12:31",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-22T05:32:39.698Z"
+        "publishedAt": "2026-06-23T04:31:00.370Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/22 13:32",
+        "time": "06/23 12:31",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-22T05:32:39.698Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/22 13:28",
-        "location": "",
-        "title": "人工智能成“情绪经济”新变量。",
-        "summary": "【解码数智+⑨·专家点评】",
-        "content": "【解码数智+⑨·专家点评】",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/06-22/10644929.shtml",
-        "publishedAt": "2026-06-22T05:28:31.000Z"
+        "publishedAt": "2026-06-23T04:31:00.370Z"
       },
       {
         "category": "平台入口",
