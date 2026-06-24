@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-23T04:31:00.597Z",
+  "updatedAt": "2026-06-24T04:38:12.634Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/23 12:31",
+        "time": "06/24 12:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-23T04:31:00.370Z"
+        "publishedAt": "2026-06-24T04:38:12.423Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,47 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/23 12:31",
+        "time": "06/24 12:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-23T04:31:00.370Z"
+        "publishedAt": "2026-06-24T04:38:12.423Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/24 11:25",
+        "location": "",
+        "title": "“让AI提到你”成了一门新生意 AI信源治理成新课题。",
+        "summary": "机构通过编造测评等方式向大模型“投喂”定制内容 信源治理成为新课题",
+        "content": "机构通过编造测评等方式向大模型“投喂”定制内容 信源治理成为新课题",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/06-24/10646214.shtml",
+        "publishedAt": "2026-06-24T03:25:53.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/24 10:26",
+        "location": "北京",
+        "title": "2026方塘论坛在京举行 探讨AI时代的关键哲学问题。",
+        "summary": "中新网北京6月24日电(记者 巩微微) 6月22日上午，2026方塘论坛在北京西郊宾馆开幕。本届论坛由清华大学方塘研究院主办，与会嘉宾围绕“AI下#12032;步：关键问题的…",
+        "content": "中新网北京6月24日电(记者 巩微微) 6月22日上午，2026方塘论坛在北京西郊宾馆开幕。本届论坛由清华大学方塘研究院主办，与会嘉宾围绕“AI下#12032;步：关键问题的哲学解答”主题，共同探讨人工智能深度嵌入人类社会后的根本性问题。清华大学党委副书记过勇、清华大学教育基金会方塘研究基金管委会委员杨锦方出席开幕式。",
+        "source": "中新网国际",
+        "url": "https://www.chinanews.com.cn/gj/2026/06-24/10646081.shtml",
+        "publishedAt": "2026-06-24T02:26:11.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/24 09:46",
+        "location": "",
+        "title": "中科曙光高级副总裁：AI推动先进计算变革 中国优势在产业和应用。",
+        "summary": "中新社汉堡6月23日电 题：中科曙光高级副总裁：AI推动先进计算变革 中国优势在产业和应用",
+        "content": "中新社汉堡6月23日电 题：中科曙光高级副总裁：AI推动先进计算变革 中国优势在产业和应用",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/06-24/10646085.shtml",
+        "publishedAt": "2026-06-24T01:46:58.000Z"
       },
       {
         "category": "平台入口",
