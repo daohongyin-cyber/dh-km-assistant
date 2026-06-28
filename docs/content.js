@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-27T04:17:42.117Z",
+  "updatedAt": "2026-06-28T04:53:03.178Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/27 12:17",
+        "time": "06/28 12:53",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-27T04:17:41.888Z"
+        "publishedAt": "2026-06-28T04:53:02.676Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/27 12:17",
+        "time": "06/28 12:53",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-27T04:17:41.888Z"
+        "publishedAt": "2026-06-28T04:53:02.676Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "06/28 11:26",
+        "location": "",
+        "title": "湖南湘江新区AI产业观察：从车间到医院，AI如何“解决真问题”。",
+        "summary": "中新网长沙6月28日电 (胡语桐)机器人在车间分拣钢板，系统在医院辅助诊疗，GPU在机房支撑模型运行——人工智能正在从屏幕里的演示，走进真实的生产和服务现场。",
+        "content": "中新网长沙6月28日电 (胡语桐)机器人在车间分拣钢板，系统在医院辅助诊疗，GPU在机房支撑模型运行——人工智能正在从屏幕里的演示，走进真实的生产和服务现场。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/06-28/10648738.shtml",
+        "publishedAt": "2026-06-28T03:26:26.000Z"
       },
       {
         "category": "行业动向",
