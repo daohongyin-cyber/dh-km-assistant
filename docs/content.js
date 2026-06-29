@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-28T04:53:03.178Z",
+  "updatedAt": "2026-06-29T05:00:36.577Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/28 12:53",
+        "time": "06/29 13:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-28T04:53:02.676Z"
+        "publishedAt": "2026-06-29T05:00:36.299Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "06/28 12:53",
+        "time": "06/29 13:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-28T04:53:02.676Z"
+        "publishedAt": "2026-06-29T05:00:36.299Z"
       },
       {
         "category": "行业动向",
-        "time": "06/28 11:26",
+        "time": "06/29 12:27",
         "location": "",
-        "title": "湖南湘江新区AI产业观察：从车间到医院，AI如何“解决真问题”。",
-        "summary": "中新网长沙6月28日电 (胡语桐)机器人在车间分拣钢板，系统在医院辅助诊疗，GPU在机房支撑模型运行——人工智能正在从屏幕里的演示，走进真实的生产和服务现场。",
-        "content": "中新网长沙6月28日电 (胡语桐)机器人在车间分拣钢板，系统在医院辅助诊疗，GPU在机房支撑模型运行——人工智能正在从屏幕里的演示，走进真实的生产和服务现场。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/06-28/10648738.shtml",
-        "publishedAt": "2026-06-28T03:26:26.000Z"
+        "title": "一看星二扫码 7月起买智能摄像头不再“盲选”。",
+        "summary": "近年来，随着人工智能等技术发展，越来越多主打“联网、智能”的产品走入老百姓的日常生活，但是这些产品的安全防护能力参差不齐，一旦遭到网络攻击，容易导致个人隐私泄露。对普通人来说…",
+        "content": "近年来，随着人工智能等技术发展，越来越多主打“联网、智能”的产品走入老百姓的日常生活，但是这些产品的安全防护能力参差不齐，一旦遭到网络攻击，容易导致个人隐私泄露。对普通人来说，能不能购买到既智能又安全的产品，也缺少一个直观标准。",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/06-29/10649188.shtml",
+        "publishedAt": "2026-06-29T04:27:33.000Z"
       },
       {
         "category": "行业动向",
@@ -330,17 +330,6 @@ window.DHKM_CONTENT = {
         "source": "中新网法治",
         "url": "https://www.chinanews.com.cn/fz/2026/06-25/10646744.shtml",
         "publishedAt": "2026-06-24T23:12:36.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/24 13:35",
-        "location": "",
-        "title": "AI生成虚假房源引流 涉案中介被处罚。",
-        "summary": "法治在线丨AI生成虚假房源引流 涉案中介被处罚",
-        "content": "法治在线丨AI生成虚假房源引流 涉案中介被处罚",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/06-24/10646279.shtml",
-        "publishedAt": "2026-06-24T05:35:49.000Z"
       },
       {
         "category": "平台入口",
