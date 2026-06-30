@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-06-29T05:00:36.577Z",
+  "updatedAt": "2026-06-30T04:34:56.996Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "06/29 13:00",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-29T05:00:36.299Z"
+        "time": "06/29 08:00",
+        "location": "全国",
+        "title": "国务院关于印发《教育发展“十五五”规划》的通知。",
+        "summary": "国务院关于印发《教育发展“十五五”规划》的通知",
+        "content": "国务院关于印发《教育发展“十五五”规划》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202606/content_7073640.htm",
+        "publishedAt": "2026-06-29T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -209,17 +209,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-05-22T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "05/20 08:00",
-        "location": "全国",
-        "title": "中华人民共和国矿产资源法实施条例。",
-        "summary": "中华人民共和国矿产资源法实施条例",
-        "content": "中华人民共和国矿产资源法实施条例",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202605/content_7069679.htm",
-        "publishedAt": "2026-05-20T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -295,42 +284,20 @@ window.DHKM_CONTENT = {
         "source": "中新网财经",
         "url": "https://www.chinanews.com.cn/cj/2026/03-24/10592181.shtml",
         "publishedAt": "2026-03-24T14:03:46+00:00"
+      },
+      {
+        "category": "政策新规",
+        "time": "03/22 08:00",
+        "location": "全国",
+        "title": "中共中央办公厅 国务院办公厅印发《国有企业领导人员廉洁从业规定》。",
+        "summary": "围绕国企领导人员廉洁从业的最新规定已经印发，后续重点看执行与配套细则。",
+        "content": "这类政策信息的核心不是标题本身，而是落地后的适用范围、实施强度和后续是否有更多细则同步出台。",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
+        "publishedAt": "2026-03-22T00:00:00+00:00"
       }
     ],
     "industry": [
-      {
-        "category": "行业动向",
-        "time": "06/29 13:00",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-06-29T05:00:36.299Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/29 12:27",
-        "location": "",
-        "title": "一看星二扫码 7月起买智能摄像头不再“盲选”。",
-        "summary": "近年来，随着人工智能等技术发展，越来越多主打“联网、智能”的产品走入老百姓的日常生活，但是这些产品的安全防护能力参差不齐，一旦遭到网络攻击，容易导致个人隐私泄露。对普通人来说…",
-        "content": "近年来，随着人工智能等技术发展，越来越多主打“联网、智能”的产品走入老百姓的日常生活，但是这些产品的安全防护能力参差不齐，一旦遭到网络攻击，容易导致个人隐私泄露。对普通人来说，能不能购买到既智能又安全的产品，也缺少一个直观标准。",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/06-29/10649188.shtml",
-        "publishedAt": "2026-06-29T04:27:33.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "06/25 07:12",
-        "location": "",
-        "title": "公司以“AI替岗”裁员违法吗？法官详解。",
-        "summary": "公司以“AI替岗”裁员，法官详解为何解雇违法",
-        "content": "公司以“AI替岗”裁员，法官详解为何解雇违法",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/06-25/10646744.shtml",
-        "publishedAt": "2026-06-24T23:12:36.000Z"
-      },
       {
         "category": "平台入口",
         "time": "05/15 13:00",
