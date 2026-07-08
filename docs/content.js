@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-07T04:17:46.604Z",
+  "updatedAt": "2026-07-08T03:46:40.844Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,28 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "07/08 11:46",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-07-08T03:46:40.630Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/07 08:00",
+        "location": "全国",
+        "title": "国务院关于《旅游强国建设“十五五”规划》的批复。",
+        "summary": "国务院关于《旅游强国建设“十五五”规划》的批复",
+        "content": "国务院关于《旅游强国建设“十五五”规划》的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7074516.htm",
+        "publishedAt": "2026-07-07T00:00:00.000Z"
+      },
       {
         "category": "政策新规",
         "time": "07/03 08:00",
@@ -198,17 +220,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-06-05T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "06/02 08:00",
-        "location": "全国",
-        "title": "国务院关于印发《加快农业农村现代化“十五五”规划》的通知。",
-        "summary": "国务院关于印发《加快农业农村现代化“十五五”规划》的通知",
-        "content": "国务院关于印发《加快农业农村现代化“十五五”规划》的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202606/content_7070901.htm",
-        "publishedAt": "2026-06-02T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -284,41 +295,41 @@ window.DHKM_CONTENT = {
         "source": "中新网财经",
         "url": "https://www.chinanews.com.cn/cj/2026/03-24/10592181.shtml",
         "publishedAt": "2026-03-24T14:03:46+00:00"
-      },
-      {
-        "category": "政策新规",
-        "time": "03/22 08:00",
-        "location": "全国",
-        "title": "中共中央办公厅 国务院办公厅印发《国有企业领导人员廉洁从业规定》。",
-        "summary": "围绕国企领导人员廉洁从业的最新规定已经印发，后续重点看执行与配套细则。",
-        "content": "这类政策信息的核心不是标题本身，而是落地后的适用范围、实施强度和后续是否有更多细则同步出台。",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
-        "publishedAt": "2026-03-22T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/07 11:26",
-        "location": "",
-        "title": "优惠规则复杂，AI营销造假 “618”这些问题给消费者带来困扰。",
-        "summary": "优惠规则复杂，AI营销造假，保价承诺难兑现",
-        "content": "优惠规则复杂，AI营销造假，保价承诺难兑现",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654110.shtml",
-        "publishedAt": "2026-07-07T03:26:06.000Z"
+        "time": "07/08 11:46",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-07-08T03:46:40.630Z"
       },
       {
         "category": "行业动向",
-        "time": "07/07 09:57",
+        "time": "07/07 14:43",
+        "location": "上海",
+        "title": "一键生成“伪原创”骗取平台补贴 揭秘“AI洗稿”产业链→。",
+        "summary": "大家在网络平台浏览文章时，是否有过这样的经历：标题极具噱头，点开却发现内容质量低劣，甚至漏洞百出，看了让人摸不着头脑。你知道吗？这种文章往往并非人工撰写，而是由AI软件一键生…",
+        "content": "大家在网络平台浏览文章时，是否有过这样的经历：标题极具噱头，点开却发现内容质量低劣，甚至漏洞百出，看了让人摸不着头脑。你知道吗？这种文章往往并非人工撰写，而是由AI软件一键生成的“伪原创”。上海虹口检察机关公布了一起“AI洗稿案”。被告人张某通过AI软件批量生成伪原创文章，目的竟然是骗取平台的原创补贴。",
+        "source": "中新网法治",
+        "url": "https://www.chinanews.com.cn/fz/2026/07-07/10654334.shtml",
+        "publishedAt": "2026-07-07T06:43:58.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "07/07 13:38",
         "location": "",
-        "title": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍。",
-        "summary": "挪威队vs巴西队的比赛刚结束，“哈兰德头绳”已经成了直播电商的搜索热词；球迷们还在短视频上讨论C罗的“演技”，同款球衣的“求链接”已经铺满了评论区。",
-        "content": "挪威队vs巴西队的比赛刚结束，“哈兰德头绳”已经成了直播电商的搜索热词；球迷们还在短视频上讨论C罗的“演技”，同款球衣的“求链接”已经铺满了评论区。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654090.shtml",
-        "publishedAt": "2026-07-07T01:57:50.000Z"
+        "title": "利用人工智能实施刑事犯罪案件时有发生 引发新型刑事风险。",
+        "summary": "利用人工智能实施刑事犯罪案件时有发生 专家建议",
+        "content": "利用人工智能实施刑事犯罪案件时有发生 专家建议",
+        "source": "中新网法治",
+        "url": "https://www.chinanews.com.cn/fz/2026/07-07/10654233.shtml",
+        "publishedAt": "2026-07-07T05:38:16.000Z"
       },
       {
         "category": "平台入口",
