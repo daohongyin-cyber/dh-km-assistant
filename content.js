@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-10T04:16:28.260Z",
+  "updatedAt": "2026-07-11T03:44:16.044Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "07/10 12:16",
+        "time": "07/11 11:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-10T04:16:27.971Z"
+        "publishedAt": "2026-07-11T03:44:15.916Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/10 08:00",
+        "location": "全国",
+        "title": "国务院关于《中医药振兴发展“十五五”规划》的批复。",
+        "summary": "国务院关于《中医药振兴发展“十五五”规划》的批复",
+        "content": "国务院关于《中医药振兴发展“十五五”规划》的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7074930.htm",
+        "publishedAt": "2026-07-10T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -198,17 +209,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-06-29T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "06/25 08:00",
-        "location": "全国",
-        "title": "国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知。",
-        "summary": "国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知",
-        "content": "国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202606/content_7073259.htm",
-        "publishedAt": "2026-06-25T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -300,25 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/10 12:16",
+        "time": "07/11 11:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-10T04:16:27.971Z"
+        "publishedAt": "2026-07-11T03:44:15.916Z"
       },
       {
         "category": "行业动向",
-        "time": "07/10 10:59",
-        "location": "上海",
-        "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足。",
-        "summary": "据上海海关近日发布的数据，今年前5个月，上海累计实现进出口2.1万亿元，增长17.9%。5月单月进出口4204.9亿元，同比增长11.5%，连续16个月保持增长。",
-        "content": "据上海海关近日发布的数据，今年前5个月，上海累计实现进出口2.1万亿元，增长17.9%。5月单月进出口4204.9亿元，同比增长11.5%，连续16个月保持增长。",
+        "time": "07/10 21:48",
+        "location": "全球",
+        "title": "外媒观察丨产业生态成熟！中国AI成全球人工智能发展新选择。",
+        "summary": "中国网7月10日讯 (记者李智)国际舆论认为，中国AI(人工智能)模型走出了独特的发展道路，为全球尤其是欧洲市场带来全新选择与机遇。",
+        "content": "中国网7月10日讯 (记者李智)国际舆论认为，中国AI(人工智能)模型走出了独特的发展道路，为全球尤其是欧洲市场带来全新选择与机遇。",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656529.shtml",
-        "publishedAt": "2026-07-10T02:59:43.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/07-10/10657213.shtml",
+        "publishedAt": "2026-07-10T13:48:22.000Z"
       },
       {
         "category": "行业动向",
