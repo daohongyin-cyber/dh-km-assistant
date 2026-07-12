@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-11T03:44:16.044Z",
+  "updatedAt": "2026-07-12T03:59:32.551Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "07/11 11:44",
+        "time": "07/12 11:59",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-11T03:44:15.916Z"
+        "publishedAt": "2026-07-12T03:59:32.357Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/11 11:44",
+        "time": "07/12 11:59",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-11T03:44:15.916Z"
+        "publishedAt": "2026-07-12T03:59:32.357Z"
       },
       {
         "category": "行业动向",
-        "time": "07/10 21:48",
-        "location": "全球",
-        "title": "外媒观察丨产业生态成熟！中国AI成全球人工智能发展新选择。",
-        "summary": "中国网7月10日讯 (记者李智)国际舆论认为，中国AI(人工智能)模型走出了独特的发展道路，为全球尤其是欧洲市场带来全新选择与机遇。",
-        "content": "中国网7月10日讯 (记者李智)国际舆论认为，中国AI(人工智能)模型走出了独特的发展道路，为全球尤其是欧洲市场带来全新选择与机遇。",
+        "time": "07/12 06:27",
+        "location": "",
+        "title": "上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎。",
+        "summary": "上半年发行规模超一千六百亿元，同比增加超六成",
+        "content": "上半年发行规模超一千六百亿元，同比增加超六成",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-10/10657213.shtml",
-        "publishedAt": "2026-07-10T13:48:22.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/07-12/10657754.shtml",
+        "publishedAt": "2026-07-11T22:27:01.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "07/11 22:03",
+        "location": "深圳",
+        "title": "活力中国调研行| 从“机器人谷”，攀“机器人峰”。",
+        "summary": "在深圳市南山区，我们调研了一家专注于研发生产人工智能外骨骼机器人的科创企业——极壳科技。",
+        "content": "在深圳市南山区，我们调研了一家专注于研发生产人工智能外骨骼机器人的科创企业——极壳科技。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/07-11/10657723.shtml",
+        "publishedAt": "2026-07-11T14:03:32.000Z"
       },
       {
         "category": "行业动向",
