@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-12T03:59:32.551Z",
+  "updatedAt": "2026-07-13T04:02:02.115Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "07/12 11:59",
+        "time": "07/13 12:02",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-12T03:59:32.357Z"
+        "publishedAt": "2026-07-13T04:02:01.892Z"
       },
       {
         "category": "政策新规",
@@ -300,36 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/12 11:59",
+        "time": "07/13 12:02",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-12T03:59:32.357Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/12 06:27",
-        "location": "",
-        "title": "上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎。",
-        "summary": "上半年发行规模超一千六百亿元，同比增加超六成",
-        "content": "上半年发行规模超一千六百亿元，同比增加超六成",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-12/10657754.shtml",
-        "publishedAt": "2026-07-11T22:27:01.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/11 22:03",
-        "location": "深圳",
-        "title": "活力中国调研行| 从“机器人谷”，攀“机器人峰”。",
-        "summary": "在深圳市南山区，我们调研了一家专注于研发生产人工智能外骨骼机器人的科创企业——极壳科技。",
-        "content": "在深圳市南山区，我们调研了一家专注于研发生产人工智能外骨骼机器人的科创企业——极壳科技。",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/07-11/10657723.shtml",
-        "publishedAt": "2026-07-11T14:03:32.000Z"
+        "publishedAt": "2026-07-13T04:02:01.892Z"
       },
       {
         "category": "行业动向",
@@ -341,28 +319,6 @@ window.DHKM_CONTENT = {
         "source": "中新网法治",
         "url": "https://www.chinanews.com.cn/fz/2026/07-09/10655715.shtml",
         "publishedAt": "2026-07-09T02:32:53.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/07 14:43",
-        "location": "上海",
-        "title": "一键生成“伪原创”骗取平台补贴 揭秘“AI洗稿”产业链→。",
-        "summary": "大家在网络平台浏览文章时，是否有过这样的经历：标题极具噱头，点开却发现内容质量低劣，甚至漏洞百出，看了让人摸不着头脑。你知道吗？这种文章往往并非人工撰写，而是由AI软件一键生…",
-        "content": "大家在网络平台浏览文章时，是否有过这样的经历：标题极具噱头，点开却发现内容质量低劣，甚至漏洞百出，看了让人摸不着头脑。你知道吗？这种文章往往并非人工撰写，而是由AI软件一键生成的“伪原创”。上海虹口检察机关公布了一起“AI洗稿案”。被告人张某通过AI软件批量生成伪原创文章，目的竟然是骗取平台的原创补贴。",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/07-07/10654334.shtml",
-        "publishedAt": "2026-07-07T06:43:58.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/07 13:38",
-        "location": "",
-        "title": "利用人工智能实施刑事犯罪案件时有发生 引发新型刑事风险。",
-        "summary": "利用人工智能实施刑事犯罪案件时有发生 专家建议",
-        "content": "利用人工智能实施刑事犯罪案件时有发生 专家建议",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/07-07/10654233.shtml",
-        "publishedAt": "2026-07-07T05:38:16.000Z"
       },
       {
         "category": "平台入口",
