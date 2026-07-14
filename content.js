@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-13T04:02:02.115Z",
+  "updatedAt": "2026-07-14T03:36:40.295Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,47 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "07/13 12:02",
+        "time": "07/14 11:36",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-13T04:02:01.892Z"
+        "publishedAt": "2026-07-14T03:36:40.045Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/13 08:00",
+        "location": "全国",
+        "title": "中办国办关于完善自然资源资产管理制度体系的意见。",
+        "summary": "中办国办关于完善自然资源资产管理制度体系的意见",
+        "content": "中办国办关于完善自然资源资产管理制度体系的意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202607/content_7075234.htm",
+        "publishedAt": "2026-07-13T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/13 08:00",
+        "location": "全国",
+        "title": "国务院关于《扩大消费“十五五”规划》的批复。",
+        "summary": "国务院关于《扩大消费“十五五”规划》的批复",
+        "content": "国务院关于《扩大消费“十五五”规划》的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7075216.htm",
+        "publishedAt": "2026-07-13T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/13 08:00",
+        "location": "全国",
+        "title": "国务院关于印发《国民健康“十五五”规划》的通知。",
+        "summary": "国务院关于印发《国民健康“十五五”规划》的通知",
+        "content": "国务院关于印发《国民健康“十五五”规划》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7075213.htm",
+        "publishedAt": "2026-07-13T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -174,39 +207,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202607/content_7074092.htm",
         "publishedAt": "2026-07-02T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/02 08:00",
-        "location": "全国",
-        "title": "国务院关于同意在上海市设立上海辰山国家植物园的批复。",
-        "summary": "国务院关于同意在上海市设立上海辰山国家植物园的批复",
-        "content": "国务院关于同意在上海市设立上海辰山国家植物园的批复",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7074090.htm",
-        "publishedAt": "2026-07-02T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "06/30 08:00",
-        "location": "全国",
-        "title": "退役军人就业创业促进条例。",
-        "summary": "退役军人就业创业促进条例",
-        "content": "退役军人就业创业促进条例",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202606/content_7073788.htm",
-        "publishedAt": "2026-06-30T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "06/29 08:00",
-        "location": "全国",
-        "title": "国务院关于印发《教育发展“十五五”规划》的通知。",
-        "summary": "国务院关于印发《教育发展“十五五”规划》的通知",
-        "content": "国务院关于印发《教育发展“十五五”规划》的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202606/content_7073640.htm",
-        "publishedAt": "2026-06-29T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -300,14 +300,47 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/13 12:02",
+        "time": "07/14 11:36",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-13T04:02:01.892Z"
+        "publishedAt": "2026-07-14T03:36:40.045Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "07/14 11:13",
+        "location": "",
+        "title": "抖音持续治理魔改经典儿童动画，处置违规内容超2万条。",
+        "summary": "近日，抖音发布公告称，关注到平台部分账号以“儿童动画”“早教启蒙”为名，利用AI技术恶意魔改经典动画，传播低俗、暴力等不良内容，影响未成年人身心健康，甚至借此诱导互动、吸粉引…",
+        "content": "近日，抖音发布公告称，关注到平台部分账号以“儿童动画”“早教启蒙”为名，利用AI技术恶意魔改经典动画，传播低俗、暴力等不良内容，影响未成年人身心健康，甚至借此诱导互动、吸粉引流，进行不当牟利，平台已第一时间下架违规内容，处置相关账号。近期针对魔改经典儿童动画，抖音共处置违规内容2.34万条，处置违规账号1300个。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/07-14/10658894.shtml",
+        "publishedAt": "2026-07-14T03:13:27.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "07/14 10:21",
+        "location": "北京",
+        "title": "国际社会期待习近平主席就全球人工智能发展与治理发表主旨讲话。",
+        "summary": "新华社北京7月13日电#8195;题：为加强全球人工智能发展治理注入中国动力——国际社会期待习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨…",
+        "content": "新华社北京7月13日电#8195;题：为加强全球人工智能发展治理注入中国动力——国际社会期待习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/07-14/10658809.shtml",
+        "publishedAt": "2026-07-14T02:21:48.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "07/14 09:52",
+        "location": "全球",
+        "title": "学习卡丨推动人工智能健康有序发展、共享发展红利，习近平这样阐释。",
+        "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。国家主席习近平将出席大会开幕式并发表主旨讲话。",
+        "content": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。国家主席习近平将出席大会开幕式并发表主旨讲话。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/07-14/10658828.shtml",
+        "publishedAt": "2026-07-14T01:52:40.000Z"
       },
       {
         "category": "行业动向",
