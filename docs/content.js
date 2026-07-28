@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-27T04:04:03.691Z",
+  "updatedAt": "2026-07-28T03:38:21.578Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "07/27 12:04",
+        "time": "07/28 11:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-27T04:04:03.320Z"
+        "publishedAt": "2026-07-28T03:38:20.886Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/27 08:00",
+        "location": "全国",
+        "title": "国办印发《关于国务院行政复议案件处理程序的若干规定》的通知。",
+        "summary": "国办印发《关于国务院行政复议案件处理程序的若干规定》的通知",
+        "content": "国办印发《关于国务院行政复议案件处理程序的若干规定》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7076684.htm",
+        "publishedAt": "2026-07-27T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -198,17 +209,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-07-09T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "07/08 08:00",
-        "location": "全国",
-        "title": "国务院关于《疾病预防控制“十五五”规划》的批复。",
-        "summary": "国务院关于《疾病预防控制“十五五”规划》的批复",
-        "content": "国务院关于《疾病预防控制“十五五”规划》的批复",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7074674.htm",
-        "publishedAt": "2026-07-08T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -300,36 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/27 12:04",
+        "time": "07/28 11:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-07-27T04:04:03.320Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/27 10:31",
-        "location": "",
-        "title": "（活力中国调研行）盐城：向“新”而行 以“智”取胜。",
-        "summary": "中新网盐城7月27日电 (常慕城 王昊)从接收客户图纸到完成全套模具制作并交付，仅耗时三天。领胜城科技(江苏)有限公司党委书记王迎春表示，得益于自主研发设备与AI通用模型，企…",
-        "content": "中新网盐城7月27日电 (常慕城 王昊)从接收客户图纸到完成全套模具制作并交付，仅耗时三天。领胜城科技(江苏)有限公司党委书记王迎春表示，得益于自主研发设备与AI通用模型，企业能够快速响应市场需求，实现生产、检测全链路协同联动。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-27/10667027.shtml",
-        "publishedAt": "2026-07-27T02:31:47.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/27 10:13",
-        "location": "",
-        "title": "从大科学装置到机器人手机 AI赋能进行时。",
-        "summary": "人工智能(AI)正在完成从“对话”到“行动”的一跃。从目前行业发展看，AI已不仅止于屏幕内的智能问答，而是以更为直接的方式介入现实世界。不过，技术跑得越快，问题也追得越紧：A…",
-        "content": "人工智能(AI)正在完成从“对话”到“行动”的一跃。从目前行业发展看，AI已不仅止于屏幕内的智能问答，而是以更为直接的方式介入现实世界。不过，技术跑得越快，问题也追得越紧：AI的判断如何可信？什么交给AI，什么留给人？AI与人的互动边界在哪里？",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-27/10667056.shtml",
-        "publishedAt": "2026-07-27T02:13:42.000Z"
+        "publishedAt": "2026-07-28T03:38:20.886Z"
       },
       {
         "category": "平台入口",
