@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-07-31T03:52:04.411Z",
+  "updatedAt": "2026-08-01T03:52:10.529Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,6 +78,39 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
+        "time": "08/01 11:52",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-08-01T03:52:10.371Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/31 08:00",
+        "location": "全国",
+        "title": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知。",
+        "summary": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知",
+        "content": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7077199.htm",
+        "publishedAt": "2026-07-31T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "07/31 08:00",
+        "location": "全国",
+        "title": "国务院关于出境入境管理的规定。",
+        "summary": "国务院关于出境入境管理的规定",
+        "content": "国务院关于出境入境管理的规定",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202607/content_7077172.htm",
+        "publishedAt": "2026-07-31T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
         "time": "07/27 08:00",
         "location": "全国",
         "title": "国办印发《关于国务院行政复议案件处理程序的若干规定》的通知。",
@@ -124,9 +157,9 @@ window.DHKM_CONTENT = {
         "category": "政策新规",
         "time": "07/14 08:00",
         "location": "全国",
-        "title": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知。",
-        "summary": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知",
-        "content": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知",
+        "title": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》。",
+        "summary": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》",
+        "content": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》",
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202607/content_7075364.htm",
         "publishedAt": "2026-07-14T00:00:00.000Z"
@@ -174,28 +207,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202607/content_7074930.htm",
         "publishedAt": "2026-07-10T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/09 08:00",
-        "location": "全国",
-        "title": "国务院关于印发《“十五五”碳达峰行动方案》的通知。",
-        "summary": "国务院关于印发《“十五五”碳达峰行动方案》的通知",
-        "content": "国务院关于印发《“十五五”碳达峰行动方案》的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7074826.htm",
-        "publishedAt": "2026-07-09T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/09 08:00",
-        "location": "全国",
-        "title": "中办、国办印发《关于全力做好防汛抗旱工作的通知》。",
-        "summary": "中办、国办印发《关于全力做好防汛抗旱工作的通知》",
-        "content": "中办、国办印发《关于全力做好防汛抗旱工作的通知》",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/202607/content_7074818.htm",
-        "publishedAt": "2026-07-09T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -284,30 +295,30 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
         "publishedAt": "2026-03-22T00:00:00+00:00"
-      },
-      {
-        "category": "版权动态",
-        "time": "03/20 08:00",
-        "location": "北京",
-        "title": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开。",
-        "summary": "正版软件推进会议召开，反映版权治理和规范化使用软件的持续强化。",
-        "content": "这类信息会影响到软件采购、内容生产和版权治理方向，对创作行业和企业合规都有现实意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
-        "publishedAt": "2026-03-20T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "07/31 11:40",
+        "time": "08/01 11:52",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-08-01T03:52:10.371Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/01 08:49",
         "location": "",
-        "title": "人文素养“校准”技术温度 文科生解锁新就业赛道。",
-        "summary": "AI技术飞速普及，科技企业跨界招录文科生成为新趋势。文科专业迎来了新的就业机会。文科素养叠加AI技能成为求职的新优势，不少高校文科生主动跨界学习、适配市场新需求，解锁全新就业…",
-        "content": "AI技术飞速普及，科技企业跨界招录文科生成为新趋势。文科专业迎来了新的就业机会。文科素养叠加AI技能成为求职的新优势，不少高校文科生主动跨界学习、适配市场新需求，解锁全新就业赛道。",
+        "title": "人工智能赋能孤独症辅助筛查与康复训练 “星星的孩子”康复或有新途径。",
+        "summary": "“举起左手。”",
+        "content": "“举起左手。”",
         "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/07-31/10669704.shtml",
-        "publishedAt": "2026-07-31T03:40:23.000Z"
+        "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670300.shtml",
+        "publishedAt": "2026-08-01T00:49:26.000Z"
       },
       {
         "category": "行业动向",
@@ -319,28 +330,6 @@ window.DHKM_CONTENT = {
         "source": "中新网法治",
         "url": "https://www.chinanews.com.cn/fz/2026/07-31/10669784.shtml",
         "publishedAt": "2026-07-31T03:26:50.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/31 11:04",
-        "location": "",
-        "title": "超30%增速 人工智能成为经济增长的澎湃动力源。",
-        "summary": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，上半年，我国人工智能自主创新步伐加快，在全产业链多环节实现快速突破。",
-        "content": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，上半年，我国人工智能自主创新步伐加快，在全产业链多环节实现快速突破。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669739.shtml",
-        "publishedAt": "2026-07-31T03:04:11.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "07/31 10:49",
-        "location": "北京",
-        "title": "股价一度突破60元，长鑫科技上市以来累计涨幅6倍。",
-        "summary": "中新网北京7月31日电(记者 谢艺观)31日，国产存储芯片企业长鑫科技开盘大涨，早盘股价一度触及60.6元，总市值一度突破4万亿元，稳坐A股上市公司总市值首位。",
-        "content": "中新网北京7月31日电(记者 谢艺观)31日，国产存储芯片企业长鑫科技开盘大涨，早盘股价一度触及60.6元，总市值一度突破4万亿元，稳坐A股上市公司总市值首位。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669715.shtml",
-        "publishedAt": "2026-07-31T02:49:23.000Z"
       },
       {
         "category": "平台入口",
