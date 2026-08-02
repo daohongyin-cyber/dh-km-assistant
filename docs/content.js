@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-01T03:52:10.529Z",
+  "updatedAt": "2026-08-02T03:54:53.651Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/01 11:52",
+        "time": "08/02 11:54",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-01T03:52:10.371Z"
+        "publishedAt": "2026-08-02T03:54:53.318Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/01 11:52",
+        "time": "08/02 11:54",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-01T03:52:10.371Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/01 08:49",
-        "location": "",
-        "title": "人工智能赋能孤独症辅助筛查与康复训练 “星星的孩子”康复或有新途径。",
-        "summary": "“举起左手。”",
-        "content": "“举起左手。”",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670300.shtml",
-        "publishedAt": "2026-08-01T00:49:26.000Z"
+        "publishedAt": "2026-08-02T03:54:53.318Z"
       },
       {
         "category": "行业动向",
