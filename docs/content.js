@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-02T03:54:53.651Z",
+  "updatedAt": "2026-08-03T03:56:22.256Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/02 11:54",
+        "time": "08/03 11:56",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-02T03:54:53.318Z"
+        "publishedAt": "2026-08-03T03:56:22.032Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/02 11:54",
+        "time": "08/03 11:56",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-02T03:54:53.318Z"
+        "publishedAt": "2026-08-03T03:56:22.032Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/03 11:32",
+        "location": "北京",
+        "title": "AI驱动品牌变革新突破 洽洽推出零食行业首个品牌数字代言人“洽可儿”。",
+        "summary": "7月30日，洽洽食品在北京正式发布全新品牌伙伴——数字代言人洽可儿Chacky。据介绍，这也是休闲零食行业首个品牌数字代言人。这次除了洽可儿的形象发布，洽洽也同步上线了洽可儿…",
+        "content": "7月30日，洽洽食品在北京正式发布全新品牌伙伴——数字代言人洽可儿Chacky。据介绍，这也是休闲零食行业首个品牌数字代言人。这次除了洽可儿的形象发布，洽洽也同步上线了洽可儿专属出道单曲《世界一起洽洽》及定制MV，以AI技术重构休闲零食行业传统营销模式。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671110.shtml",
+        "publishedAt": "2026-08-03T03:32:44.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/03 11:16",
+        "location": "日本",
+        "title": "210元一条，日本右翼用AI批量造谎 ｜真相。",
+        "summary": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
+        "content": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671096.shtml",
+        "publishedAt": "2026-08-03T03:16:51.000Z"
       },
       {
         "category": "行业动向",
