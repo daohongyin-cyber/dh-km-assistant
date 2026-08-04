@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-03T03:56:22.256Z",
+  "updatedAt": "2026-08-04T03:39:38.559Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/03 11:56",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-03T03:56:22.032Z"
+        "time": "08/03 08:00",
+        "location": "全国",
+        "title": "集成电路布图设计保护条例。",
+        "summary": "集成电路布图设计保护条例",
+        "content": "集成电路布图设计保护条例",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
+        "publishedAt": "2026-08-03T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -157,9 +157,9 @@ window.DHKM_CONTENT = {
         "category": "政策新规",
         "time": "07/14 08:00",
         "location": "全国",
-        "title": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》。",
-        "summary": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》",
-        "content": "国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》",
+        "title": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知。",
+        "summary": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知",
+        "content": "国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知",
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202607/content_7075364.htm",
         "publishedAt": "2026-07-14T00:00:00.000Z"
@@ -168,9 +168,9 @@ window.DHKM_CONTENT = {
         "category": "政策新规",
         "time": "07/13 08:00",
         "location": "全国",
-        "title": "中办国办关于完善自然资源资产管理制度体系的意见。",
-        "summary": "中办国办关于完善自然资源资产管理制度体系的意见",
-        "content": "中办国办关于完善自然资源资产管理制度体系的意见",
+        "title": "中共中央办公厅 国务院办公厅关于完善自然资源资产管理制度体系的意见。",
+        "summary": "中共中央办公厅 国务院办公厅关于完善自然资源资产管理制度体系的意见",
+        "content": "中共中央办公厅 国务院办公厅关于完善自然资源资产管理制度体系的意见",
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202607/content_7075234.htm",
         "publishedAt": "2026-07-13T00:00:00.000Z"
@@ -196,17 +196,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202607/content_7075213.htm",
         "publishedAt": "2026-07-13T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/10 08:00",
-        "location": "全国",
-        "title": "国务院关于《中医药振兴发展“十五五”规划》的批复。",
-        "summary": "国务院关于《中医药振兴发展“十五五”规划》的批复",
-        "content": "国务院关于《中医药振兴发展“十五五”规划》的批复",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7074930.htm",
-        "publishedAt": "2026-07-10T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -295,41 +284,30 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
         "publishedAt": "2026-03-22T00:00:00+00:00"
+      },
+      {
+        "category": "版权动态",
+        "time": "03/20 08:00",
+        "location": "北京",
+        "title": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开。",
+        "summary": "正版软件推进会议召开，反映版权治理和规范化使用软件的持续强化。",
+        "content": "这类信息会影响到软件采购、内容生产和版权治理方向，对创作行业和企业合规都有现实意义。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
+        "publishedAt": "2026-03-20T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/03 11:56",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-03T03:56:22.032Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/03 11:32",
-        "location": "北京",
-        "title": "AI驱动品牌变革新突破 洽洽推出零食行业首个品牌数字代言人“洽可儿”。",
-        "summary": "7月30日，洽洽食品在北京正式发布全新品牌伙伴——数字代言人洽可儿Chacky。据介绍，这也是休闲零食行业首个品牌数字代言人。这次除了洽可儿的形象发布，洽洽也同步上线了洽可儿…",
-        "content": "7月30日，洽洽食品在北京正式发布全新品牌伙伴——数字代言人洽可儿Chacky。据介绍，这也是休闲零食行业首个品牌数字代言人。这次除了洽可儿的形象发布，洽洽也同步上线了洽可儿专属出道单曲《世界一起洽洽》及定制MV，以AI技术重构休闲零食行业传统营销模式。",
+        "time": "08/04 11:10",
+        "location": "全国",
+        "title": "360纳米Work企业版启动全国各级渠道城市合伙人招募 加速AI应用本地化落地。",
+        "summary": "近日，360正式推出新一代企业智能体工作平台纳米Work，并同步开启全国渠道城市合伙人招募。此次招募面向具备本地行业客户资源、企业客户基础或渠道服务能力的合作伙伴，构建总部能…",
+        "content": "近日，360正式推出新一代企业智能体工作平台纳米Work，并同步开启全国渠道城市合伙人招募。此次招募面向具备本地行业客户资源、企业客户基础或渠道服务能力的合作伙伴，构建总部能力与本地服务协同体系，推动企业级AI服务进入更多企业、门店、园区等真实业务场景，加速AI普惠应用。",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671110.shtml",
-        "publishedAt": "2026-08-03T03:32:44.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/03 11:16",
-        "location": "日本",
-        "title": "210元一条，日本右翼用AI批量造谎 ｜真相。",
-        "summary": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
-        "content": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671096.shtml",
-        "publishedAt": "2026-08-03T03:16:51.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671618.shtml",
+        "publishedAt": "2026-08-04T03:10:33.000Z"
       },
       {
         "category": "行业动向",
