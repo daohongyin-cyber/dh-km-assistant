@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-10T02:35:38.283Z",
+  "updatedAt": "2026-08-11T02:28:56.287Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/10 10:35",
+        "time": "08/11 10:28",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-10T02:35:37.952Z"
+        "publishedAt": "2026-08-11T02:28:55.741Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/10 10:35",
+        "time": "08/11 10:28",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-10T02:35:37.952Z"
+        "publishedAt": "2026-08-11T02:28:55.741Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/11 09:52",
+        "location": "",
+        "title": "AI进药企，如何真正驱动创新药高质量发展？。",
+        "summary": "近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红…",
+        "content": "近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红利、资本加持和跨界合作的多重助推下，AI技术能否从单点试点迈向全产业应用，真正驱动创新药高质量发展？",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675550.shtml",
+        "publishedAt": "2026-08-11T01:52:23.000Z"
       },
       {
         "category": "平台入口",
