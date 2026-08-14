@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-13T02:48:35.751Z",
+  "updatedAt": "2026-08-14T02:47:17.268Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,17 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "08/14 10:47",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-08-14T02:47:17.008Z"
+      },
       {
         "category": "政策新规",
         "time": "08/03 08:00",
@@ -173,17 +184,6 @@ window.DHKM_CONTENT = {
         "content": "中共中央办公厅 国务院办公厅关于完善自然资源资产管理制度体系的意见",
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202607/content_7075234.htm",
-        "publishedAt": "2026-07-13T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/13 08:00",
-        "location": "全国",
-        "title": "国务院关于《扩大消费“十五五”规划》的批复。",
-        "summary": "国务院关于《扩大消费“十五五”规划》的批复",
-        "content": "国务院关于《扩大消费“十五五”规划》的批复",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7075216.htm",
         "publishedAt": "2026-07-13T00:00:00.000Z"
       },
       {
@@ -300,25 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/13 09:47",
-        "location": "",
-        "title": "侵扰民众生活的“公害” AI外呼乱象亟待治理。",
-        "summary": "AI外呼乱象亟待治理",
-        "content": "AI外呼乱象亟待治理",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
-        "publishedAt": "2026-08-13T01:47:22.000Z"
+        "time": "08/14 10:47",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-08-14T02:47:17.008Z"
       },
       {
         "category": "行业动向",
-        "time": "08/13 09:10",
+        "time": "08/14 10:05",
         "location": "",
-        "title": "在AI领域筑墙设垒，美国困住的是谁？。",
-        "summary": "本报记者 李嘉宝",
-        "content": "本报记者 李嘉宝",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676739.shtml",
-        "publishedAt": "2026-08-13T01:10:48.000Z"
+        "title": "年内熊猫债发行规模超2000亿元创历史新高。",
+        "summary": "证券日报记者 韩 昱",
+        "content": "证券日报记者 韩 昱",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677446.shtml",
+        "publishedAt": "2026-08-14T02:05:14.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/14 09:57",
+        "location": "",
+        "title": "AI短剧试水运营新路径 商业化落地仍待验证。",
+        "summary": "日前，AI短剧《被裁掉的女孩》热度持续走高，其主角“方桃子”进军广告市场、承接品牌商单，引发业内广泛关注。业内专家指出，AI短剧行业正加速探索IP长效运营的商业新路径，试图开…",
+        "content": "日前，AI短剧《被裁掉的女孩》热度持续走高，其主角“方桃子”进军广告市场、承接品牌商单，引发业内广泛关注。业内专家指出，AI短剧行业正加速探索IP长效运营的商业新路径，试图开辟内容增收的“第二曲线”。然而，其首条品牌植入视频因合规争议最终下架，新兴商业化路径的可行性与合规性仍有待验证。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677435.shtml",
+        "publishedAt": "2026-08-14T01:57:53.000Z"
       },
       {
         "category": "平台入口",
