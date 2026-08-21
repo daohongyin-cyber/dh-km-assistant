@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-20T01:52:36.093Z",
+  "updatedAt": "2026-08-21T01:58:49.859Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/20 09:52",
+        "time": "08/21 09:58",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-20T01:52:35.931Z"
+        "publishedAt": "2026-08-21T01:58:49.616Z"
       },
       {
         "category": "政策新规",
@@ -173,17 +173,6 @@ window.DHKM_CONTENT = {
         "content": "中共中央 国务院印发《关于加强新时代社会工作的意见》",
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202607/content_7076433.htm",
-        "publishedAt": "2026-07-23T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "07/23 08:00",
-        "location": "全国",
-        "title": "国务院关于印发《全民健身计划（2026—2030年）》的通知。",
-        "summary": "国务院关于印发《全民健身计划（2026—2030年）》的通知",
-        "content": "国务院关于印发《全民健身计划（2026—2030年）》的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202607/content_7076420.htm",
         "publishedAt": "2026-07-23T00:00:00.000Z"
       },
       {
@@ -295,52 +284,52 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
         "publishedAt": "2026-03-17T00:00:00+00:00"
+      },
+      {
+        "category": "版权保护",
+        "time": "02/14 08:00",
+        "location": "国家版权局",
+        "title": "民间文艺版权保护与促进试点申报表。",
+        "summary": "民间文艺版权保护与促进试点申报工作发布。",
+        "content": "这类试点工作能反映版权保护从制度走向落地推进，对内容和文化行业有现实意义。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202602/t20260214_954089.html",
+        "publishedAt": "2026-02-14T08:00:00+08:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/20 09:52",
+        "time": "08/21 09:58",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-20T01:52:35.931Z"
+        "publishedAt": "2026-08-21T01:58:49.616Z"
       },
       {
         "category": "行业动向",
-        "time": "08/20 09:16",
+        "time": "08/21 09:28",
         "location": "",
-        "title": "莫让AI客服给消费者“添堵”。",
-        "summary": "莫让AI客服给消费者“添堵”(金台锐评)",
-        "content": "莫让AI客服给消费者“添堵”(金台锐评)",
+        "title": "给“AI陪伴”划定安全边界。",
+        "summary": "《人工智能拟人化互动服务管理暂行办法》施行——",
+        "content": "《人工智能拟人化互动服务管理暂行办法》施行——",
         "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680764.shtml",
-        "publishedAt": "2026-08-20T01:16:30.000Z"
+        "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681433.shtml",
+        "publishedAt": "2026-08-21T01:28:53.000Z"
       },
       {
         "category": "行业动向",
-        "time": "08/19 23:46",
-        "location": "北京",
-        "title": "业内人士：AI时代，内容体系将进一步扩展。",
-        "summary": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局…",
-        "content": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局限于图文和视频，还可能延伸至游戏、剧集或微电影等领域。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
-        "publishedAt": "2026-08-19T15:46:42.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/19 11:29",
-        "location": "北京",
-        "title": "北京首例破坏人工智能模型刑事案件终审。",
-        "summary": "北京首例破坏人工智能模型刑事案件终审",
-        "content": "北京首例破坏人工智能模型刑事案件终审",
+        "time": "08/20 11:03",
+        "location": "",
+        "title": "9月1日起施行 最高法发布著作权民事纠纷司法解释修改决定。",
+        "summary": "中新网8月20日电 据最高人民法院微信公众号消息，2026年8月20日，最高人民法院发布《关于修改lt;最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释gt;的决…",
+        "content": "中新网8月20日电 据最高人民法院微信公众号消息，2026年8月20日，最高人民法院发布《关于修改lt;最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释gt;的决定》(法释〔2026〕18号，以下简称《决定》)。《决定》于2026年5月25日经最高人民法院审判委员会第1976次会议通过，自2026年9月1日起施行。",
         "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/08-19/10680116.shtml",
-        "publishedAt": "2026-08-19T03:29:36.000Z"
+        "url": "https://www.chinanews.com.cn/fz/2026/08-20/10680840.shtml",
+        "publishedAt": "2026-08-20T03:03:05.000Z"
       },
       {
         "category": "平台入口",
