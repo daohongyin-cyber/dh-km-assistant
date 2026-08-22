@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-21T01:58:49.859Z",
+  "updatedAt": "2026-08-22T01:51:40.364Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/21 09:58",
+        "time": "08/22 09:51",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-21T01:58:49.616Z"
+        "publishedAt": "2026-08-22T01:51:39.995Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/21 09:58",
+        "time": "08/22 09:51",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-21T01:58:49.616Z"
+        "publishedAt": "2026-08-22T01:51:39.995Z"
       },
       {
         "category": "行业动向",
-        "time": "08/21 09:28",
-        "location": "",
-        "title": "给“AI陪伴”划定安全边界。",
-        "summary": "《人工智能拟人化互动服务管理暂行办法》施行——",
-        "content": "《人工智能拟人化互动服务管理暂行办法》施行——",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681433.shtml",
-        "publishedAt": "2026-08-21T01:28:53.000Z"
+        "time": "08/21 21:54",
+        "location": "北京",
+        "title": "鄂维南院士：科学智能进入“下半场” 未来需推动科研平权化。",
+        "summary": "中新社北京8月21日电 (记者 孙自法)中国科学院院士、北京大学数学科学学院讲席教授鄂维南21日指出，科学智能(AI for Science，简称AI4S)已进入“下半场”，…",
+        "content": "中新社北京8月21日电 (记者 孙自法)中国科学院院士、北京大学数学科学学院讲席教授鄂维南21日指出，科学智能(AI for Science，简称AI4S)已进入“下半场”，面向未来，需要推动科研平权化。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682094.shtml",
+        "publishedAt": "2026-08-21T13:54:18.000Z"
       },
       {
         "category": "行业动向",
