@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-27T09:53:02.224Z",
+  "updatedAt": "2026-08-28T11:27:12.756Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/27 17:53",
+        "time": "08/28 19:27",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-27T09:53:02.078Z"
+        "publishedAt": "2026-08-28T11:27:12.390Z"
       },
       {
         "category": "政策新规",
@@ -300,36 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/27 17:53",
+        "time": "08/28 19:27",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-27T09:53:02.078Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/27 17:30",
-        "location": "北京",
-        "title": "东西问丨阿根廷学者何广思：AI会让拉美了解中国的“滤镜”更厚吗？。",
-        "summary": "中新社北京8月27日电 题：AI会让拉美了解中国的“滤镜”更厚吗？",
-        "content": "中新社北京8月27日电 题：AI会让拉美了解中国的“滤镜”更厚吗？",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685339.shtml",
-        "publishedAt": "2026-08-27T09:30:14.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "08/27 17:04",
-        "location": "北京",
-        "title": "《习近平文化文选》第一卷、第二卷出版发行。",
-        "summary": "新华社北京8月27日电#8195;中共中央党史和文献研究院编辑的《习近平文化文选》第一卷、第二卷，近日由中央文献出版社出版，在全国发行。",
-        "content": "新华社北京8月27日电#8195;中共中央党史和文献研究院编辑的《习近平文化文选》第一卷、第二卷，近日由中央文献出版社出版，在全国发行。",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685327.shtml",
-        "publishedAt": "2026-08-27T09:04:20.000Z"
+        "publishedAt": "2026-08-28T11:27:12.390Z"
       },
       {
         "category": "平台入口",
