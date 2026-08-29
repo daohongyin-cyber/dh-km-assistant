@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-08-28T11:27:12.756Z",
+  "updatedAt": "2026-08-29T07:07:26.266Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "08/28 19:27",
+        "time": "08/29 15:07",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-28T11:27:12.390Z"
+        "publishedAt": "2026-08-29T07:07:26.095Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "08/28 19:27",
+        "time": "08/29 15:07",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-08-28T11:27:12.390Z"
+        "publishedAt": "2026-08-29T07:07:26.095Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "08/29 12:16",
+        "location": "北京",
+        "title": "“人人能用、户户普惠”：中国新电商发展将智能化与普惠化并行。",
+        "summary": "中新网北京8月29日电 《中国新电商发展报告(2026)》在第六届中国新电商大会上正式发布。报告指出，未来中国新电商发展将智能化与普惠化并行。人工智能技术深度渗透成为驱动新电…",
+        "content": "中新网北京8月29日电 《中国新电商发展报告(2026)》在第六届中国新电商大会上正式发布。报告指出，未来中国新电商发展将智能化与普惠化并行。人工智能技术深度渗透成为驱动新电商变革的重要引擎，技术普惠化下沉加速，实现“人人能用、户户普惠”。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686340.shtml",
+        "publishedAt": "2026-08-29T04:16:45.000Z"
       },
       {
         "category": "平台入口",
