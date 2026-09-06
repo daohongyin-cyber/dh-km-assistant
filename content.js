@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-05T04:33:36.158Z",
+  "updatedAt": "2026-09-06T04:43:06.377Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/05 12:33",
+        "time": "09/06 12:43",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-05T04:33:35.533Z"
+        "publishedAt": "2026-09-06T04:43:06.170Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/05 12:33",
+        "time": "09/06 12:43",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-05T04:33:35.533Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "09/04 22:51",
-        "location": "广州",
-        "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展。",
-        "summary": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业…",
-        "content": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业应用等产业链关键环节，呈现行业技术创新与应用落地成果。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690728.shtml",
-        "publishedAt": "2026-09-04T14:51:33.000Z"
+        "publishedAt": "2026-09-06T04:43:06.170Z"
       },
       {
         "category": "平台入口",
