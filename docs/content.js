@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-06T04:43:06.377Z",
+  "updatedAt": "2026-09-07T04:45:50.204Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/06 12:43",
+        "time": "09/07 12:45",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-06T04:43:06.170Z"
+        "publishedAt": "2026-09-07T04:45:50.034Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/06 12:43",
+        "time": "09/07 12:45",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-06T04:43:06.170Z"
+        "publishedAt": "2026-09-07T04:45:50.034Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "09/07 11:54",
+        "location": "",
+        "title": "台企在江西：深耕覆铜板产业 乘AI东风跑出发展加速度。",
+        "summary": "中新网江西龙南9月7日电 (记者 刘力鑫)“2026年开年至今，我们公司的产销形势非常火爆，生产线满负荷运转。”近日，江西联茂电子科技有限公司管理部经理邱木盛在接受记者采访时…",
+        "content": "中新网江西龙南9月7日电 (记者 刘力鑫)“2026年开年至今，我们公司的产销形势非常火爆，生产线满负荷运转。”近日，江西联茂电子科技有限公司管理部经理邱木盛在接受记者采访时表示，按照当前态势，预计全年营收可突破50亿元，将再创投产以来历史新高。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691807.shtml",
+        "publishedAt": "2026-09-07T03:54:07.000Z"
       },
       {
         "category": "平台入口",
