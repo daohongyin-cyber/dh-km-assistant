@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-10T04:46:44.252Z",
+  "updatedAt": "2026-09-11T04:44:45.811Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/10 12:46",
+        "time": "09/11 12:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-10T04:46:43.899Z"
+        "publishedAt": "2026-09-11T04:44:45.631Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "09/10 08:00",
+        "location": "全国",
+        "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知。",
+        "summary": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+        "content": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+        "publishedAt": "2026-09-10T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -284,30 +295,41 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
         "publishedAt": "2026-03-17T00:00:00+00:00"
-      },
-      {
-        "category": "版权保护",
-        "time": "02/14 08:00",
-        "location": "国家版权局",
-        "title": "民间文艺版权保护与促进试点申报表。",
-        "summary": "民间文艺版权保护与促进试点申报工作发布。",
-        "content": "这类试点工作能反映版权保护从制度走向落地推进，对内容和文化行业有现实意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202602/t20260214_954089.html",
-        "publishedAt": "2026-02-14T08:00:00+08:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/10 12:46",
+        "time": "09/11 12:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-10T04:46:43.899Z"
+        "publishedAt": "2026-09-11T04:44:45.631Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "09/11 10:49",
+        "location": "",
+        "title": "认知症老人有了AI聊天“老搭子”。",
+        "summary": "照护机构下单，科技企业接单：经验“喂”进智能体，熟悉的护理员会“分身”",
+        "content": "照护机构下单，科技企业接单：经验“喂”进智能体，熟悉的护理员会“分身”",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694495.shtml",
+        "publishedAt": "2026-09-11T02:49:14.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "09/11 10:29",
+        "location": "",
+        "title": "找矿用上AI帮手 两项重磅成果发布。",
+        "summary": "自然资源部今天(11日)在2026(第二十八届)中国国际矿业大会上，正式发布两项重磅成果：“智能填图”系统、“智能找矿”系统。",
+        "content": "自然资源部今天(11日)在2026(第二十八届)中国国际矿业大会上，正式发布两项重磅成果：“智能填图”系统、“智能找矿”系统。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694470.shtml",
+        "publishedAt": "2026-09-11T02:29:52.000Z"
       },
       {
         "category": "平台入口",
