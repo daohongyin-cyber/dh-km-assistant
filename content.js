@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-18T04:47:39.725Z",
+  "updatedAt": "2026-09-19T04:40:54.130Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/18 12:47",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-18T04:47:39.352Z"
+        "time": "09/18 08:00",
+        "location": "全国",
+        "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知。",
+        "summary": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+        "content": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
+        "publishedAt": "2026-09-18T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -163,17 +163,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
         "publishedAt": "2026-08-17T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "08/03 08:00",
-        "location": "全国",
-        "title": "集成电路布图设计保护条例。",
-        "summary": "集成电路布图设计保护条例",
-        "content": "集成电路布图设计保护条例",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
-        "publishedAt": "2026-08-03T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -295,30 +284,41 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/tzgg/202602/t20260214_954089.html",
         "publishedAt": "2026-02-14T08:00:00+08:00"
+      },
+      {
+        "category": "版权保护",
+        "time": "02/10 08:00",
+        "location": "全国",
+        "title": "国家版权局等四部门启动2026年院线电影版权保护专项行动。",
+        "summary": "院线电影版权保护专项行动启动，体现版权打击和保护力度持续增强。",
+        "content": "虽然表面是电影领域，但这类专项行动对整个内容产业的版权意识、平台治理和侵权打击都具有风向标意义。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202602/t20260210_949671.html",
+        "publishedAt": "2026-02-10T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/18 12:47",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-18T04:47:39.352Z"
+        "time": "09/19 12:15",
+        "location": "",
+        "title": "2026网安周｜直面隐性环境代价，促进数绿协同发展。",
+        "summary": "【编者按】当前，人工智能技术加速向经济社会各领域渗透，与之相伴的安全风险与伦理挑战也日益凸显。2026年国家网络安全宣传周期间，光明网联合科普中国推出AI科技伦理系列科普视频…",
+        "content": "【编者按】当前，人工智能技术加速向经济社会各领域渗透，与之相伴的安全风险与伦理挑战也日益凸显。2026年国家网络安全宣传周期间，光明网联合科普中国推出AI科技伦理系列科普视频，引导公众理性认知技术逻辑，秉持算法向善理念，共建网络安全生态。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699412.shtml",
+        "publishedAt": "2026-09-19T04:15:42.000Z"
       },
       {
         "category": "行业动向",
-        "time": "09/18 11:40",
+        "time": "09/18 13:39",
         "location": "",
-        "title": "A股午评：超4500只个股飘红，三大指数集体涨超1%。",
-        "summary": "A股午评：超4500只个股飘红，三大指数集体涨超1%，科创50大涨近4%；GPU、存储芯片走强，半导体爆发；汽车、煤炭、油气下跌",
-        "content": "A股午评：超4500只个股飘红，三大指数集体涨超1%，科创50大涨近4%；GPU、存储芯片走强，半导体爆发；汽车、煤炭、油气下跌",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698825.shtml",
-        "publishedAt": "2026-09-18T03:40:27.000Z"
+        "title": "AI训练碰上版权保护，这账该怎么算。",
+        "summary": "技术要发展，对创作者的合法权益也要尊重。不能任由先用了再说的“拿来主义”大行其道，也不能让规则的不确定性成为“合理使用”的避风港。",
+        "content": "技术要发展，对创作者的合法权益也要尊重。不能任由先用了再说的“拿来主义”大行其道，也不能让规则的不确定性成为“合理使用”的避风港。",
+        "source": "中新网法治",
+        "url": "https://www.chinanews.com.cn/fz/2026/09-18/10698884.shtml",
+        "publishedAt": "2026-09-18T05:39:51.000Z"
       },
       {
         "category": "平台入口",
