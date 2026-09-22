@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-21T05:00:09.842Z",
+  "updatedAt": "2026-09-22T05:00:53.544Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/21 13:00",
+        "time": "09/22 13:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-21T05:00:09.583Z"
+        "publishedAt": "2026-09-22T05:00:53.134Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/21 13:00",
+        "time": "09/22 13:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-21T05:00:09.583Z"
+        "publishedAt": "2026-09-22T05:00:53.134Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "09/22 11:36",
+        "location": "",
+        "title": "A股午评：超2800只个股飘红，三大指数集体收涨。",
+        "summary": "A股午评：超2800只个股飘红，三大指数集体收涨；AI应用、GPU概念股走强，互联网、半导体上涨；通信设备涨幅收窄，海运、油气、银行下跌",
+        "content": "A股午评：超2800只个股飘红，三大指数集体收涨；AI应用、GPU概念股走强，互联网、半导体上涨；通信设备涨幅收窄，海运、油气、银行下跌",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701357.shtml",
+        "publishedAt": "2026-09-22T03:36:00.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "09/22 11:22",
+        "location": "",
+        "title": "AI编程狂飙，安全跟得上吗？。",
+        "summary": "澎湃新闻记者 范佳来",
+        "content": "澎湃新闻记者 范佳来",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701342.shtml",
+        "publishedAt": "2026-09-22T03:22:57.000Z"
       },
       {
         "category": "行业动向",
