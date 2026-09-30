@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-29T05:47:06.836Z",
+  "updatedAt": "2026-09-30T05:36:32.933Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,28 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "09/30 13:36",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-09-30T05:36:32.714Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "09/29 08:00",
+        "location": "全国",
+        "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复。",
+        "summary": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+        "content": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+        "publishedAt": "2026-09-29T00:00:00.000Z"
+      },
       {
         "category": "政策新规",
         "time": "09/24 08:00",
@@ -163,17 +185,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
         "publishedAt": "2026-08-25T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "08/18 08:00",
-        "location": "全国",
-        "title": "国务院关于修改《住房公积金管理条例》的决定。",
-        "summary": "国务院关于修改《住房公积金管理条例》的决定",
-        "content": "国务院关于修改《住房公积金管理条例》的决定",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
-        "publishedAt": "2026-08-18T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -284,41 +295,19 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
         "publishedAt": "2026-03-17T00:00:00+00:00"
-      },
-      {
-        "category": "版权保护",
-        "time": "02/14 08:00",
-        "location": "国家版权局",
-        "title": "民间文艺版权保护与促进试点申报表。",
-        "summary": "民间文艺版权保护与促进试点申报工作发布。",
-        "content": "这类试点工作能反映版权保护从制度走向落地推进，对内容和文化行业有现实意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202602/t20260214_954089.html",
-        "publishedAt": "2026-02-14T08:00:00+08:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/29 11:24",
-        "location": "北京",
-        "title": "中国电科两款人工智能系统级芯片完成全链路测评 满足设备智能化需求。",
-        "summary": "中新网北京9月29日电 (记者 孙自法)记者9月29日从中国电科获悉，由中国电科58所自主研制的两款人工智能(AI)系统级芯片(SoC)系列产品ZQ300/320，近日完成全…",
-        "content": "中新网北京9月29日电 (记者 孙自法)记者9月29日从中国电科获悉，由中国电科58所自主研制的两款人工智能(AI)系统级芯片(SoC)系列产品ZQ300/320，近日完成全链路测评，性能指标全面达成，满足各类设备的智能化需求，推动核心智能算力芯片国产化。",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705386.shtml",
-        "publishedAt": "2026-09-29T03:24:42.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "09/29 10:33",
-        "location": "北京",
-        "title": "《民族团结进步促进法学习读本》出版发行。",
-        "summary": "中新网北京9月29日电 (记者 谢雁冰)由全国人大常委会法工委会同中央统战部、全国人大民委、国家民委、司法部组织编写的《民族团结进步促进法学习读本》(以下简称《读本》)，已由…",
-        "content": "中新网北京9月29日电 (记者 谢雁冰)由全国人大常委会法工委会同中央统战部、全国人大民委、国家民委、司法部组织编写的《民族团结进步促进法学习读本》(以下简称《读本》)，已由中国法治出版社、民族出版社联合出版，在全国发行。",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705358.shtml",
-        "publishedAt": "2026-09-29T02:33:23.000Z"
+        "time": "09/30 13:36",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-09-30T05:36:32.714Z"
       },
       {
         "category": "行业动向",
