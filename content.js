@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-09-30T05:36:32.933Z",
+  "updatedAt": "2026-10-01T06:00:03.257Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "09/30 13:36",
+        "time": "10/01 14:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-30T05:36:32.714Z"
+        "publishedAt": "2026-10-01T06:00:02.212Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "09/30 08:00",
+        "location": "全国",
+        "title": "国务院办公厅关于发展体育赛事激发消费活力的意见。",
+        "summary": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+        "content": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+        "publishedAt": "2026-09-30T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -133,6 +144,17 @@ window.DHKM_CONTENT = {
       },
       {
         "category": "政策新规",
+        "time": "09/18 08:00",
+        "location": "全国",
+        "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知。",
+        "summary": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+        "content": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
+        "publishedAt": "2026-09-18T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
         "time": "09/17 08:00",
         "location": "全国",
         "title": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见。",
@@ -174,17 +196,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202609/content_7080188.htm",
         "publishedAt": "2026-09-04T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "08/25 08:00",
-        "location": "全国",
-        "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》。",
-        "summary": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
-        "content": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
-        "publishedAt": "2026-08-25T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -284,30 +295,30 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
-      },
-      {
-        "category": "版权新规",
-        "time": "03/17 08:00",
-        "location": "国家版权局",
-        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
-        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
-        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
-        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "09/30 13:36",
+        "time": "10/01 14:00",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-09-30T05:36:32.714Z"
+        "publishedAt": "2026-10-01T06:00:02.212Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/01 10:05",
+        "location": "全球",
+        "title": "2026全球南方现代化论坛在埃及开罗举行。",
+        "summary": "中新社开罗9月30日电 9月30日，2026全球南方现代化论坛在埃及开罗举行，本次论坛主题是“人工智能浪潮：全球南方现代化的机遇与挑战”。",
+        "content": "中新社开罗9月30日电 9月30日，2026全球南方现代化论坛在埃及开罗举行，本次论坛主题是“人工智能浪潮：全球南方现代化的机遇与挑战”。",
+        "source": "中新网国际",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706605.shtml",
+        "publishedAt": "2026-10-01T02:05:18.000Z"
       },
       {
         "category": "行业动向",
