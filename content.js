@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-02T05:42:21.640Z",
+  "updatedAt": "2026-10-03T05:22:18.437Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,6 +76,17 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
+      {
+        "category": "政策新规",
+        "time": "10/03 13:22",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-10-03T05:22:18.305Z"
+      },
       {
         "category": "政策新规",
         "time": "09/30 08:00",
@@ -284,20 +295,31 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
-      },
-      {
-        "category": "版权新规",
-        "time": "03/17 08:00",
-        "location": "国家版权局",
-        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
-        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
-        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
-        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
+      {
+        "category": "行业动向",
+        "time": "10/03 13:22",
+        "location": "国家版权局",
+        "title": "通知公告。",
+        "summary": "通知公告",
+        "content": "通知公告",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/",
+        "publishedAt": "2026-10-03T05:22:18.305Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/03 09:31",
+        "location": "",
+        "title": "词元经济离大众消费还有多远。",
+        "summary": "运营商词元(Token)套餐推出数月，市场反馈如何？今年5月，移动、联通、电信集中上线词元套餐，将人工智能(AI)算力打包成可订购、可计费的标准化产品，一时间引发市场广泛关注…",
+        "content": "运营商词元(Token)套餐推出数月，市场反馈如何？今年5月，移动、联通、电信集中上线词元套餐，将人工智能(AI)算力打包成可订购、可计费的标准化产品，一时间引发市场广泛关注。但热度之下，真正形成持续付费习惯的用户规模仍然有限，多数消费者还停留在尝鲜体验或者持币观望的阶段，运营商词元套餐的规模化普及尚需时日。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707372.shtml",
+        "publishedAt": "2026-10-03T01:31:05.000Z"
+      },
       {
         "category": "行业动向",
         "time": "09/27 17:36",
