@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-04T05:58:12.218Z",
+  "updatedAt": "2026-10-05T05:45:56.622Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/04 13:58",
+        "time": "10/05 13:45",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-04T05:58:11.604Z"
+        "publishedAt": "2026-10-05T05:45:56.110Z"
       },
       {
         "category": "政策新规",
@@ -300,36 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/04 13:58",
+        "time": "10/05 13:45",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-04T05:58:11.604Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/04 12:52",
-        "location": "",
-        "title": "AI“奔县” 浙江县域文旅谋“智变”。",
-        "summary": "中新网宁波10月4日电(林波)戴上AI眼镜行走在浙江省宁波市奉化区溪口镇武岭西路，实景古迹叠加历史故事，出现在游客眼前；一句问话，AI便能快速推荐打卡机位、规划游览路线……",
-        "content": "中新网宁波10月4日电(林波)戴上AI眼镜行走在浙江省宁波市奉化区溪口镇武岭西路，实景古迹叠加历史故事，出现在游客眼前；一句问话，AI便能快速推荐打卡机位、规划游览路线……",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707778.shtml",
-        "publishedAt": "2026-10-04T04:52:52.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "09/27 17:36",
-        "location": "",
-        "title": "AI医生形象带货卖药 责任谁来担。",
-        "summary": "每周质量报告丨AI医生形象带货卖药 责任谁来担",
-        "content": "每周质量报告丨AI医生形象带货卖药 责任谁来担",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/09-27/10704504.shtml",
-        "publishedAt": "2026-09-27T09:36:00.000Z"
+        "publishedAt": "2026-10-05T05:45:56.110Z"
       },
       {
         "category": "平台入口",
