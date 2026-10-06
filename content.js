@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-05T05:45:56.622Z",
+  "updatedAt": "2026-10-06T06:25:13.547Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/05 13:45",
+        "time": "10/06 14:25",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-05T05:45:56.110Z"
+        "publishedAt": "2026-10-06T06:25:13.230Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/05 13:45",
+        "time": "10/06 14:25",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-05T05:45:56.110Z"
+        "publishedAt": "2026-10-06T06:25:13.230Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/06 11:53",
+        "location": "杭州",
+        "title": "述评：AI为“诗画浙江”带来了什么？。",
+        "summary": "中新网杭州10月6日电(林波)国庆假期，一批AI文旅新场景在浙江集中亮相，从可对话的古塔、能识文物的文博系统，到沉浸式XR叙事、县域轻量化文旅创业模式，AI正推动浙江文旅跳出…",
+        "content": "中新网杭州10月6日电(林波)国庆假期，一批AI文旅新场景在浙江集中亮相，从可对话的古塔、能识文物的文博系统，到沉浸式XR叙事、县域轻量化文旅创业模式，AI正推动浙江文旅跳出传统观光框架，探索一条科技赋能文化传承、数字激活旅游经济的新路径。",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708390.shtml",
+        "publishedAt": "2026-10-06T03:53:36.000Z"
       },
       {
         "category": "平台入口",
