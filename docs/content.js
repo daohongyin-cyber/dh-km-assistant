@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-07T06:04:16.217Z",
+  "updatedAt": "2026-10-08T06:09:31.680Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/07 14:04",
+        "time": "10/08 14:09",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-07T06:04:16.032Z"
+        "publishedAt": "2026-10-08T06:09:31.458Z"
       },
       {
         "category": "政策新规",
@@ -300,14 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/07 14:04",
+        "time": "10/08 14:09",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-07T06:04:16.032Z"
+        "publishedAt": "2026-10-08T06:09:31.458Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/08 11:37",
+        "location": "",
+        "title": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%。",
+        "summary": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
+        "content": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
+        "publishedAt": "2026-10-08T03:37:32.000Z"
       },
       {
         "category": "平台入口",
