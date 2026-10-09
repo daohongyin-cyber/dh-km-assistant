@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-08T06:09:31.680Z",
+  "updatedAt": "2026-10-09T06:13:07.634Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/08 14:09",
+        "time": "10/09 14:13",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-08T06:09:31.458Z"
+        "publishedAt": "2026-10-09T06:13:07.362Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "10/08 08:00",
+        "location": "全国",
+        "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复。",
+        "summary": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+        "content": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+        "publishedAt": "2026-10-08T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -185,17 +196,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
         "publishedAt": "2026-09-10T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "09/04 08:00",
-        "location": "全国",
-        "title": "电力安全事故应急处置和调查处理条例。",
-        "summary": "电力安全事故应急处置和调查处理条例",
-        "content": "电力安全事故应急处置和调查处理条例",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202609/content_7080188.htm",
-        "publishedAt": "2026-09-04T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -300,25 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/08 14:09",
+        "time": "10/09 14:13",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-08T06:09:31.458Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/08 11:37",
-        "location": "",
-        "title": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%。",
-        "summary": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
-        "content": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
-        "publishedAt": "2026-10-08T03:37:32.000Z"
+        "publishedAt": "2026-10-09T06:13:07.362Z"
       },
       {
         "category": "平台入口",
