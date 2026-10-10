@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-09T06:13:07.634Z",
+  "updatedAt": "2026-10-10T05:56:31.410Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,25 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/09 14:13",
+        "time": "10/10 13:56",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-09T06:13:07.362Z"
+        "publishedAt": "2026-10-10T05:56:31.115Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "10/09 08:00",
+        "location": "全国",
+        "title": "中共中央 国务院关于发展新质生产力的意见。",
+        "summary": "中共中央 国务院关于发展新质生产力的意见",
+        "content": "中共中央 国务院关于发展新质生产力的意见",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+        "publishedAt": "2026-10-09T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -185,17 +196,6 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
         "publishedAt": "2026-09-11T00:00:00.000Z"
-      },
-      {
-        "category": "政策新规",
-        "time": "09/10 08:00",
-        "location": "全国",
-        "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知。",
-        "summary": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
-        "content": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
-        "publishedAt": "2026-09-10T00:00:00.000Z"
       },
       {
         "category": "版权保护",
@@ -300,14 +300,14 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/09 14:13",
+        "time": "10/10 13:56",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-09T06:13:07.362Z"
+        "publishedAt": "2026-10-10T05:56:31.115Z"
       },
       {
         "category": "平台入口",
