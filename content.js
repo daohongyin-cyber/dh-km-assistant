@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-10T05:56:31.410Z",
+  "updatedAt": "2026-10-11T05:51:26.055Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,17 +76,6 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
-      {
-        "category": "政策新规",
-        "time": "10/10 13:56",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-10T05:56:31.115Z"
-      },
       {
         "category": "政策新规",
         "time": "10/09 08:00",
@@ -295,19 +284,30 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
+      },
+      {
+        "category": "版权新规",
+        "time": "03/17 08:00",
+        "location": "国家版权局",
+        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
+        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
+        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
+        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/10 13:56",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-10T05:56:31.115Z"
+        "time": "10/11 10:20",
+        "location": "全球",
+        "title": "从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？。",
+        "summary": "今年以来，人工智能加速从“能对话”走向“能办事”，能替用户订票、管理手机、操作软件的智能体加快落地。与此同时，AI自主行动引发的安全事件在世界范围内频频发生。从大模型失控入侵…",
+        "content": "今年以来，人工智能加速从“能对话”走向“能办事”，能替用户订票、管理手机、操作软件的智能体加快落地。与此同时，AI自主行动引发的安全事件在世界范围内频频发生。从大模型失控入侵开源平台，到AI助理擅自行动，人工智能风险正从“说错话”升级为“做错事”，引发全球高度关注。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710910.shtml",
+        "publishedAt": "2026-10-11T02:20:34.000Z"
       },
       {
         "category": "平台入口",
