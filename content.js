@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-12T06:02:58.155Z",
+  "updatedAt": "2026-10-13T06:49:30.013Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -76,17 +76,6 @@ window.DHKM_CONTENT = {
       }
     ],
     "policy": [
-      {
-        "category": "政策新规",
-        "time": "10/12 14:02",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-12T06:02:57.677Z"
-      },
       {
         "category": "政策新规",
         "time": "10/09 08:00",
@@ -295,31 +284,20 @@ window.DHKM_CONTENT = {
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
         "publishedAt": "2026-03-20T00:00:00+00:00"
+      },
+      {
+        "category": "版权新规",
+        "time": "03/17 08:00",
+        "location": "国家版权局",
+        "title": "国家版权局关于公布2025年全国著作权登记情况的通知。",
+        "summary": "全国著作权登记情况公布，对音乐、设计和内容行业判断版权趋势有直接参考价值。",
+        "content": "这类信息直接关系到内容产业、创作环境和版权保护强度，后续可继续延展到音乐人、设计师和平台生态层面的变化。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/tzgg/202603/t20260317_962958.html",
+        "publishedAt": "2026-03-17T00:00:00+00:00"
       }
     ],
     "industry": [
-      {
-        "category": "行业动向",
-        "time": "10/12 14:02",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-12T06:02:57.677Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/12 11:55",
-        "location": "北京",
-        "title": "《低空经济气象保障》系列丛书出版发行。",
-        "summary": "中新网北京10月12日电 (记者 刘亮)由国内气象监测、预报与保障领域专家团队联合编撰的《低空经济气象保障》系列丛书，近日在中国标准出版社正式出版发行。该丛书构建了低空气象保…",
-        "content": "中新网北京10月12日电 (记者 刘亮)由国内气象监测、预报与保障领域专家团队联合编撰的《低空经济气象保障》系列丛书，近日在中国标准出版社正式出版发行。该丛书构建了低空气象保障的理论、技术和方案体系，为我国低空经济产业的安全、高效、可持续发展提供了系统的学术支撑与实践指南。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711905.shtml",
-        "publishedAt": "2026-10-12T03:55:32.000Z"
-      },
       {
         "category": "平台入口",
         "time": "05/15 13:00",
