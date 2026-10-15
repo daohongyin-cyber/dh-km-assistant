@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-14T04:57:28.556Z",
+  "updatedAt": "2026-10-15T04:44:20.377Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/14 12:57",
+        "time": "10/15 12:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-14T04:57:28.353Z"
+        "publishedAt": "2026-10-15T04:44:19.969Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/14 12:57",
+        "time": "10/15 12:44",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-14T04:57:28.353Z"
+        "publishedAt": "2026-10-15T04:44:19.969Z"
       },
       {
         "category": "行业动向",
-        "time": "10/14 12:30",
+        "time": "10/15 11:14",
         "location": "",
-        "title": "中欧数字环境下版权保护研讨会在银川举办。",
-        "summary": "中新网银川10月14日电 由中国国家版权局、欧盟中国知识产权项目联合主办的中欧数字环境下版权保护研讨会13日在宁夏银川举办。",
-        "content": "中新网银川10月14日电 由中国国家版权局、欧盟中国知识产权项目联合主办的中欧数字环境下版权保护研讨会13日在宁夏银川举办。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714275.shtml",
-        "publishedAt": "2026-10-14T04:30:07.000Z"
+        "title": "“人工智能污染”来袭，如何应对。",
+        "summary": "【光明青年论坛】",
+        "content": "【光明青年论坛】",
+        "source": "中新网国内",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
+        "publishedAt": "2026-10-15T03:14:28.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/15 08:00",
+        "location": "",
+        "title": "员工使用外部AI工具辅助办公遭辞退，法官提示。",
+        "summary": "一员工用AI辅助办公遭辞退",
+        "content": "一员工用AI辅助办公遭辞退",
+        "source": "中新网法治",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714760.shtml",
+        "publishedAt": "2026-10-15T00:00:43.000Z"
       },
       {
         "category": "行业动向",
