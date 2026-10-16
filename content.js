@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-15T04:44:20.377Z",
+  "updatedAt": "2026-10-16T04:35:49.328Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/15 12:44",
+        "time": "10/16 12:35",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-15T04:44:19.969Z"
+        "publishedAt": "2026-10-16T04:35:49.093Z"
       },
       {
         "category": "政策新规",
@@ -300,47 +300,25 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/15 12:44",
+        "time": "10/16 12:35",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-15T04:44:19.969Z"
+        "publishedAt": "2026-10-16T04:35:49.093Z"
       },
       {
         "category": "行业动向",
-        "time": "10/15 11:14",
+        "time": "10/15 13:35",
         "location": "",
-        "title": "“人工智能污染”来袭，如何应对。",
-        "summary": "【光明青年论坛】",
-        "content": "【光明青年论坛】",
-        "source": "中新网国内",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
-        "publishedAt": "2026-10-15T03:14:28.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/15 08:00",
-        "location": "",
-        "title": "员工使用外部AI工具辅助办公遭辞退，法官提示。",
-        "summary": "一员工用AI辅助办公遭辞退",
-        "content": "一员工用AI辅助办公遭辞退",
+        "title": "破解AI治理难题，立法该如何发力？。",
+        "summary": "◆面对技术“跑得快”与治理“慢半拍”的张力，现实做法是从“出了问题再管”转到“提前把规矩立起来”，从“被动响应”变成“主动建构”，在发展与安全之间寻找平衡。",
+        "content": "◆面对技术“跑得快”与治理“慢半拍”的张力，现实做法是从“出了问题再管”转到“提前把规矩立起来”，从“被动响应”变成“主动建构”，在发展与安全之间寻找平衡。",
         "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714760.shtml",
-        "publishedAt": "2026-10-15T00:00:43.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/14 11:13",
-        "location": "",
-        "title": "深度伪造冲击证据审查，司法如何重构防线？。",
-        "summary": "◆深度伪造依托人工智能算法，技术痕迹比传统剪辑更加隐蔽，显著提高了证据真实性审查的技术门槛和证明成本，容易导致司法人员在证据审查和事实认定中出现偏差。",
-        "content": "◆深度伪造依托人工智能算法，技术痕迹比传统剪辑更加隐蔽，显著提高了证据真实性审查的技术门槛和证明成本，容易导致司法人员在证据审查和事实认定中出现偏差。",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-14/10714250.shtml",
-        "publishedAt": "2026-10-14T03:13:11.000Z"
+        "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714941.shtml",
+        "publishedAt": "2026-10-15T05:35:21.000Z"
       },
       {
         "category": "平台入口",
