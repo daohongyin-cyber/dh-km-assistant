@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-25T04:46:24.369Z",
+  "updatedAt": "2026-10-26T04:51:52.620Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/25 12:46",
+        "time": "10/26 12:51",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-25T04:46:24.021Z"
+        "publishedAt": "2026-10-26T04:51:52.118Z"
       },
       {
         "category": "政策新规",
@@ -163,6 +163,17 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
         "publishedAt": "2026-09-24T00:00:00.000Z"
+      },
+      {
+        "category": "政策新规",
+        "time": "09/23 08:00",
+        "location": "全国",
+        "title": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知。",
+        "summary": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+        "content": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+        "publishedAt": "2026-09-23T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -284,41 +295,52 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
         "publishedAt": "2026-03-22T00:00:00+00:00"
-      },
-      {
-        "category": "版权动态",
-        "time": "03/20 08:00",
-        "location": "北京",
-        "title": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开。",
-        "summary": "正版软件推进会议召开，反映版权治理和规范化使用软件的持续强化。",
-        "content": "这类信息会影响到软件采购、内容生产和版权治理方向，对创作行业和企业合规都有现实意义。",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
-        "publishedAt": "2026-03-20T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/25 12:46",
+        "time": "10/26 12:51",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-25T04:46:24.021Z"
+        "publishedAt": "2026-10-26T04:51:52.118Z"
       },
       {
         "category": "行业动向",
-        "time": "10/25 11:54",
-        "location": "北京",
-        "title": "三载深耕，向产业出发：相干科技的量子求索之路。",
-        "summary": "2026年10月25日，相干(北京)科技有限公司迎来成立三周年。公司由北京量子信息科学研究院超导量子计算团队孵化而来，聚焦超导量子计算方向，主打实用型超导量子整机与量子云平台…",
-        "content": "2026年10月25日，相干(北京)科技有限公司迎来成立三周年。公司由北京量子信息科学研究院超导量子计算团队孵化而来，聚焦超导量子计算方向，主打实用型超导量子整机与量子云平台服务，面向科研机构、开发者及企业客户提供成套解决方案，是北京超导量子计算领域代表性科创企业。",
+        "time": "10/26 11:26",
+        "location": "",
+        "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考。",
+        "summary": "近期，快手举办了为期数日、全员参与的1024嘉年华系列活动。活动以“持续创造”为主题，旨在让AI成为每位快手人的创新生产力。",
+        "content": "近期，快手举办了为期数日、全员参与的1024嘉年华系列活动。活动以“持续创造”为主题，旨在让AI成为每位快手人的创新生产力。",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720608.shtml",
-        "publishedAt": "2026-10-25T03:54:04.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
+        "publishedAt": "2026-10-26T03:26:54.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/26 11:05",
+        "location": "",
+        "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人。",
+        "summary": "这场“考试”，允许带手机，允许讨论，还能现场问医生。",
+        "content": "这场“考试”，允许带手机，允许讨论，还能现场问医生。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720906.shtml",
+        "publishedAt": "2026-10-26T03:05:12.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/26 09:53",
+        "location": "",
+        "title": "AI对数学意味着什么？数学的边界与规则怎么变？。",
+        "summary": "AI对数学意味着什么",
+        "content": "AI对数学意味着什么",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720951.shtml",
+        "publishedAt": "2026-10-26T01:53:31.000Z"
       },
       {
         "category": "行业动向",
