@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-26T04:51:52.620Z",
+  "updatedAt": "2026-10-27T05:09:59.226Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/26 12:51",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-26T04:51:52.118Z"
+        "time": "10/26 08:00",
+        "location": "全国",
+        "title": "事业单位登记管理条例。",
+        "summary": "事业单位登记管理条例",
+        "content": "事业单位登记管理条例",
+        "source": "中国政府网",
+        "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+        "publishedAt": "2026-10-26T00:00:00.000Z"
       },
       {
         "category": "政策新规",
@@ -198,17 +198,6 @@ window.DHKM_CONTENT = {
         "publishedAt": "2026-09-18T00:00:00.000Z"
       },
       {
-        "category": "政策新规",
-        "time": "09/17 08:00",
-        "location": "全国",
-        "title": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见。",
-        "summary": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
-        "content": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
-        "source": "中国政府网",
-        "url": "https://www.gov.cn/zhengce/content/202609/content_7081356.htm",
-        "publishedAt": "2026-09-17T00:00:00.000Z"
-      },
-      {
         "category": "版权保护",
         "time": "04/29 08:00",
         "location": "国家版权局",
@@ -295,52 +284,30 @@ window.DHKM_CONTENT = {
         "source": "中国政府网",
         "url": "https://www.gov.cn/zhengce/202603/content_7063468.htm",
         "publishedAt": "2026-03-22T00:00:00+00:00"
+      },
+      {
+        "category": "版权动态",
+        "time": "03/20 08:00",
+        "location": "北京",
+        "title": "推进使用正版软件工作部际联席会议第十五次全体会议在京召开。",
+        "summary": "正版软件推进会议召开，反映版权治理和规范化使用软件的持续强化。",
+        "content": "这类信息会影响到软件采购、内容生产和版权治理方向，对创作行业和企业合规都有现实意义。",
+        "source": "国家版权局",
+        "url": "https://www.ncac.gov.cn/xxfb/ywxx/202603/t20260320_964877.html",
+        "publishedAt": "2026-03-20T00:00:00+00:00"
       }
     ],
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/26 12:51",
-        "location": "国家版权局",
-        "title": "通知公告。",
-        "summary": "通知公告",
-        "content": "通知公告",
-        "source": "国家版权局",
-        "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-26T04:51:52.118Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/26 11:26",
+        "time": "10/27 12:37",
         "location": "",
-        "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考。",
-        "summary": "近期，快手举办了为期数日、全员参与的1024嘉年华系列活动。活动以“持续创造”为主题，旨在让AI成为每位快手人的创新生产力。",
-        "content": "近期，快手举办了为期数日、全员参与的1024嘉年华系列活动。活动以“持续创造”为主题，旨在让AI成为每位快手人的创新生产力。",
+        "title": "政策发力稳投资 多地加快推进四季度重大项目建设。",
+        "summary": "近期，多地加快推进四季度重大项目建设。从资金来看，9月以来专项债发行明显加快，加上新型政策性金融工具、10月启用的地方债结余限额等，政策发力稳投资意图明显。专家测算四季度有超…",
+        "content": "近期，多地加快推进四季度重大项目建设。从资金来看，9月以来专项债发行明显加快，加上新型政策性金融工具、10月启用的地方债结余限额等，政策发力稳投资意图明显。专家测算四季度有超5万亿元政府债待发，为四季度及全年投资回升提供支撑。",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
-        "publishedAt": "2026-10-26T03:26:54.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/26 11:05",
-        "location": "",
-        "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人。",
-        "summary": "这场“考试”，允许带手机，允许讨论，还能现场问医生。",
-        "content": "这场“考试”，允许带手机，允许讨论，还能现场问医生。",
-        "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720906.shtml",
-        "publishedAt": "2026-10-26T03:05:12.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/26 09:53",
-        "location": "",
-        "title": "AI对数学意味着什么？数学的边界与规则怎么变？。",
-        "summary": "AI对数学意味着什么",
-        "content": "AI对数学意味着什么",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720951.shtml",
-        "publishedAt": "2026-10-26T01:53:31.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721560.shtml",
+        "publishedAt": "2026-10-27T04:37:56.000Z"
       },
       {
         "category": "行业动向",
