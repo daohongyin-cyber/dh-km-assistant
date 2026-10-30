@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-10-29T05:52:05.840Z",
+  "updatedAt": "2026-10-30T05:53:44.674Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "10/29 13:52",
+        "time": "10/30 13:53",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-29T05:52:05.370Z"
+        "publishedAt": "2026-10-30T05:53:44.458Z"
       },
       {
         "category": "政策新规",
@@ -300,36 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "10/29 13:52",
+        "time": "10/30 13:53",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-10-29T05:52:05.370Z"
+        "publishedAt": "2026-10-30T05:53:44.458Z"
       },
       {
         "category": "行业动向",
-        "time": "10/29 11:21",
-        "location": "重庆",
-        "title": "去夜校“造”AI漫剧：青年渴望从“看客”变“主创”。",
-        "summary": "中新网重庆10月29日电 题：去夜校“造”AI漫剧：青年渴望从“看客”变“主创”",
-        "content": "中新网重庆10月29日电 题：去夜校“造”AI漫剧：青年渴望从“看客”变“主创”",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722632.shtml",
-        "publishedAt": "2026-10-29T03:21:40.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/29 11:14",
+        "time": "10/30 12:00",
         "location": "",
-        "title": "看病先问AI？只可做“参谋”不能当“大夫”。",
-        "summary": "本报记者 张佳琪 刘苏雅",
-        "content": "本报记者 张佳琪 刘苏雅",
-        "source": "中新网社会",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722633.shtml",
-        "publishedAt": "2026-10-29T03:14:29.000Z"
+        "title": "A股午评：超2800只个股飘绿，三大指数集体收跌。",
+        "summary": "A股午评：超2800只个股飘绿，三大指数集体收跌；AI大模型概念股下挫，通信设备、半导体、贵金属下跌；医药、白酒、油气上涨",
+        "content": "A股午评：超2800只个股飘绿，三大指数集体收跌；AI大模型概念股下挫，通信设备、半导体、贵金属下跌；医药、白酒、油气上涨",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
+        "publishedAt": "2026-10-30T04:00:46.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "10/30 11:35",
+        "location": "",
+        "title": "新一代冰穹风冷散热系统携手旗舰双芯 iQOO Neo12正式发布。",
+        "summary": "2026年10月28日，“凭实力敢争锋”iQOO Neo12正式发布并已全渠道开售，叠加平台优惠和国补以及首销优惠，到手价低至3149元。Neo12首发采用“天空之镜”发光材…",
+        "content": "2026年10月28日，“凭实力敢争锋”iQOO Neo12正式发布并已全渠道开售，叠加平台优惠和国补以及首销优惠，到手价低至3149元。Neo12首发采用“天空之镜”发光材料的2K185Hz超冠屏，开创手机屏幕“超高清超高刷兼得”的新时代，更在新一代冰穹风冷散热系统、第五代骁龙8至尊版与自研电竞芯片 Q3的共同努力下，实现 Ultra级性能统治力。Neo12将与 iQOO16共同形成双旗舰布局— iQOO数字旗舰面向未来科技探索，持续拓展性能旗舰体验的边界；Neo系列聚焦极致性能释放，满足极致玩家的性能游戏需求。",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723216.shtml",
+        "publishedAt": "2026-10-30T03:35:01.000Z"
       },
       {
         "category": "行业动向",
@@ -341,17 +341,6 @@ window.DHKM_CONTENT = {
         "source": "中新网法治",
         "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722531.shtml",
         "publishedAt": "2026-10-29T01:17:39.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "10/28 09:37",
-        "location": "",
-        "title": "改名“搬运”AI微短剧是否构成侵权？。",
-        "summary": "本报记者 何正鑫",
-        "content": "本报记者 何正鑫",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
-        "publishedAt": "2026-10-28T01:37:21.000Z"
       },
       {
         "category": "行业动向",
