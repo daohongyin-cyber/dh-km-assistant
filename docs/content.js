@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-11-12T07:15:38.945Z",
+  "updatedAt": "2026-11-13T06:50:04.748Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "11/12 15:15",
+        "time": "11/13 14:50",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-11-12T07:15:38.811Z"
+        "publishedAt": "2026-11-13T06:50:04.286Z"
       },
       {
         "category": "政策新规",
@@ -300,47 +300,36 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "11/12 15:15",
+        "time": "11/13 14:50",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-11-12T07:15:38.811Z"
+        "publishedAt": "2026-11-13T06:50:04.286Z"
       },
       {
         "category": "行业动向",
-        "time": "11/12 15:01",
+        "time": "11/13 13:20",
         "location": "",
-        "title": "我国网络消费供给持续丰富 为消费市场扩容提质注入新活力。",
-        "summary": "进入四季度，一系列提振消费的活动接连推出，从人工智能新品到居家养老服务，网络消费供给持续丰富，为国内消费市场扩容提质注入新活力。",
-        "content": "进入四季度，一系列提振消费的活动接连推出，从人工智能新品到居家养老服务，网络消费供给持续丰富，为国内消费市场扩容提质注入新活力。",
+        "title": "AI时代，软件产业靠什么赢得竞争。",
+        "summary": "成 蹊",
+        "content": "成 蹊",
         "source": "中新网财经",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730805.shtml",
-        "publishedAt": "2026-11-12T07:01:52.000Z"
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731424.shtml",
+        "publishedAt": "2026-11-13T05:20:57.000Z"
       },
       {
         "category": "行业动向",
-        "time": "11/11 17:29",
+        "time": "11/13 11:50",
         "location": "",
-        "title": "原创内容被判“AI生成未标识” 用户起诉平台，法院认定→。",
-        "summary": "原创内容被判“AI生成未标识” 用户把平台告了",
-        "content": "原创内容被判“AI生成未标识” 用户把平台告了",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730318.shtml",
-        "publishedAt": "2026-11-11T09:29:59.000Z"
-      },
-      {
-        "category": "行业动向",
-        "time": "11/11 16:16",
-        "location": "",
-        "title": "“入坑”容易退费难，AI短视频培训套路层出不穷。",
-        "summary": "声称“认字就能学” 层层收费“无底洞”“入坑”容易退费难",
-        "content": "声称“认字就能学” 层层收费“无底洞”“入坑”容易退费难",
-        "source": "中新网法治",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730253.shtml",
-        "publishedAt": "2026-11-11T08:16:47.000Z"
+        "title": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌。",
+        "summary": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌；银行、传媒、酒类上涨，光刻机、物理AI走高；通信设备、半导体、零售下跌",
+        "content": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌；银行、传媒、酒类上涨，光刻机、物理AI走高；通信设备、半导体、零售下跌",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731398.shtml",
+        "publishedAt": "2026-11-13T03:50:58.000Z"
       },
       {
         "category": "行业动向",
