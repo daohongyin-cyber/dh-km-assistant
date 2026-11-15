@@ -1,5 +1,5 @@
 window.DHKM_CONTENT = {
-  "updatedAt": "2026-11-14T06:29:19.478Z",
+  "updatedAt": "2026-11-15T06:38:46.977Z",
   "views": {
     "latest": {
       "kicker": "实时更新",
@@ -78,14 +78,14 @@ window.DHKM_CONTENT = {
     "policy": [
       {
         "category": "政策新规",
-        "time": "11/14 14:29",
+        "time": "11/15 14:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-11-14T06:29:19.107Z"
+        "publishedAt": "2026-11-15T06:38:46.777Z"
       },
       {
         "category": "政策新规",
@@ -300,25 +300,47 @@ window.DHKM_CONTENT = {
     "industry": [
       {
         "category": "行业动向",
-        "time": "11/14 14:29",
+        "time": "11/15 14:38",
         "location": "国家版权局",
         "title": "通知公告。",
         "summary": "通知公告",
         "content": "通知公告",
         "source": "国家版权局",
         "url": "https://www.ncac.gov.cn/",
-        "publishedAt": "2026-11-14T06:29:19.107Z"
+        "publishedAt": "2026-11-15T06:38:46.777Z"
       },
       {
         "category": "行业动向",
-        "time": "11/14 09:18",
+        "time": "11/15 13:55",
         "location": "",
-        "title": "特朗普：美空管系统故障疑由老旧破损的基础设施所致。",
-        "summary": "中新网11月14日电 据美国福克斯新闻频道报道，美国总统特朗普13日表示，美国空管系统故障与网络攻击或人工智能无关，疑由老旧、破损的基础设施导致。",
-        "content": "中新网11月14日电 据美国福克斯新闻频道报道，美国总统特朗普13日表示，美国空管系统故障与网络攻击或人工智能无关，疑由老旧、破损的基础设施导致。",
-        "source": "中新网国际",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731897.shtml",
-        "publishedAt": "2026-11-14T01:18:42.000Z"
+        "title": "国产AI漫剧，抢占全球。",
+        "summary": "中国新闻周刊记者：孟倩",
+        "content": "中国新闻周刊记者：孟倩",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
+        "publishedAt": "2026-11-15T05:55:30.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "11/15 13:52",
+        "location": "",
+        "title": "科技巨头押注AI制药。",
+        "summary": "中国新闻周刊记者：牛荷",
+        "content": "中国新闻周刊记者：牛荷",
+        "source": "中新网财经",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
+        "publishedAt": "2026-11-15T05:52:20.000Z"
+      },
+      {
+        "category": "行业动向",
+        "time": "11/15 09:19",
+        "location": "",
+        "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？。",
+        "summary": "最近，不少人在短视频里刷到一类AI生成的“食品科普”：南瓜里有葫芦素，做成辅食可能毒死婴儿；桑葚是“水果之王”，晒干后所有营养还能翻8倍。画面像模像样，语气笃定，很多人顺手就…",
+        "content": "最近，不少人在短视频里刷到一类AI生成的“食品科普”：南瓜里有葫芦素，做成辅食可能毒死婴儿；桑葚是“水果之王”，晒干后所有营养还能翻8倍。画面像模像样，语气笃定，很多人顺手就转发给了家人。乍一看，这些科普背后似乎都有科学原理，仔细查阅却会发现，AI只摘取了最有冲击力的极端情况，直接过滤掉了很多必要条件。这种半真半假的内容，比纯粹的编造更难分辨。",
+        "source": "中新网社会",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
+        "publishedAt": "2026-11-15T01:19:59.000Z"
       },
       {
         "category": "行业动向",
